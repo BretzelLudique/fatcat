@@ -5,3 +5,16 @@ React Navigation :
 -> react-native-screens
 -> react-native-safe-area-context
 -> @react-native-community/masked-view
+
+react-native-image-zoom-viewer
+npm install react-native-image-zoom-viewer
+
+easy-gestures hmmmmmmmmm
+npm install --save react-native-easy-gestures
+
+React Native Image has blurred render on large images
+npm install react-native-fast-image
+
+gmaps
+npm install react-native-maps
+#TODO : iOS part lhttps://gikspirit.com/integrer-google-maps-application-react-native/#Integration_de_google_Maps_dans_une_application_React_Native_avec_react-native-cli_Alternative
