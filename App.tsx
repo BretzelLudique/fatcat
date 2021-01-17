@@ -23,20 +23,30 @@ import {
 
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
+import { RootStackParamList } from './src/types';
 
-import {MapHomeScreen} from './src/MapHomeScreen';
-import {RootStackParamList} from './src/types';
+import { MapHomeScreen } from './src/MapHomeScreen';
+import { Test } from './src/Test';
+
 
 const RootStack = createStackNavigator<RootStackParamList>();
 
 const App = () => {
 	return (
 		<NavigationContainer>
-			<RootStack.Navigator>
+			<RootStack.Navigator
+				screenOptions={{
+					headerShown: false
+				}}
+			>
 				<RootStack.Screen
 					name="MapHomeScreen"
 					component={MapHomeScreen}
-					options={{ title: 'Welcome' }}
+				//options={{ title: 'Welcome' }}
+				/>
+				<RootStack.Screen
+					name='MetroStop'
+					component={Test}
 				/>
 			</RootStack.Navigator>
 		</NavigationContainer>

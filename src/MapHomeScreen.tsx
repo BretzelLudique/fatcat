@@ -1,34 +1,62 @@
+import { PinchGestureHandler, State } from 'react-native-gesture-handler';
 import React from 'react';
 import {
-    Button,
-    SafeAreaView,
-    StyleSheet,
-    ScrollView,
-    View,
-    Text,
-    StatusBar,
     Image,
+    StyleSheet,
+    View,
+    ScrollView,
+    Dimensions,
+    Button,
 } from 'react-native';
-import { StackNavigationProp } from '@react-navigation/stack';
 
-import { RootStackParamList } from './types';
+import { Props } from './types';
 
-type MetroStopScreenNavigationProp = StackNavigationProp<
-    RootStackParamList,
-    'MapHomeScreen'
->;
-
-type Props = {
-    navigation: MetroStopScreenNavigationProp;
-};
+const win = Dimensions.get('window');
+const ratio = win.width / 2268;
 
 export const MapHomeScreen = ({ navigation }: Props) => {
+
     return (
-        <View>
-            <Image
-                style={{resizeMode: 'cover'}}
-                source={require('../ratp_plan_metro.png')}
+        <ScrollView
+            horizontal
+            bounces={false}
+        >
+            <ScrollView
+                nestedScrollEnabled
+                bounces={false}
+                // You will need to figure out the height of inner content yourself
+                contentContainerStyle={{ height: 2268 }}
+            >
+                <View>
+                <Button
+                title="MetroStop"
+                onPress={() =>
+                    navigation.navigate('MetroStop', { stopName: "yo" })
+                }
             />
-        </View>
+                    <Image
+                        style={styles.map2}
+                        source={require('../ratp_plan_metro.jpg')}
+                    />
+                </View>
+            </ScrollView>
+        </ScrollView>
     );
 }
+
+const styles = StyleSheet.create({
+    container: {
+        //flex: 1,
+        //justifyContent: 'center',
+        //alignItems: 'center'
+    },
+    map: {
+        width: Dimensions.get('window').width,
+        //height: Dimensions.get('window').height,
+        //transform: [{ scale: scale }],
+    },
+    map2: {
+        width: 2268,
+        height: 2268,
+    },
+});
