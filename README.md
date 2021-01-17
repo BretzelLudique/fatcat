@@ -3,7 +3,7 @@
 Le métro de notre belle capitale regorge de jolies histoires à raconter. Apprenez en plus sur les noms des arrêts, les choses à faire autour, et bien plus encore (lorsque le projet sera fini) !
 
 ## Prérequis (à l'installation)
-nodeJS, npm
+nodeJS, npm, un émulateur android (android studio, genymotion, ou autre)
 
 ## Installation
 'npm install && npm run start'
@@ -16,6 +16,8 @@ nodeJS, npm
 - Un 2e écran
 
 ## Ce qui sera fait sous peu
+- déployer une version web, en page github (react-native-web)
+
 - Récupérer la position sur la carte de chaque arrêt de métro
 
 - position sur écran -> position sur carte

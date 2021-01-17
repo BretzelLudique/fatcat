@@ -15,11 +15,7 @@
     "@react-navigation/stack": "^5.13.0",
     "react": "16.13.1",
     "react-native": "0.63.4",
-    "react-native-easy-gestures": "^2.2.4",
-    "react-native-fast-image": "^8.3.4",
     "react-native-gesture-handler": "^1.9.0",
-    "react-native-image-pan-zoom": "^2.1.12",
-    "react-native-maps": "^0.27.1",
     "react-native-reanimated": "^1.13.2",
     "react-native-safe-area-context": "^3.1.9",
     "react-native-screens": "^2.16.1"
