@@ -2,61 +2,49 @@ import { PinchGestureHandler, State } from 'react-native-gesture-handler';
 import React from 'react';
 import {
     Image,
+    ImageBackground,
     StyleSheet,
     View,
     ScrollView,
     Dimensions,
     Button,
 } from 'react-native';
-
 import { Props } from './types';
+import MapView, { PROVIDER_GOOGLE } from 'react-native-maps';
 
-const win = Dimensions.get('window');
-const ratio = win.width / 2268;
 
 export const MapHomeScreen = ({ navigation }: Props) => {
 
     return (
-        <ScrollView
-            horizontal
-            bounces={false}
-        >
-            <ScrollView
-                nestedScrollEnabled
-                bounces={false}
-                // You will need to figure out the height of inner content yourself
-                contentContainerStyle={{ height: 2268 }}
+        <View style={styles.container}>
+            <MapView
+                provider={PROVIDER_GOOGLE} // remove if not using Google Maps
+                style={styles.map}
+                region={{
+                    latitude: 48.856614,
+                    longitude: 2.3322219,
+                    latitudeDelta: 0.2,
+                    longitudeDelta: 0.2,
+                }}
             >
-                <View>
-                <Button
-                title="MetroStop"
+            </MapView>
+            <Button
+                title="(temporary button) MetroStop"
                 onPress={() =>
                     navigation.navigate('MetroStop', { stopName: "yo" })
                 }
             />
-                    <Image
-                        style={styles.map2}
-                        source={require('../ratp_plan_metro.jpg')}
-                    />
-                </View>
-            </ScrollView>
-        </ScrollView>
+        </View>
     );
 }
 
 const styles = StyleSheet.create({
     container: {
-        //flex: 1,
-        //justifyContent: 'center',
-        //alignItems: 'center'
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center'
     },
-    map: {
-        width: Dimensions.get('window').width,
-        //height: Dimensions.get('window').height,
-        //transform: [{ scale: scale }],
-    },
-    map2: {
-        width: 2268,
-        height: 2268,
-    },
+      map: {
+        ...StyleSheet.absoluteFillObject,
+      },
 });
