@@ -29,7 +29,13 @@ nodeJS, npm, et un device : soit un tel android, soit un émulateur android (and
 
 # gmaps API key
 
-Une clef API gmaps est en clair dans le code source. Cette clef est restreinte à l'API "maps SDK for Android" et clef ne permet que l'utilisation des services gratuits, ce qui empêche toute utilisation mal intentionnée
+Une clef API gmaps est en clair dans le code source. Cette clef est restreinte à l'API "maps SDK for Android" et ne permet que l'utilisation des services gratuits, ce qui empêche toute utilisation mal intentionnée
 
 (billable requests: quota set to 0/day, 0/minute, 0/min/user).
 
+# Au sujet des textes du 2e ecran
+les petites histoires sont entierement faites a la main par Baptiste Pitel, quel boss !
+
+"mdr j'invente rien hein ! merci internet ! y'a déjà un dico de dispo et ensuite j'affine avec des infos supplémentaires ou j'enlève le superflu" 
+
+Et en plus il est modeste...
