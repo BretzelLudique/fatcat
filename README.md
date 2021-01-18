@@ -26,3 +26,10 @@ nodeJS, npm, et un device : soit un tel android, soit un émulateur android (and
 - Mettre le texte correspondant à chaque arrêt de métro au 2e écran
 
 - déployer une version web, en page github (react-native-web)
+
+# gmaps API key
+
+Une clef API gmaps est en clair dans le code source. Cette clef est restreinte à l'API "maps SDK for Android" et clef ne permet que l'utilisation des services gratuits, ce qui empêche toute utilisation mal intentionnée
+
+(billable requests: quota set to 0/day, 0/minute, 0/min/user).
+
