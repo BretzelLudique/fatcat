@@ -29,11 +29,18 @@ export const MapHomeScreen = ({ navigation }: Props) => {
             >
             </MapView>
             <Button
-                title="(temporary button) MetroStop"
+                title="(temporary button) Alesia"
                 onPress={() =>
-                    navigation.navigate('MetroStop', { stopName: "yo" })
+                    navigation.navigate('MetroStop', { stopName: "alesia" })
                 }
             />
+            <Button
+                title="(temporary button) Cluny - La Sorbonne"
+                onPress={() =>
+                    navigation.navigate('MetroStop', { stopName: "clunylasorbonne" })
+                }
+            />
+
         </View>
     );
 }
@@ -44,7 +51,7 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center'
     },
-      map: {
+    map: {
         ...StyleSheet.absoluteFillObject,
-      },
+    },
 });

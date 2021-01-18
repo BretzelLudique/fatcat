@@ -6,11 +6,16 @@ export type RootStackParamList = {
 	MetroStop: { stopName: string }; 
 };
 
+export type MetroStopScreenRouteProp = RouteProp<RootStackParamList, 'MetroStop'>;
+
 export type MetroStopScreenNavigationProp = StackNavigationProp<
     RootStackParamList,
-    'MapHomeScreen'
+    'MetroStop'
 >;
 
 export type Props = {
+    route: MetroStopScreenRouteProp;
     navigation: MetroStopScreenNavigationProp;
 };
+
+

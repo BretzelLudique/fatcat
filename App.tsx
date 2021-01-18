@@ -26,7 +26,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { RootStackParamList } from './src/types';
 
 import { MapHomeScreen } from './src/MapHomeScreen';
-import { Test } from './src/Test';
+import { MetroStop } from './src/MetroStop';
 
 
 const RootStack = createStackNavigator<RootStackParamList>();
@@ -46,7 +46,7 @@ const App = () => {
 				/>
 				<RootStack.Screen
 					name='MetroStop'
-					component={Test}
+					component={MetroStop}
 				/>
 			</RootStack.Navigator>
 		</NavigationContainer>
