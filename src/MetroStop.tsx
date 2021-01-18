@@ -18,11 +18,12 @@ export const MetroStop = ({ route, navigation }: Props) => {
 	//const filePath = "../txt/" + stopName + ".json";
 	const filePath = "../txt/clunylasorbonne.json"
 	const jsonData = require(filePath);
+	const bigjson = require("../txt/big.json")
 
 	return (
 		<ScrollView>
 			<Text>
-				{jsonData.text}
+				{bigjson.text9492}
 			</Text>
 		</ScrollView>
 
