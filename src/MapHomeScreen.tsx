@@ -48,10 +48,9 @@ export const MapHomeScreen = ({ navigation }: Props) => {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        justifyContent: 'center',
-        alignItems: 'center'
     },
     map: {
-        ...StyleSheet.absoluteFillObject,
+        flex: 1,
+        //...StyleSheet.absoluteFillObject,
     },
 });
