@@ -17,5 +17,3 @@ export type Props = {
     route: MetroStopScreenRouteProp;
     navigation: MetroStopScreenNavigationProp;
 };
-
-
