@@ -36,7 +36,7 @@ export const MapHomeScreen = ({ navigation }: Props) => {
                 />
                 <Image
                     style={styles.map2}
-                    source={require('../ratp_plan_metro.jpg')}
+                    source={require('../assets/img/ratp_plan_metro.jpg')}
                     resizeMethod="scale"
                 />
             </ScrollView>

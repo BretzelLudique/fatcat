@@ -4,7 +4,7 @@ Le métro de notre belle capitale regorge de jolies histoires à raconter. Appre
 
 Ne marche pour l'instant que sur Android
 
-![caption](demo_20jan.gif)
+![caption](pyscripts_and_misc/demo_20jan.gif)
   
   
   
