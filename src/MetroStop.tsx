@@ -16,13 +16,18 @@ export const MetroStop = ({ route, navigation }: Props) => {
 
 	const { stopName } = route.params;
 	//const filePath = "../txt/" + stopName + ".json";
-	const filePath = "../txt/clunylasorbonne.json"
+	const filePath = "../assets/txt/clunylasorbonne.json"
 	const jsonData = require(filePath);
-	const bigjson = require("../txt/big.json")
+	const bigjson = require("../assets/txt/big.json")
 
 	return (
 		<ScrollView>
-			<Text>
+			<Text
+			style={styles.text}>
+				Ici c'est {stopName} !
+				{"\n\n\n\n\n\n"}
+				Les textes ne sont pas encore tous prêts, voici celui de Cluny - La Sorbonne
+				{"\n\n\n\n\n\n"}
 				{bigjson.text9492}
 			</Text>
 		</ScrollView>
@@ -34,5 +39,8 @@ export const MetroStop = ({ route, navigation }: Props) => {
 const styles = StyleSheet.create({
 	container: {
 
+	},
+	text: {
+		
 	},
 });

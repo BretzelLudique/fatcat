@@ -1,32 +1,49 @@
 import { PinchGestureHandler, State } from 'react-native-gesture-handler';
 import React from 'react';
 import {
-    Image,
-    ImageBackground,
     StyleSheet,
     View,
-    ScrollView,
-    Dimensions,
     Button,
 } from 'react-native';
 import { Props } from './types';
-import MapView, { PROVIDER_GOOGLE } from 'react-native-maps';
+
+import MapView from "react-native-map-clustering";
+import { Marker, Callout } from 'react-native-maps';
 
 
 export const MapHomeScreen = ({ navigation }: Props) => {
 
+    const initialRegion = {
+        latitude: 48.856614,
+        longitude: 2.3322219,
+        latitudeDelta: 0.2,
+        longitudeDelta: 0.2,
+    }
+
+    const jsondata = require("../assets/marker_locs.json");
+    const stopMarkersArray = jsondata.stops.map((stop: any) => {
+        return (
+            <Marker
+                key={stop.name}
+                title={stop.name}
+                coordinate={stop.coordinate}
+                description={"Découvrir son histoire"}
+            >
+                <Callout
+                    onPress={() =>
+                        navigation.navigate('MetroStop', { stopName: stop.name })
+                }
+                />
+            </Marker>
+        )
+    })
     return (
         <View style={styles.container}>
             <MapView
-                provider={PROVIDER_GOOGLE} // remove if not using Google Maps
                 style={styles.map}
-                region={{
-                    latitude: 48.856614,
-                    longitude: 2.3322219,
-                    latitudeDelta: 0.2,
-                    longitudeDelta: 0.2,
-                }}
+                initialRegion={initialRegion}
             >
+                {stopMarkersArray}
             </MapView>
             <Button
                 title="(temporary button) Alesia"

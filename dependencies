@@ -8,3 +8,6 @@ React Navigation :
 
 https://github.com/react-native-maps/react-native-maps/blob/master/docs/installation.md
 npm install react-native-maps --save-exact
+
+https://github.com/venits/react-native-map-clustering
+npm install react-native-map-clustering react-native-maps --save
