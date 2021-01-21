@@ -15,7 +15,7 @@ def find_duplicate_index(candidate, data):
     """Returns the index of the occurrence of candidate in data. If no duplicate, returns -1"""
     i = 0
     for arret in data["stops"]:
-        if candidate['properties']['nom_gare'] == arret['name']:
+        if candidate['properties']['nomlong'] == arret['name']:
             return i
         i += 1
     return -1
@@ -25,7 +25,7 @@ def add_stop(arret, data):
 
     if duplicate_index == -1:  # == no duplicate
         data['stops'].append({
-            'name': arret['properties']['nom_gare'],
+            'name': arret['properties']['nomlong'],
             'coordinate': {
                 'latitude': arret['geometry']['coordinates'][1],
                 'longitude': arret['geometry']['coordinates'][0]
@@ -39,8 +39,9 @@ def add_stop(arret, data):
 
 with open(source_filename) as src_file:
     src_data = json.load(src_file)
-    for arret in src_data['features']:
-        add_stop(arret, data)
+
+for arret in src_data['features']:
+    add_stop(arret, data)
 
 with open(dest_filename, 'w') as dest_file:
     json.dump(data, dest_file)
