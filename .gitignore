@@ -64,4 +64,4 @@ buck-out/
 /ios/Pods/
 
 # Python
-tiny_pyscripts/__pycache__/
+pyscripts_and_misc/__pycache__/
