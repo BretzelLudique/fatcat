@@ -2,17 +2,17 @@ import React from 'react';
 import {
     StyleSheet,
     View,
-    Button,
+    Image,
 } from 'react-native';
-import { Props } from './types';
+import { Props, Stop, Poly } from './types';
 
 import MapView from "react-native-map-clustering";
-import { Marker, Callout, Polyline } from 'react-native-maps';
+import { Marker, Callout, Polyline, Region } from 'react-native-maps';
 
+import Metro from '../assets/img/metro.svg';
 
 export const MapHomeScreen = ({ navigation }: Props) => {
-
-    const initialRegion = {
+    const initialRegion: Region = {
         latitude: 48.856614,
         longitude: 2.3322219,
         latitudeDelta: 0.2,
@@ -20,25 +20,27 @@ export const MapHomeScreen = ({ navigation }: Props) => {
     }
 
     const markerLocs = require("../assets/marker_locs.json");
-    const stopMarkersArray = markerLocs.stops.map((stop: any) => {
+    const stopMarkersArray = markerLocs.stops.map((stop: Stop) => {
         return (
             <Marker
                 key={stop.name}
                 title={stop.name}
                 coordinate={stop.coordinate}
                 description={"Découvrir son histoire"}
+
             >
                 <Callout
                     onPress={() =>
                         navigation.navigate('MetroStop', { stopName: stop.name })
                     }
                 />
+                <Metro width={120} height={40} />
             </Marker>
         )
     })
 
     const polylineLocs = require("../assets/polyline_locs.json");
-    const linesArray = polylineLocs.polylines.map((polyline: any) => {
+    const linesArray = polylineLocs.polylines.map((polyline: Poly) => {
         return (
             <Polyline
                 key={polyline.ratpid}
@@ -49,11 +51,6 @@ export const MapHomeScreen = ({ navigation }: Props) => {
         )
     })
 
-    /* linegeojson.features.map((LineString: any) => {
-        console.log(LineString)
-    }) */
-
-    //console.log(lineLocs[0].fields.geo_shape)
     return (
         <View style={styles.container}>
             <MapView

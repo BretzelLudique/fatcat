@@ -6,8 +6,23 @@ React Navigation :
 -> react-native-safe-area-context
 -> @react-native-community/masked-view
 
+
 https://github.com/react-native-maps/react-native-maps/blob/master/docs/installation.md
 npm install react-native-maps --save-exact
 
+
 https://github.com/venits/react-native-map-clustering
 npm install react-native-map-clustering react-native-maps --save
+
+
+Use .svg files (pictogram):
+https://github.com/react-native-svg/react-native-svg
+npm install react-native-svg --save
+
+https://github.com/kristerkari/react-native-svg-transformer#installation-and-configuration
+npm install react-native-svg-transformer --save-dev
+    react-native-svg
+    @svgr/core
+    @svgr/plugin-svgo
+    path-dirname
+    semver

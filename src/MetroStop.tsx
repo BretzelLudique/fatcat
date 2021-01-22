@@ -1,22 +1,17 @@
-import { PinchGestureHandler, State } from 'react-native-gesture-handler';
+
 import React from 'react';
 import {
-	Animated,
 	StyleSheet,
-	View,
-	Image,
-	ImageBackground,
 	Text,
 	ScrollView,
-	Dimensions,
 } from 'react-native';
 import { Props } from './types';
 
-export const MetroStop = ({ route, navigation }: Props) => {
+export const MetroStop = ({ route }: Props) => {
 
 	const { stopName } = route.params;
-	const filePath = "../assets/txt/ligne1.json"
-	const jsonData = require(filePath);
+
+	const text = require("../assets/txt/NamedEmpty.json");
 
 	return (
 		<ScrollView>
@@ -24,9 +19,8 @@ export const MetroStop = ({ route, navigation }: Props) => {
 			style={styles.text}>
 				Ici c'est {stopName} !
 				{"\n\n\n\n\n\n"}
-				Les textes ne sont pas encore tous prêts, voici celui de Cluny - La Sorbonne
-				{"\n\n\n\n\n\n"}
-				{/* {jsonData.text9492} */}
+				{text[stopName] == "" && stopName + "  est en cours de pitoufaction... Revenez plus tard !"}
+				{text[stopName] != "" && text[stopName]}
 			</Text>
 		</ScrollView>
 

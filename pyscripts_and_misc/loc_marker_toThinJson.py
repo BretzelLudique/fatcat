@@ -30,12 +30,10 @@ def add_stop(arret, data):
                 'latitude': arret['geometry']['coordinates'][1],
                 'longitude': arret['geometry']['coordinates'][0]
             },
-            'line': arret['properties']['indice_lig']
+            'line': [arret['properties']['indice_lig']]
         })
     else:
-        data['stops'][duplicate_index]['line'] += ", " + \
-            arret['properties']['indice_lig']
-
+        data['stops'][duplicate_index]['line'].append(arret['properties']['indice_lig'])
 
 with open(source_filename) as src_file:
     src_data = json.load(src_file)
