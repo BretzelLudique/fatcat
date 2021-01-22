@@ -1,4 +1,3 @@
-import { PinchGestureHandler, State } from 'react-native-gesture-handler';
 import React from 'react';
 import {
     StyleSheet,
@@ -64,19 +63,6 @@ export const MapHomeScreen = ({ navigation }: Props) => {
                 {stopMarkersArray}
                 {linesArray}
             </MapView>
-            <Button
-                title="(temporary button) Alesia"
-                onPress={() =>
-                    navigation.navigate('MetroStop', { stopName: "alesia" })
-                }
-            />
-            <Button
-                title="(temporary button) Cluny - La Sorbonne"
-                onPress={() =>
-                    navigation.navigate('MetroStop', { stopName: "clunylasorbonne" })
-                }
-            />
-
         </View>
     );
 }
