@@ -44,7 +44,10 @@ les petites histoires sont entierement faites a la main par Baptiste Pitel, quel
 
 Et en plus il est modeste...
 
-Les donnees relatives au metro ont ete recuperees sur https://data.iledefrance-mobilites.fr/explore/dataset/emplacement-des-gares-idf/export/?refine.mode=Metro
+Les donnees relatives au metro ont ete recuperees ici :
+https://data.iledefrance-mobilites.fr/explore/dataset/emplacement-des-gares-idf/export/?refine.mode=Metro
+https://data.iledefrance-mobilites.fr/explore/dataset/traces-du-reseau-ferre-idf/export/?refine.mode=Metro
+https://data.ratp.fr/explore/dataset/pictogrammes-des-lignes-de-metro-rer-tramway-bus-et-noctilien/information/
 
 Ces donnees sont sous License ouverte (Etalab), consultable : https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf
 
