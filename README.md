@@ -1,6 +1,9 @@
 # Carte interactive du métro de Paris
 
-Le métro de notre belle capitale regorge de jolies histoires à raconter. Apprenez en plus sur les noms des arrêts, les choses à faire autour, et bien plus encore (lorsque le projet sera fini) !
+Alma-Marceau, Barbès-Rochechouart, Dugommier ou encore Marx Dormoy. Si vous empruntez le métro parisien, ces noms vous disent forcément quelque chose. Mais sauriez-vous resituer leur époque ou même le domaine qui a rendu ces personnes célèbres ? 
+Les stations de métro portent le plus souvent le nom de rues ou de quartiers qu’elles desservent, mais il existe en fait une multitude d’histoires à raconter autour de ces noms. Cette application vous propose d’en détailler la provenance en développant de manière très succincte les éléments historiques associés. 
+Parcourez l’Histoire de France et (re)découvrez l’origine des noms des 303 stations du métro parisien !
+
 
 Ne marche pour l'instant que sur Android
 
