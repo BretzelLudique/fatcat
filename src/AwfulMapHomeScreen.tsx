@@ -10,12 +10,12 @@ import {
     Button,
 } from 'react-native';
 
-import { Props } from './types';
+import { NavProps } from './types';
 
 const win = Dimensions.get('window');
 const ratio = win.width / 2268;
 
-export const MapHomeScreen = ({ navigation }: Props) => {
+export const MapHomeScreen = ({ navigation }: NavProps) => {
 
     return (
         <ScrollView
