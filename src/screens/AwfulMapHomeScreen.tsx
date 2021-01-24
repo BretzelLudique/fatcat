@@ -10,7 +10,7 @@ import {
     Button,
 } from 'react-native';
 
-import { NavProps } from '../../types';
+import { NavProps } from '../types';
 
 const win = Dimensions.get('window');
 const ratio = win.width / 2268;

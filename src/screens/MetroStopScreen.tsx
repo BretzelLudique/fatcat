@@ -4,18 +4,21 @@ import {
 	Text,
 	ScrollView,
 } from 'react-native';
-import { NavProps } from '../../types';
+import { NavProps } from '../types';
+import { useTheme } from 'react-native-paper';
 
 export const MetroStop = ({ route }: NavProps): JSX.Element => {
 
 	const { stopName } = route.params;
 
-	const text = require("../../../assets/txt/NamedEmpty.json");
+	const text = require("../../assets/txt/ligne1.json");
+
+	const {colors} = useTheme();
 
 	return (
 		<ScrollView>
 			<Text
-				style={styles.text}>
+				style={[styles.text, {color:colors.primary}]}>
 				Ici c'est {stopName} !
 				{"\n\n\n\n\n\n"}
 				{text[stopName] == "" && stopName + "  est en cours de pitoufaction... Revenez plus tard !"}
@@ -32,6 +35,5 @@ const styles = StyleSheet.create({
 
 	},
 	text: {
-
 	},
 });

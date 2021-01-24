@@ -3,11 +3,11 @@ import {
     StyleSheet,
     View,
 } from 'react-native';
-import { NavProps } from '../../types';
+import { NavProps } from '../types';
 
-import { ParisMapView } from '../map/ParisMapView';
-import { StopMarkers } from '../map/StopMarkers';
-import { LinePolylines } from '../map/LinePolylines'
+import { ParisMapView } from '../components/map/ParisMapView';
+import { StopMarkers } from '../components/map/StopMarkers';
+import { LinePolylines } from '../components/map/LinePolylines'
 
 export const MapHomeScreen = ({ navigation }: NavProps): JSX.Element => {
     return (

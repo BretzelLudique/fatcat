@@ -1,6 +1,7 @@
 import React from 'react';
 import {
     StyleSheet,
+    Dimensions,
 } from 'react-native';
 
 import MapView from "react-native-map-clustering";
@@ -34,7 +35,7 @@ export const ParisMapView = ({ children }: WithChildren): JSX.Element => {
             initialRegion={ParisRegion}
             loadingEnabled={true}
             customMapStyle={mapStyle}
-            //tracksViewChanges={false}
+            tracksViewChanges={false}
 
             showsCompass={false}
             showsScale={false}
@@ -42,9 +43,9 @@ export const ParisMapView = ({ children }: WithChildren): JSX.Element => {
             showsTraffic={false}
             showsIndoors={false}
 
-        //minPoints={2}
-        //radius={Dimensions.get("window").width * 0.06}
-        //clusterColor="#0A0082"
+            //minPoints={2}
+            radius={Dimensions.get("window").width * 0.17}
+            clusterColor="#0A0082"
         >
             {children}
         </MapView>
