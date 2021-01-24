@@ -4,13 +4,13 @@ import {
 	Text,
 	ScrollView,
 } from 'react-native';
-import { NavProps } from './types';
+import { NavProps } from '../../types';
 
 export const MetroStop = ({ route }: NavProps): JSX.Element => {
 
 	const { stopName } = route.params;
 
-	const text = require("../assets/txt/NamedEmpty.json");
+	const text = require("../../../assets/txt/NamedEmpty.json");
 
 	return (
 		<ScrollView>

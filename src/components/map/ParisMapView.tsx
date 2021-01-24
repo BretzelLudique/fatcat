@@ -17,12 +17,24 @@ export const ParisMapView = ({ children }: WithChildren): JSX.Element => {
         longitudeDelta: 0.2,
     }
 
+    const mapStyle = [
+        {
+            "featureType": "transit.station.rail",
+            "elementType": "labels.icon",
+            "stylers": [
+                {
+                    "visibility": "off"
+                }
+            ]
+        }
+    ]
     return (
         <MapView
             style={styles.map}
             initialRegion={ParisRegion}
             loadingEnabled={true}
-            tracksViewChanges={false}
+            customMapStyle={mapStyle}
+            //tracksViewChanges={false}
 
             showsCompass={false}
             showsScale={false}
@@ -30,9 +42,9 @@ export const ParisMapView = ({ children }: WithChildren): JSX.Element => {
             showsTraffic={false}
             showsIndoors={false}
 
-            //minPoints={2}
-            //radius={Dimensions.get("window").width * 0.06}
-            clusterColor="#0A0082"
+        //minPoints={2}
+        //radius={Dimensions.get("window").width * 0.06}
+        //clusterColor="#0A0082"
         >
             {children}
         </MapView>

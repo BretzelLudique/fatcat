@@ -10,7 +10,7 @@ import {
     Button,
 } from 'react-native';
 
-import { NavProps } from './types';
+import { NavProps } from '../../types';
 
 const win = Dimensions.get('window');
 const ratio = win.width / 2268;
@@ -36,7 +36,7 @@ export const MapHomeScreen = ({ navigation }: NavProps) => {
                 />
                 <Image
                     style={styles.map2}
-                    source={require('../assets/img/ratp_plan_metro.jpg')}
+                    source={require('../../assets/img/ratp_plan_metro.jpg')}
                     resizeMethod="scale"
                 />
             </ScrollView>

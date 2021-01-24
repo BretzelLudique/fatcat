@@ -25,8 +25,8 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { RootStackParamList } from './src/types';
 
-import { MapHomeScreen } from './src/MapHomeScreen';
-import { MetroStop } from './src/MetroStop';
+import { MapHomeScreen } from './src/components/screens/MapHomeScreen';
+import { MetroStop } from './src/components/screens/MetroStopScreen';
 
 
 const RootStack = createStackNavigator<RootStackParamList>();

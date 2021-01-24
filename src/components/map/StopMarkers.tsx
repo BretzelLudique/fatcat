@@ -12,20 +12,30 @@ export const StopMarkers = (navigation: MetroStopScreenNavigationProp): JSX.Elem
             <Marker
                 key={stop.name}
                 title={stop.name}
-                coordinate={stop.coordinate}
                 description={"Découvrir son histoire"}
+                coordinate={stop.coordinate}
+
+                anchor={{ 'x': 0.5, 'y': 0.5 }}
+                calloutAnchor={{ 'x': 0.5, 'y': 0 }} //in same coord system as anchor
                 tracksViewChanges={false}
+                stopPropagation={true}
+
+                onCalloutPress={() =>
+                    navigation.navigate('MetroStop', { stopName: stop.name })}
 
             >
-                <Metro width={20} height={20} />
+                <Metro
+                    width={20}
+                    height={20}
+                />
                 {/* <Image style={{ width: 20, height: 20 }}
                     source={require("../assets/img/metro.png")}/> */}
 
-                <Callout
+                {/* <Callout
                     onPress={() =>
                         navigation.navigate('MetroStop', { stopName: stop.name })
                     }
-                />
+                /> */}
             </Marker>
         )
     })
