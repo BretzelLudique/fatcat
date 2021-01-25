@@ -13,12 +13,12 @@ export const ParisMapView = ({ children }: WithChildren): JSX.Element => {
 
     const ParisRegion: Region = {
         latitude: 48.856614,
-        longitude: 2.3322219,
-        latitudeDelta: 0.2,
-        longitudeDelta: 0.2,
+        longitude: 2.342,
+        latitudeDelta: 0.13,
+        longitudeDelta: 0.13,
     }
 
-    const mapStyle = [
+    /* const mapStyle = [
         {
             "featureType": "transit.station.rail",
             "elementType": "labels.icon",
@@ -28,13 +28,15 @@ export const ParisMapView = ({ children }: WithChildren): JSX.Element => {
                 }
             ]
         }
-    ]
+    ] */
+
+    const RetroStyle = require("./styles.json");
     return (
         <MapView
             style={styles.map}
             initialRegion={ParisRegion}
             loadingEnabled={true}
-            customMapStyle={mapStyle}
+            customMapStyle={RetroStyle}
             tracksViewChanges={false}
 
             showsCompass={false}
@@ -44,7 +46,9 @@ export const ParisMapView = ({ children }: WithChildren): JSX.Element => {
             showsIndoors={false}
 
             //minPoints={2}
-            radius={Dimensions.get("window").width * 0.17}
+            radius={Dimensions.get("window").width * 0.06}
+            extent={150}
+            //maxZoom={17}
             clusterColor="#0A0082"
         >
             {children}

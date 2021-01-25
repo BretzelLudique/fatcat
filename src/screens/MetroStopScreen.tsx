@@ -18,7 +18,13 @@ export const MetroStop = ({ route }: NavProps): JSX.Element => {
 	return (
 		<ScrollView>
 			<Text
-				style={[styles.text, {color:colors.primary}]}>
+				style={
+					//[
+					styles.text
+					//, 
+				//{color:colors.primary}
+				//]
+				}>
 				Ici c'est {stopName} !
 				{"\n\n\n\n\n\n"}
 				{text[stopName] == "" && stopName + "  est en cours de pitoufaction... Revenez plus tard !"}
@@ -35,5 +41,6 @@ const styles = StyleSheet.create({
 
 	},
 	text: {
+		fontFamily: 'serif'
 	},
 });

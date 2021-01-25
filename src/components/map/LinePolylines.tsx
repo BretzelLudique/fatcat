@@ -12,7 +12,7 @@ export const LinePolylines = (): JSX.Element[] => {
                 key={polyline.ratpid}
                 coordinates={polyline.coordinates}
                 strokeColor={polyline.color}
-                strokeWidth={4}
+                strokeWidth={3.5}
                 //geodesic={true}
             />
         )

@@ -1,0 +1,23 @@
+afficher le nom des arrets, recuperer niveau de zoom
+
+
+
+1a. regarder comment api gmaps affiche icone metro (essayer de le cacher sans cacher texte)
+1b. sinon, afficher nom station soi meme (ne pas oublier de le mettre en children de map)
+
+2   disparition du nom quand on clique sur la station (car affiché dans callout)
+
+
+
+custom callout (ne pas oublier ComponentDidMount => {})
+    https://www.architecture-art-deco.fr/images/metro/Station%20metro%20Abbesses%20Art%20Nouveau.jpg
+
+
+
+fonts: times new roman, serif
+
+2e ecran:
+    relief https://img.gadgethacks.com/img/47/20/63683852113528/0/compared-5-best-reddit-apps-for-android.w1456.jpg
+
+    /center, gras, assez gros{stopName}
+    textbody justifie
