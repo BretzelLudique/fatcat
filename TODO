@@ -21,3 +21,12 @@ fonts: times new roman, serif
 
     /center, gras, assez gros{stopName}
     textbody justifie
+    
+    
+
+3. retirer les routes départementales pour épurer 
+ - https://mapstyle.withgoogle.com/?fbclid=IwAR2XP-s1S4q2Kzt-gJjsD8uXbBLNdxWIMUk3IJU6zCVZ0jm7Yj9vL03jteg : Road ->Highway -> Geometry -> stroke -> Passer Ligthness à 100
+4. Insérer new icon metro (sans contour blanc carré)
+5. Revoir la couleur des cluster pour la rendre plus sobre
+6. Ajouter un bouton sur le 2e écran "Afficher sur la Carte" pour revenir sur la carte
+ 
