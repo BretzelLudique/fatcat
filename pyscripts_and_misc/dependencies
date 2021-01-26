@@ -30,3 +30,4 @@ npm install react-native-svg-transformer --save-dev
 
 https://callstack.github.io/react-native-paper/index.html
 npm install react-native-paper --save
+    npm install deepmerge --save (merge themes)

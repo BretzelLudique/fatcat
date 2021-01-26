@@ -13,7 +13,7 @@ export const MetroStop = ({ route }: NavProps): JSX.Element => {
 
 	const text = require("../../assets/txt/ligne1.json");
 
-	const {colors} = useTheme();
+	const { colors } = useTheme();
 
 	return (
 		<ScrollView>
@@ -22,10 +22,12 @@ export const MetroStop = ({ route }: NavProps): JSX.Element => {
 					//[
 					styles.text
 					//, 
-				//{color:colors.primary}
-				//]
+					//{color:colors.primary}
+					//]
 				}>
-				Ici c'est {stopName} !
+				<Text style={styles.text}>
+					Ici c'est {stopName} !
+				</Text>
 				{"\n\n\n\n\n\n"}
 				{text[stopName] == "" && stopName + "  est en cours de pitoufaction... Revenez plus tard !"}
 				{text[stopName] != "" && text[stopName]}
@@ -41,6 +43,8 @@ const styles = StyleSheet.create({
 
 	},
 	text: {
-		fontFamily: 'serif'
+		fontFamily: 'serif',
+		fontWeight: 'bold',
+		fontSize: 15
 	},
 });

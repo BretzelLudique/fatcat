@@ -1,31 +1,57 @@
 import * as React from 'react';
-import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { RootStackParamList } from '../types';
+
 import { MapHomeScreen } from '../screens/MapHomeScreen';
 import { MetroStop } from '../screens/MetroStopScreen';
+
+import {
+    NavigationContainer,
+    DarkTheme as NavigationDarkTheme,
+    DefaultTheme as NavigationDefaultTheme,
+} from '@react-navigation/native';
+
+import {
+    DarkTheme as PaperDarkTheme,
+    DefaultTheme as PaperDefaultTheme,
+    Provider as PaperProvider,
+} from 'react-native-paper';
+
+import merge from 'deepmerge';
+
+const CombinedDefaultTheme = merge(PaperDefaultTheme, NavigationDefaultTheme);
+const CombinedDarkTheme = merge(PaperDarkTheme, NavigationDarkTheme);
 
 const RootStack = createStackNavigator<RootStackParamList>();
 
 const RootNavigation = () => {
     return (
-        <NavigationContainer>
-            <RootStack.Navigator
-                screenOptions={{
-                    headerShown: false
-                }}
-            >
-                <RootStack.Screen
-                    name="MapHomeScreen"
-                    component={MapHomeScreen}
-                //options={{ title: 'Welcome' }}
-                />
-                <RootStack.Screen
-                    name='MetroStop'
-                    component={MetroStop}
-                />
-            </RootStack.Navigator>
-        </NavigationContainer>
+        <PaperProvider
+            theme={CombinedDefaultTheme}>
+
+            <NavigationContainer
+                theme={CombinedDefaultTheme}>
+
+                <RootStack.Navigator
+                    screenOptions={{
+                        //headerShown: false
+                    }}>
+
+                    <RootStack.Screen
+                        name="MapHomeScreen"
+                        component={MapHomeScreen}
+                        options={{ headerShown: false }}
+
+                    //options={{ title: 'Welcome' }}
+                    />
+                    <RootStack.Screen
+                        name='MetroStop'
+                        component={MetroStop}
+                        options={({route})=>({title:route.params.stopName})}
+                    />
+                </RootStack.Navigator>
+            </NavigationContainer>
+        </PaperProvider>
     );
 }
 
