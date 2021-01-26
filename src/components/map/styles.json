@@ -127,7 +127,8 @@
       "elementType": "geometry.stroke",
       "stylers": [
         {
-          "color": "#e9bc62"
+          "color": "#e9bc62",
+          "lightness": 100
         }
       ]
     },

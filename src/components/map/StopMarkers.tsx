@@ -1,7 +1,7 @@
 import React from 'react';
+import {Image} from 'react-native';
 import { Marker, Callout } from 'react-native-maps';
 import { MetroStopScreenNavigationProp, Stop } from '../../types';
-import Metro from '../../../assets/img/metro.svg';
 
 export const StopMarkers = (navigation: MetroStopScreenNavigationProp): JSX.Element[] => {
 
@@ -24,12 +24,9 @@ export const StopMarkers = (navigation: MetroStopScreenNavigationProp): JSX.Elem
                     navigation.navigate('MetroStop', { stopName: stop.name })}
 
             >
-                <Metro
-                    width={20}
-                    height={20}
-                />
-                {/* <Image style={{ width: 20, height: 20 }}
-                    source={require("../assets/img/metro.png")}/> */}
+
+                <Image style={{ width: 20, height: 20 }}
+                    source={require("../../../assets/img/onlyCircleMetroIcon.png")}/>
 
                 {/* <Callout
                     onPress={() =>
