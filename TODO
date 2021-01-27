@@ -1,32 +1,21 @@
-afficher le nom des arrets, recuperer niveau de zoom
+afficher le nom des arrets, recuperer niveau de zoom 
+    (ne pas oublier de le mettre en children de map)
+    disparition du nom quand on clique sur la station (car affiché dans callout)
+        (ne pas oublier ComponentDidMount => {})
+        https://www.architecture-art-deco.fr/images/metro/Station%20metro%20Abbesses%20Art%20Nouveau.jpg
 
-
-
-1a. regarder comment api gmaps affiche icone metro (essayer de le cacher sans cacher texte)
-1b. sinon, afficher nom station soi meme (ne pas oublier de le mettre en children de map)
-
-2   disparition du nom quand on clique sur la station (car affiché dans callout)
-
-
-
-custom callout (ne pas oublier ComponentDidMount => {})
-    https://www.architecture-art-deco.fr/images/metro/Station%20metro%20Abbesses%20Art%20Nouveau.jpg
-
-
-
-fonts: times new roman, serif
 
 2e ecran:
     relief https://img.gadgethacks.com/img/47/20/63683852113528/0/compared-5-best-reddit-apps-for-android.w1456.jpg
-
     /center, gras, assez gros{stopName}
     textbody justifie
-    
-    
 
-3. retirer les routes départementales pour épurer 
- - https://mapstyle.withgoogle.com/?fbclid=IwAR2XP-s1S4q2Kzt-gJjsD8uXbBLNdxWIMUk3IJU6zCVZ0jm7Yj9vL03jteg : Road ->Highway -> Geometry -> stroke -> Passer Ligthness à 100
-4. Insérer new icon metro (sans contour blanc carré)
-5. Revoir la couleur des cluster pour la rendre plus sobre + voir si peut mettre tous les cerles de la même taille (peu importe le nombre dans le cluster)
-6. Ajouter un bouton sur le 2e écran "Afficher sur la Carte" pour revenir sur la carte
- 
+
+jolies icones ici https://github.com/oblador/react-native-vector-icons
+
+Combobox/listbox sur 302 arrets : lorsque selectionné, preselectionne arret sur map
+    lorsque selection de recherche, animation carte et noms des arrets (disparition des non selectionnes)
+
+5. voir si peut mettre tous les cercles de la même taille (peu importe le nombre dans le cluster)
+
+button dans rn-paper (+icone?) : retour cartes
