@@ -18,19 +18,7 @@ export const ParisMapView = ({ children }: WithChildren): JSX.Element => {
         longitudeDelta: 0.13,
     }
 
-    /* const mapStyle = [
-        {
-            "featureType": "transit.station.rail",
-            "elementType": "labels.icon",
-            "stylers": [
-                {
-                    "visibility": "off"
-                }
-            ]
-        }
-    ] */
-
-    const RetroStyle = require("./styles.json");
+    const RetroStyle = require("./retroMapStyle.json");
     return (
         <MapView
             style={styles.map}
@@ -49,7 +37,7 @@ export const ParisMapView = ({ children }: WithChildren): JSX.Element => {
             radius={Dimensions.get("window").width * 0.06}
             extent={150}
             //maxZoom={17}
-            clusterColor="#0A0082"
+            clusterColor="#197d8e"
         >
             {children}
         </MapView>

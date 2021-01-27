@@ -3,11 +3,11 @@ import {Image} from 'react-native';
 import { Marker, Callout } from 'react-native-maps';
 import { MetroStopScreenNavigationProp, Stop } from '../../types';
 
-export const StopMarkers = (navigation: MetroStopScreenNavigationProp): JSX.Element[] => {
+export const StopMarkers = (navigation: MetroStopScreenNavigationProp): Array<JSX.Element> => {
 
-    const markerLocs = require("../../../assets/marker_locs.json");
+    const markerLocsArray:Array<Stop> = require("../../../assets/marker_locs.json");
 
-    const stopMarkersArray = markerLocs.stops.map((stop: Stop) => {
+    const stopMarkersArray = markerLocsArray.map((stop: Stop) => {
         return (
             <Marker
                 key={stop.name}
@@ -21,7 +21,7 @@ export const StopMarkers = (navigation: MetroStopScreenNavigationProp): JSX.Elem
                 stopPropagation={true}
 
                 onCalloutPress={() =>
-                    navigation.navigate('MetroStop', { stopName: stop.name })}
+                    navigation.navigate('MetroStop', stop)}
 
             >
 

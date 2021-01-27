@@ -4,7 +4,7 @@ import { LatLng } from 'react-native-maps';
 
 export type RootStackParamList = {
     MapHomeScreen: undefined,
-    MetroStop: { stopName: string };
+    MetroStop: Stop;
 };
 
 export type MetroStopScreenRouteProp = RouteProp<RootStackParamList, 'MetroStop'>;
@@ -19,10 +19,12 @@ export type NavProps = {
     navigation: MetroStopScreenNavigationProp;
 };
 
+export type LinesArray = Array<string>;
+
 export type Stop = {
     name: string,
     coordinate: LatLng,
-    line: Array<string>
+    line: LinesArray
 }
 
 export type Poly = {
