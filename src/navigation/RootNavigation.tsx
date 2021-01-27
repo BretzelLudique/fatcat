@@ -34,7 +34,7 @@ const RootNavigation = () => {
 
                 <RootStack.Navigator
                     screenOptions={{
-                        //headerShown: false
+                        headerShown: false
                     }}>
 
                     <RootStack.Screen
@@ -47,7 +47,7 @@ const RootNavigation = () => {
                     <RootStack.Screen
                         name='MetroStop'
                         component={MetroStop}
-                        options={({route})=>({title:route.params.stopName})}
+                        options={({route})=>({title:route.params.name})}
                     />
                 </RootStack.Navigator>
             </NavigationContainer>
