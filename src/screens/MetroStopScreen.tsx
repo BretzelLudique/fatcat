@@ -7,35 +7,27 @@ import {
 } from 'react-native';
 import { NavProps } from '../types';
 import { useTheme } from 'react-native-paper';
-import { TitleImg } from '../components/stopscreen/TitleImg'
-import {LinesIcons} from "../components/stopscreen/LinesIcons";
+import { LinesIcons } from "../components/stopscreen/LinesIcons";
 
 export const MetroStop = ({ route }: NavProps): JSX.Element => {
 
 	const { name, line } = route.params;
-	const text = require("../../assets/txt/ligne1.json");
+	const text: Record<string, string> = require("../../assets/txt/ligne1.json");
 	const { colors } = useTheme();
 
 	return (
 		<ScrollView style={styles.container}>
-			{/* <TitleImg>
-				<Text style={styles.title}>
-					{name}
-				</Text>
-			</TitleImg> */}
 			<Text style={styles.title}>
 				{name}
 			</Text>
 			{LinesIcons(line)}
 			<Text style={styles.body}>
 				{"\n\n\n"}
-				{line}
 				{"\n\n\n"}
 
 				{text[name] == "" && name + "  est en cours de pitoufaction... Revenez plus tard !"}
 				{text[name] != "" && text[name]}
 			</Text>
-			{/* </Text> */}
 		</ScrollView>
 
 
@@ -55,6 +47,7 @@ const styles = StyleSheet.create({
 		marginTop: 24,
 	},
 	body: {
-
+		textAlign: "justify",
+		marginHorizontal: 16
 	}
 });

@@ -9,6 +9,8 @@ import { ParisMapView } from '../components/map/ParisMapView';
 import { StopMarkers } from '../components/map/StopMarkers';
 import { LinePolylines } from '../components/map/LinePolylines'
 
+import {QuickCheat} from '../components/devCheatButton'
+
 export const MapHomeScreen = ({ navigation }: NavProps): JSX.Element => {
     return (
         <View style={styles.container}>
@@ -16,6 +18,7 @@ export const MapHomeScreen = ({ navigation }: NavProps): JSX.Element => {
                 {StopMarkers(navigation)}
                 {LinePolylines()}
             </ParisMapView>
+            {QuickCheat(navigation)}
         </View>
     );
 }
