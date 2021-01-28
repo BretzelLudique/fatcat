@@ -5,7 +5,7 @@ import {
 } from 'react-native';
 
 import MapView from "react-native-map-clustering";
-import { Region } from 'react-native-maps';
+import { Region, MapStyleElement } from 'react-native-maps';
 
 import { WithChildren } from '../../types'
 
@@ -18,7 +18,9 @@ export const ParisMapView = ({ children }: WithChildren): JSX.Element => {
         longitudeDelta: 0.13,
     }
 
-    const RetroStyle = require("./retroMapStyle.json");
+    const RetroStyle: Array<MapStyleElement> =
+        require("../../../assets/map/retroMapStyle.json");
+        
     return (
         <MapView
             style={styles.map}

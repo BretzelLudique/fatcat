@@ -4,9 +4,9 @@ import { Polyline } from 'react-native-maps';
 
 export const LinePolylines = (): JSX.Element[] => {
 
-    const polylineLocs = require("../../../assets/polyline_locs.json");
+    const polylineLocs:Array<Poly> = require("../../../assets/map/polyline_locs.json");
 
-    const linePolylinesArray = polylineLocs.polylines.map((polyline: Poly) => {
+    const linePolylinesArray = polylineLocs.map((polyline: Poly) => {
         return (
             <Polyline
                 key={polyline.ratpid}

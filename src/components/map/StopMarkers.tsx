@@ -5,7 +5,7 @@ import { MetroStopScreenNavigationProp, Stop } from '../../types';
 
 export const StopMarkers = (navigation: MetroStopScreenNavigationProp): Array<JSX.Element> => {
 
-    const markerLocsArray:Array<Stop> = require("../../../assets/marker_locs.json");
+    const markerLocsArray:Array<Stop> = require("../../../assets/map/marker_locs.json");
 
     const stopMarkersArray = markerLocsArray.map((stop: Stop) => {
         return (
