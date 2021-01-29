@@ -5,11 +5,11 @@ import {
 	ScrollView,
 	Image,
 } from 'react-native';
-import { NavProps } from '../types';
+import { RouteNav } from '../types';
 import { useTheme } from 'react-native-paper';
 import { LinesIcons } from "../components/stopscreen/LinesIcons";
 
-export const MetroStop = ({ route }: NavProps): JSX.Element => {
+export const MetroStop = ({ route }: RouteNav): JSX.Element => {
 
 	const { name, line } = route.params;
 	const text: Record<string, string> = require("../../assets/txt/ligne1.json");

@@ -7,16 +7,16 @@ export type RootStackParamList = {
     MetroStop: Stop;
 };
 
-export type MetroStopScreenRouteProp = RouteProp<RootStackParamList, 'MetroStop'>;
+export type Route = RouteProp<RootStackParamList, 'MetroStop'>;
 
-export type MetroStopScreenNavigationProp = StackNavigationProp<
+export type Navigation = StackNavigationProp<
     RootStackParamList,
     'MetroStop'
 >;
 
-export type NavProps = {
-    route: MetroStopScreenRouteProp;
-    navigation: MetroStopScreenNavigationProp;
+export type RouteNav = {
+    route: Route;
+    navigation: Navigation;
 };
 
 export type LinesArray = Array<string>;
