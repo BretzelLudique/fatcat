@@ -2,6 +2,8 @@ import React from 'react';
 import {
     StyleSheet,
     View,
+    Button,
+    Alert,
 } from 'react-native';
 import { RouteNav, Stop } from '../types';
 
@@ -14,16 +16,22 @@ import { StopSearch } from '../components/map/StopSearch'
 export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
 
     //const markerLocsArray: Array<Stop> = require("../../../assets/map/marker_locs.json");
-    
-    const myref = React.useRef(null);
+
+    const StopMarkersArray = StopMarkers(navigation);
+
+    console.log(StopMarkersArray[1].current);
     //markerLocsArray.map(oneStopMarker)
     return (
         <View style={styles.container}>
             <ParisMapView>
-                {StopMarkers(navigation)}
+                {StopMarkersArray[0]}
                 {LinePolylines()}
             </ParisMapView>
-            <StopSearch/>
+            <StopSearch />
+            <Button onPress={() =>
+
+            Alert.alert(StopMarkersArray[1].current[0])}
+            title = ''/>
         </View>
     );
 }

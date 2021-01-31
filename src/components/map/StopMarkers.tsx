@@ -3,17 +3,19 @@ import { Image } from 'react-native';
 import { Marker, Callout } from 'react-native-maps';
 import { Navigation, Stop } from '../../types';
 
-export const StopMarkers = (navigation: Navigation): Array<JSX.Element> => {
+export const StopMarkers = (navigation: Navigation): [Array<JSX.Element>, any] => {
 
     const markerLocsArray: Array<Stop> = require("../../../assets/map/marker_locs.json");
 
-    //const myref = React.useRef(null);
+    const refArray = React.useRef(new Array);
+    
 
     function createMarker(stop: Stop): JSX.Element {
         return (
             <Marker
-                /* ref={(element) => itemEls.current.push(element)} */
+                ref={(marker: any) => refArray.current.push(marker)}
                 key={stop.name}
+
                 title={stop.name}
                 description={"Découvrir son histoire"}
                 coordinate={stop.coordinate}
@@ -38,5 +40,5 @@ export const StopMarkers = (navigation: Navigation): Array<JSX.Element> => {
             </Marker>
         )
     }
-    return markerLocsArray.map(createMarker);
+    return [markerLocsArray.map(createMarker), refArray];
 }
