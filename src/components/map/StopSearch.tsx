@@ -24,27 +24,29 @@ export const StopSearch = (): JSX.Element => {
         return (false);
     }
 
-    const DisplayedStops = (MatchedStops: Stop[]): JSX.Element[] => {
-        let displayCount = 0;
-        const DisplayedStops: JSX.Element[] = [];
+    const DisplayedStops = (stopsArray: Stop[]): Array<JSX.Element | void> => {
 
-        for (let stop of MatchedStops) {
-            DisplayedStops[displayCount] =
-                <List.Item
-                    key={displayCount}
-                    title={stop.name}
-                    onPress={() => Alert.alert(stop.name)}
-                //description= lignes
-                />
-            if (displayCount++ == 10)
-                break;
+        function displayOneMatchedStop(stop: Stop, index: number): JSX.Element | void {
+            if (MatchesStopQuery(stop)) {
+                return (
+                    <List.Item
+                        key={index}
+                        title={stop.name}
+                        onPress={() => Alert.alert(stop.name + " index: " + String(index))}
+                    //description= lignes
+                    />
+                );
+            }
         }
-        return DisplayedStops;
+
+        const DisplayedStops = stopsArray.map(displayOneMatchedStop);
+
+        return (DisplayedStops);
     }
 
     return (
         <View>
-            {DisplayedStops(markerLocsArray.filter(MatchesStopQuery))}
+            {DisplayedStops(markerLocsArray)}
             <Searchbar
                 placeholder="Search"
                 onChangeText={(q: string) => setSearchQuery(q)}

@@ -6,14 +6,19 @@ import { Navigation, Stop } from '../../types';
 export const StopMarkers = (navigation: Navigation): [Array<JSX.Element>, any] => {
 
     const markerLocsArray: Array<Stop> = require("../../../assets/map/marker_locs.json");
+    const arrLength = markerLocsArray.length;
 
     const refArray = React.useRef(new Array);
-    
+    const [markerRefs, setMarkerRefs] = React.useState([]);
 
-    function createMarker(stop: Stop): JSX.Element {
+    const addToRefs = (el: any) => {
+        console.log(el);
+    }
+
+    function createMarker(stop: Stop, index: number): JSX.Element {
         return (
             <Marker
-                ref={(marker: any) => refArray.current.push(marker)}
+                ref={(marker:any) => refArray.current.push(marker)}
                 key={stop.name}
 
                 title={stop.name}
