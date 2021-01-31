@@ -42,36 +42,41 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
         )
     }
 
-    function getRandomInt(max: number) {
-        return Math.floor(Math.random() * Math.floor(max));
-    }
-
-    function MatchesStopQuery(stop: Stop): Boolean {
-        let tmpRegex: string = '';
-        for (let char of searchQuery.toUpperCase()) {
-            tmpRegex += char;
-        }
-        if (searchQuery != '') {
-            let regex = new RegExp(tmpRegex);
-            return (regex.test(stop.name))
-        }
-        return (false);
-    }
-
-    const DisplayedStops = (stopsArray: Stop[]): Array<JSX.Element | void> => {
+    const DisplaySearchResult = (stopsArray: Stop[]): Array<JSX.Element | void> => {
         function displayOneMatchedStop(stop: Stop, index: number): JSX.Element | void {
-            if (MatchesStopQuery(stop)) {
-                return (
-                    <List.Item
-                        key={index}
-                        title={stop.name}
-                        onPress={() => MarkerRefsArray.current[index].showCallout()}
-                        description={stop.line}
-                    />
-                );
+            return (
+                <List.Item
+                    key={index}
+                    title={stop.name}
+                    onPress={() => MarkerRefsArray.current[index].showCallout()}
+                    description={stop.line}
+                />
+            );
+        }
+
+        function matchesQuery(stop: Stop): Boolean {
+            let tmpRegex: string = '';
+            for (let char of searchQuery.toUpperCase()) {
+                tmpRegex += char;
+            }
+            if (searchQuery != '') {
+                let regex = new RegExp(tmpRegex);
+                return (regex.test(stop.name))
+            }
+            return (false);
+        }
+
+        const displaySearchResult = [];
+        for (let index in stopsArray) {
+            const stop = stopsArray[index];
+            if (matchesQuery(stop)) {
+                displaySearchResult.push(displayOneMatchedStop(stop, parseInt(index)));
+            }
+            if (displaySearchResult.length > 4) {
+                break;
             }
         }
-        return stopsArray.map(displayOneMatchedStop);
+        return displaySearchResult;
     }
 
     return (
@@ -86,7 +91,7 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
                 {LinePolylines()}
             </MapView>
             <View>
-                {DisplayedStops(stopsArray)}
+                {DisplaySearchResult(stopsArray)}
                 <Searchbar
                     placeholder="Recherche par nom"
                     onChangeText={(q: string) => setSearchQuery(q)}
