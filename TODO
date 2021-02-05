@@ -19,3 +19,5 @@ Combobox/listbox sur 302 arrets : lorsque selectionné, preselectionne arret sur
 5. voir si peut mettre tous les cercles de la même taille (peu importe le nombre dans le cluster)
 
 button dans rn-paper (+icone?) : retour cartes
+
+zoom au 1er clic (desactiver possibilite de showcallout)

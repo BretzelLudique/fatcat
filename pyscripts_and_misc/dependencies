@@ -11,22 +11,6 @@ https://github.com/react-native-maps/react-native-maps/blob/master/docs/installa
 npm install react-native-maps --save-exact
 TODO for iOS: https://github.com/react-native-maps/react-native-maps#customizing-the-map-style
 
-https://github.com/venits/react-native-map-clustering
-npm install react-native-map-clustering react-native-maps --save
-
-
-Use .svg files (pictogram):
-https://github.com/react-native-svg/react-native-svg
-npm install react-native-svg --save
-
-https://github.com/kristerkari/react-native-svg-transformer#installation-and-configuration
-npm install react-native-svg-transformer --save-dev
-    react-native-svg
-    @svgr/core
-    @svgr/plugin-svgo
-    path-dirname
-    semver
-
 
 https://callstack.github.io/react-native-paper/index.html
 npm install react-native-paper --save
