@@ -24,7 +24,8 @@ export type LinesArray = Array<string>;
 export type Stop = {
     name: string,
     coordinate: LatLng,
-    line: LinesArray
+    line: LinesArray,
+    id: number
 }
 
 export type Poly = {

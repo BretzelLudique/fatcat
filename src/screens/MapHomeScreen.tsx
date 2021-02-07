@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, View, Image, ScrollView, Alert } from 'react-native';
+import { StyleSheet, View, Image, ScrollView, Text, Alert, FlatList } from 'react-native';
 import { RouteNav, Stop } from '../types';
 import { LinePolylines } from '../components/map/LinePolylines'
 import { Button, Modal, Portal, Searchbar, List } from 'react-native-paper';
@@ -44,50 +44,53 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
         )
     }
 
-    const DisplaySearchResult = (): JSX.Element | null => {
-        function displayOneMatchedStop(stop: Stop, index: number): JSX.Element {
-            return (
-                <List.Item
-                    style={styles.stopSearchResult}
-                    key={index}
-                    title={stop.name}
-                    onPress={() => {
+    const [filteredDataSource, setFilteredDataSource] = React.useState(new Array);
+    const searchFilterFunction = (query: string) => {
+        // Check if searched query is not blank
+        if (query) {
+            // Inserted query is not blank
+            // Filter the masterDataSource
+            // Update FilteredDataSource
+            const newData = stopsArray.filter(
+                function (stop: Stop) {
+                    return stop.name.indexOf(query.toUpperCase()) > -1;
+                });
+            setFilteredDataSource(newData);
+            setSearchQuery(query);
 
-                        MarkerRefsArray.current[index].showCallout();
-                    }}
-                    description={stop.line}
-                />
-            );
+        } else {
+            // Inserted query is blank
+            // Update FilteredDataSource with masterDataSource
+            setFilteredDataSource(stopsArray);
+            setSearchQuery(query);
         }
+    };
 
-        const searchResult = [];
-
-        for (let index = 0; index < len; index++) {
-            if (matchedStops[index]) {
-                searchResult.push(displayOneMatchedStop(stopsArray[index], index))
-            }
-        }
-
+    const ItemView = ({ item }: any) => {
         return (
-            <ScrollView style={styles.searchResultsContainer}>
-                {searchResult}
-            </ScrollView>
-        )
-    }
+            // Flat List Item
+            <Text
+                //style={styles.itemStyle}
+                onPress={() => MarkerRefsArray.current[item.id].showCallout()}>
+                {item.name.toUpperCase()}
+                {' | ligne(s) : '}
+                {item.line}
+            </Text>
+        );
+    };
 
-    function matchesQuery(stop: Stop, query: string): Boolean {
-        let tmpRegex: string = '';
-        for (let char of query.toUpperCase()) {
-            tmpRegex += char;
-        }
-        if (query.length > 1) {
-            let regex = new RegExp(tmpRegex);
-            return (regex.test(stop.name))
-        }
-        return (false);
-    }
+    const ItemSeparatorView = () => {
+        return (
+            <View
+                style={{
+                    height: 0.5,
+                    width: '100%',
+                    backgroundColor: '#C8C8C8',
+                }}
+            />
+        );
+    };
 
-    const [matchedStops, setMatchedStops] = React.useState(new Array(len).fill(false));
     const [searching, setSearching] = React.useState(false);
 
     return (
@@ -109,18 +112,16 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
                     contentContainerStyle={[styles.searchContainer, { height: 210 }]}
                 >
 
-                    <DisplaySearchResult />
-
+                    <FlatList
+                        data={filteredDataSource}
+                        keyExtractor={(item, index) => index.toString()}
+                        ItemSeparatorComponent={ItemSeparatorView}
+                        renderItem={ItemView}
+                    />
                     <Searchbar
                         style={styles.searchButton}
                         placeholder="Recherche par nom"
-                        onChangeText={(q: string) => {
-                            setSearchQuery(q);
-                            setMatchedStops(
-                                matchedStops.map((matched: Boolean, index: number) =>
-                                    matchesQuery(stopsArray[index], q)
-                                ));
-                        }}
+                        onChangeText={(q: string) => searchFilterFunction(q)}
                         value={searchQuery}
                     />
 
