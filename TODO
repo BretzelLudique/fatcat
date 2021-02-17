@@ -22,3 +22,10 @@ Combobox/listbox sur 302 arrets : lorsque selectionné, preselectionne arret sur
 button dans rn-paper (+icone?) : retour cartes
 
 zoom au 1er clic (desactiver possibilite de showcallout)
+
+QUIZZ:
+un nom d'arret est affiché aléatoirement, ainsi que les pictos de toutes les lignes
+l'utilisateur doit cliquer sur le pictogramme de la bonne ligne
+si l'arrêt se situe sur plusieurs lignes, il faut trouver toutes les lignes
+si perdu, 3 secondes sont consommées dans le timer
+en 45 secondes, faire le meilleur score
