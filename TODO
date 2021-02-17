@@ -9,6 +9,7 @@ afficher le nom des arrets, recuperer niveau de zoom
     relief https://img.gadgethacks.com/img/47/20/63683852113528/0/compared-5-best-reddit-apps-for-android.w1456.jpg
     /center, gras, assez gros{stopName}
     textbody justifie
+    position de l'arret dans le clasement des frequentations (donnees opendata 2019 ratp)
 
 
 jolies icones ici https://github.com/oblador/react-native-vector-icons
