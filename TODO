@@ -29,3 +29,12 @@ l'utilisateur doit cliquer sur le pictogramme de la bonne ligne
 si l'arrêt se situe sur plusieurs lignes, il faut trouver toutes les lignes
 si perdu, 3 secondes sont consommées dans le timer
 en 45 secondes, faire le meilleur score
+
+
+
+PRORITE MAX
+n'afficher que arrets multilignes sur zoom initial
+se deplacer sur l'arret lorsque clic dans recherche
+afficher nom des arrets a partir dun certain zoom
+justify text dans 2nd ecran pour Android < 8.0
+pourquoi est ce que les M ne s'affichent pas toujours (place d'Italie)

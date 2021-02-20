@@ -8,7 +8,8 @@
         "line": [
             "7b"
         ],
-        "id": 0
+        "id": 0,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ASSEMBLEE NATIONALE",
@@ -19,7 +20,8 @@
         "line": [
             "12"
         ],
-        "id": 1
+        "id": 1,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BALARD",
@@ -30,7 +32,8 @@
         "line": [
             "8"
         ],
-        "id": 2
+        "id": 2,
+        "displayed_at_minzoom": true
     },
     {
         "name": "BASTILLE",
@@ -43,7 +46,8 @@
             "5",
             "8"
         ],
-        "id": 3
+        "id": 3,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BEL-AIR",
@@ -54,7 +58,8 @@
         "line": [
             "6"
         ],
-        "id": 4
+        "id": 4,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BERCY",
@@ -66,7 +71,8 @@
             "6",
             "14"
         ],
-        "id": 5
+        "id": 5,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CRETEIL-L'ECHAT (HOPITAL MONDOR)",
@@ -77,7 +83,8 @@
         "line": [
             "8"
         ],
-        "id": 6
+        "id": 6,
+        "displayed_at_minzoom": false
     },
     {
         "name": "AUSTERLITZ",
@@ -89,7 +96,8 @@
             "5",
             "10"
         ],
-        "id": 7
+        "id": 7,
+        "displayed_at_minzoom": true
     },
     {
         "name": "DAUMESNIL",
@@ -101,7 +109,8 @@
             "6",
             "8"
         ],
-        "id": 8
+        "id": 8,
+        "displayed_at_minzoom": false
     },
     {
         "name": "DUROC",
@@ -113,7 +122,8 @@
             "10",
             "13"
         ],
-        "id": 9
+        "id": 9,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CAMPO-FORMIO",
@@ -124,7 +134,8 @@
         "line": [
             "5"
         ],
-        "id": 10
+        "id": 10,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CARREFOUR PLEYEL",
@@ -135,7 +146,8 @@
         "line": [
             "13"
         ],
-        "id": 11
+        "id": 11,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CHARLES DE GAULLE ETOILE",
@@ -148,7 +160,8 @@
             "2",
             "6"
         ],
-        "id": 12
+        "id": 12,
+        "displayed_at_minzoom": true
     },
     {
         "name": "CHATELET",
@@ -163,7 +176,8 @@
             "11",
             "14"
         ],
-        "id": 13
+        "id": 13,
+        "displayed_at_minzoom": false
     },
     {
         "name": "COLONEL FABIEN",
@@ -174,7 +188,8 @@
         "line": [
             "2"
         ],
-        "id": 14
+        "id": 14,
+        "displayed_at_minzoom": false
     },
     {
         "name": "COMMERCE",
@@ -185,7 +200,8 @@
         "line": [
             "8"
         ],
-        "id": 15
+        "id": 15,
+        "displayed_at_minzoom": false
     },
     {
         "name": "FORT D'AUBERVILLIERS",
@@ -196,7 +212,8 @@
         "line": [
             "7"
         ],
-        "id": 16
+        "id": 16,
+        "displayed_at_minzoom": false
     },
     {
         "name": "FRANKLIN-D.ROOSEVELT",
@@ -208,7 +225,8 @@
             "1",
             "9"
         ],
-        "id": 17
+        "id": 17,
+        "displayed_at_minzoom": false
     },
     {
         "name": "GABRIEL PERI-ASNIERES-GENNEVILLIERS",
@@ -219,7 +237,8 @@
         "line": [
             "13"
         ],
-        "id": 18
+        "id": 18,
+        "displayed_at_minzoom": false
     },
     {
         "name": "GAITE",
@@ -230,7 +249,8 @@
         "line": [
             "13"
         ],
-        "id": 19
+        "id": 19,
+        "displayed_at_minzoom": false
     },
     {
         "name": "HOTEL DE VILLE",
@@ -242,7 +262,8 @@
             "1",
             "11"
         ],
-        "id": 20
+        "id": 20,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ESPLANADE DE LA DEFENSE",
@@ -253,7 +274,8 @@
         "line": [
             "1"
         ],
-        "id": 21
+        "id": 21,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ETIENNE-MARCEL",
@@ -264,7 +286,8 @@
         "line": [
             "4"
         ],
-        "id": 22
+        "id": 22,
+        "displayed_at_minzoom": false
     },
     {
         "name": "GARE DE L'EST",
@@ -277,7 +300,8 @@
             "5",
             "7"
         ],
-        "id": 23
+        "id": 23,
+        "displayed_at_minzoom": false
     },
     {
         "name": "GARE DE LYON",
@@ -289,7 +313,8 @@
             "1",
             "14"
         ],
-        "id": 24
+        "id": 24,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MONTPARNASSE",
@@ -303,7 +328,8 @@
             "12",
             "13"
         ],
-        "id": 25
+        "id": 25,
+        "displayed_at_minzoom": false
     },
     {
         "name": "JASMIN",
@@ -314,7 +340,8 @@
         "line": [
             "9"
         ],
-        "id": 26
+        "id": 26,
+        "displayed_at_minzoom": false
     },
     {
         "name": "JAVEL",
@@ -325,7 +352,8 @@
         "line": [
             "10"
         ],
-        "id": 27
+        "id": 27,
+        "displayed_at_minzoom": false
     },
     {
         "name": "KLEBER",
@@ -336,7 +364,8 @@
         "line": [
             "6"
         ],
-        "id": 28
+        "id": 28,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LA COURNEUVE 8 MAI 1945",
@@ -347,7 +376,8 @@
         "line": [
             "7"
         ],
-        "id": 29
+        "id": 29,
+        "displayed_at_minzoom": true
     },
     {
         "name": "MARCADET-POISSONNIERS",
@@ -359,7 +389,8 @@
             "4",
             "12"
         ],
-        "id": 30
+        "id": 30,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MICHEL-ANGE-MOLITOR",
@@ -371,7 +402,8 @@
             "9",
             "10"
         ],
-        "id": 31
+        "id": 31,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MIRABEAU",
@@ -382,7 +414,8 @@
         "line": [
             "10"
         ],
-        "id": 32
+        "id": 32,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LOUIS BLANC",
@@ -394,7 +427,8 @@
             "7",
             "7b"
         ],
-        "id": 33
+        "id": 33,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MAIRIE DE MONTREUIL",
@@ -405,7 +439,8 @@
         "line": [
             "9"
         ],
-        "id": 34
+        "id": 34,
+        "displayed_at_minzoom": true
     },
     {
         "name": "PEREIRE-LEVALLOIS",
@@ -416,7 +451,8 @@
         "line": [
             "3"
         ],
-        "id": 35
+        "id": 35,
+        "displayed_at_minzoom": false
     },
     {
         "name": "NATION",
@@ -430,7 +466,8 @@
             "6",
             "9"
         ],
-        "id": 36
+        "id": 36,
+        "displayed_at_minzoom": true
     },
     {
         "name": "PORTE MAILLOT",
@@ -441,7 +478,8 @@
         "line": [
             "1"
         ],
-        "id": 37
+        "id": 37,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PLACE DE CLICHY",
@@ -453,7 +491,8 @@
             "2",
             "13"
         ],
-        "id": 38
+        "id": 38,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PLACE D'ITALIE",
@@ -466,7 +505,8 @@
             "6",
             "7"
         ],
-        "id": 39
+        "id": 39,
+        "displayed_at_minzoom": true
     },
     {
         "name": "OBERKAMPF",
@@ -478,7 +518,8 @@
             "5",
             "9"
         ],
-        "id": 40
+        "id": 40,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PONT DE LEVALLOIS-BECON",
@@ -489,7 +530,8 @@
         "line": [
             "3"
         ],
-        "id": 41
+        "id": 41,
+        "displayed_at_minzoom": true
     },
     {
         "name": "PONT DE SEVRES",
@@ -500,7 +542,8 @@
         "line": [
             "9"
         ],
-        "id": 42
+        "id": 42,
+        "displayed_at_minzoom": true
     },
     {
         "name": "PORTE DE CHARENTON",
@@ -511,7 +554,8 @@
         "line": [
             "8"
         ],
-        "id": 43
+        "id": 43,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-SEBASTIEN FROISSART",
@@ -522,7 +566,8 @@
         "line": [
             "8"
         ],
-        "id": 44
+        "id": 44,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SEVRES-LECOURBE",
@@ -533,7 +578,8 @@
         "line": [
             "6"
         ],
-        "id": 45
+        "id": 45,
+        "displayed_at_minzoom": false
     },
     {
         "name": "STRASBOURG-SAINT-DENIS",
@@ -546,7 +592,8 @@
             "8",
             "9"
         ],
-        "id": 46
+        "id": 46,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SULLY-MORLAND",
@@ -557,7 +604,8 @@
         "line": [
             "7"
         ],
-        "id": 47
+        "id": 47,
+        "displayed_at_minzoom": false
     },
     {
         "name": "TELEGRAPHE",
@@ -568,7 +616,8 @@
         "line": [
             "11"
         ],
-        "id": 48
+        "id": 48,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DE PANTIN",
@@ -579,7 +628,8 @@
         "line": [
             "5"
         ],
-        "id": 49
+        "id": 49,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DOREE",
@@ -590,7 +640,8 @@
         "line": [
             "8"
         ],
-        "id": 50
+        "id": 50,
+        "displayed_at_minzoom": false
     },
     {
         "name": "RICHARD LENOIR",
@@ -601,7 +652,8 @@
         "line": [
             "5"
         ],
-        "id": 51
+        "id": 51,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PRE SAINT-GERVAIS",
@@ -612,7 +664,8 @@
         "line": [
             "7b"
         ],
-        "id": 52
+        "id": 52,
+        "displayed_at_minzoom": false
     },
     {
         "name": "RENNES",
@@ -623,7 +676,8 @@
         "line": [
             "12"
         ],
-        "id": 53
+        "id": 53,
+        "displayed_at_minzoom": false
     },
     {
         "name": "REPUBLIQUE",
@@ -638,7 +692,8 @@
             "9",
             "11"
         ],
-        "id": 54
+        "id": 54,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BASILIQUE DE SAINT-DENIS",
@@ -649,7 +704,8 @@
         "line": [
             "13"
         ],
-        "id": 55
+        "id": 55,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-FARGEAU",
@@ -660,7 +716,8 @@
         "line": [
             "3bis"
         ],
-        "id": 56
+        "id": 56,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-GEORGES",
@@ -671,7 +728,8 @@
         "line": [
             "12"
         ],
-        "id": 57
+        "id": 57,
+        "displayed_at_minzoom": false
     },
     {
         "name": "VAUGIRARD (ADOLPHE CHERIOU)",
@@ -682,7 +740,8 @@
         "line": [
             "12"
         ],
-        "id": 58
+        "id": 58,
+        "displayed_at_minzoom": false
     },
     {
         "name": "VILLEJUIF-LEO LAGRANGE",
@@ -693,7 +752,8 @@
         "line": [
             "7"
         ],
-        "id": 59
+        "id": 59,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BOUCICAUT",
@@ -704,7 +764,8 @@
         "line": [
             "8"
         ],
-        "id": 60
+        "id": 60,
+        "displayed_at_minzoom": false
     },
     {
         "name": "RUE DES BOULETS",
@@ -715,7 +776,8 @@
         "line": [
             "9"
         ],
-        "id": 61
+        "id": 61,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BOULOGNE-JEAN JAURES",
@@ -726,7 +788,8 @@
         "line": [
             "10"
         ],
-        "id": 62
+        "id": 62,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BIBLIOTHEQUE FRANCOIS MITTERRAND",
@@ -737,7 +800,8 @@
         "line": [
             "14"
         ],
-        "id": 63
+        "id": 63,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BILLANCOURT",
@@ -748,7 +812,8 @@
         "line": [
             "9"
         ],
-        "id": 64
+        "id": 64,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ANATOLE FRANCE",
@@ -759,7 +824,8 @@
         "line": [
             "3"
         ],
-        "id": 65
+        "id": 65,
+        "displayed_at_minzoom": false
     },
     {
         "name": "AVRON",
@@ -770,7 +836,8 @@
         "line": [
             "2"
         ],
-        "id": 66
+        "id": 66,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BARBES-ROCHECHOUART",
@@ -782,7 +849,8 @@
             "2",
             "4"
         ],
-        "id": 67
+        "id": 67,
+        "displayed_at_minzoom": false
     },
     {
         "name": "COUR SAINT-EMILION",
@@ -793,7 +861,8 @@
         "line": [
             "14"
         ],
-        "id": 68
+        "id": 68,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CROIX DE CHAVAUX (JACQUES DUCLOS)",
@@ -804,7 +873,8 @@
         "line": [
             "9"
         ],
-        "id": 69
+        "id": 69,
+        "displayed_at_minzoom": false
     },
     {
         "name": "DENFERT-ROCHEREAU",
@@ -816,7 +886,8 @@
             "4",
             "6"
         ],
-        "id": 70
+        "id": 70,
+        "displayed_at_minzoom": false
     },
     {
         "name": "DUGOMMIER",
@@ -827,7 +898,8 @@
         "line": [
             "6"
         ],
-        "id": 71
+        "id": 71,
+        "displayed_at_minzoom": false
     },
     {
         "name": "DUPLEIX",
@@ -838,7 +910,8 @@
         "line": [
             "6"
         ],
-        "id": 72
+        "id": 72,
+        "displayed_at_minzoom": false
     },
     {
         "name": "EGLISE D'AUTEUIL",
@@ -849,7 +922,8 @@
         "line": [
             "10"
         ],
-        "id": 73
+        "id": 73,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BROCHANT",
@@ -860,7 +934,8 @@
         "line": [
             "13"
         ],
-        "id": 74
+        "id": 74,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BUTTES-CHAUMONT",
@@ -871,7 +946,8 @@
         "line": [
             "7b"
         ],
-        "id": 75
+        "id": 75,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CHATEAU DE VINCENNES",
@@ -882,7 +958,8 @@
         "line": [
             "1"
         ],
-        "id": 76
+        "id": 76,
+        "displayed_at_minzoom": true
     },
     {
         "name": "CHATEAU D'EAU",
@@ -893,7 +970,8 @@
         "line": [
             "4"
         ],
-        "id": 77
+        "id": 77,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CHATEAU-LANDON",
@@ -904,7 +982,8 @@
         "line": [
             "7"
         ],
-        "id": 78
+        "id": 78,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CHATILLON-MONTROUGE",
@@ -915,7 +994,8 @@
         "line": [
             "13"
         ],
-        "id": 79
+        "id": 79,
+        "displayed_at_minzoom": true
     },
     {
         "name": "CHEVALERET",
@@ -926,7 +1006,8 @@
         "line": [
             "6"
         ],
-        "id": 80
+        "id": 80,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CONCORDE",
@@ -939,7 +1020,8 @@
             "8",
             "12"
         ],
-        "id": 81
+        "id": 81,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CORENTIN-CELTON",
@@ -950,7 +1032,8 @@
         "line": [
             "12"
         ],
-        "id": 82
+        "id": 82,
+        "displayed_at_minzoom": false
     },
     {
         "name": "GLACIERE",
@@ -961,7 +1044,8 @@
         "line": [
             "6"
         ],
-        "id": 83
+        "id": 83,
+        "displayed_at_minzoom": false
     },
     {
         "name": "GAMBETTA",
@@ -973,7 +1057,8 @@
             "3",
             "3bis"
         ],
-        "id": 84
+        "id": 84,
+        "displayed_at_minzoom": false
     },
     {
         "name": "HAVRE-CAUMARTIN",
@@ -985,7 +1070,8 @@
             "3",
             "9"
         ],
-        "id": 85
+        "id": 85,
+        "displayed_at_minzoom": false
     },
     {
         "name": "FAIDHERBE-CHALIGNY",
@@ -996,7 +1082,8 @@
         "line": [
             "8"
         ],
-        "id": 86
+        "id": 86,
+        "displayed_at_minzoom": false
     },
     {
         "name": "FELIX FAURE",
@@ -1007,7 +1094,8 @@
         "line": [
             "8"
         ],
-        "id": 87
+        "id": 87,
+        "displayed_at_minzoom": false
     },
     {
         "name": "GARE DU NORD",
@@ -1019,7 +1107,8 @@
             "4",
             "5"
         ],
-        "id": 88
+        "id": 88,
+        "displayed_at_minzoom": false
     },
     {
         "name": "IENA",
@@ -1030,7 +1119,8 @@
         "line": [
             "9"
         ],
-        "id": 89
+        "id": 89,
+        "displayed_at_minzoom": false
     },
     {
         "name": "JAURES",
@@ -1043,7 +1133,8 @@
             "5",
             "7b"
         ],
-        "id": 90
+        "id": 90,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MALESHERBES",
@@ -1054,7 +1145,8 @@
         "line": [
             "3"
         ],
-        "id": 91
+        "id": 91,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MARCEL SEMBAT",
@@ -1065,7 +1157,8 @@
         "line": [
             "9"
         ],
-        "id": 92
+        "id": 92,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MICHEL BIZOT",
@@ -1076,7 +1169,8 @@
         "line": [
             "8"
         ],
-        "id": 93
+        "id": 93,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LA DEFENSE-GRANDE ARCHE",
@@ -1087,7 +1181,8 @@
         "line": [
             "1"
         ],
-        "id": 94
+        "id": 94,
+        "displayed_at_minzoom": true
     },
     {
         "name": "LA MOTTE-PICQUET-GRENELLE",
@@ -1100,7 +1195,8 @@
             "8",
             "10"
         ],
-        "id": 95
+        "id": 95,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LES GOBELINS",
@@ -1111,7 +1207,8 @@
         "line": [
             "7"
         ],
-        "id": 96
+        "id": 96,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LES HALLES",
@@ -1122,7 +1219,8 @@
         "line": [
             "4"
         ],
-        "id": 97
+        "id": 97,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LIBERTE",
@@ -1133,7 +1231,8 @@
         "line": [
             "8"
         ],
-        "id": 98
+        "id": 98,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MADELEINE",
@@ -1146,7 +1245,8 @@
             "12",
             "14"
         ],
-        "id": 99
+        "id": 99,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MAIRIE D'ISSY",
@@ -1157,7 +1257,8 @@
         "line": [
             "12"
         ],
-        "id": 100
+        "id": 100,
+        "displayed_at_minzoom": true
     },
     {
         "name": "MAISONS-ALFORT-STADE",
@@ -1168,7 +1269,8 @@
         "line": [
             "8"
         ],
-        "id": 101
+        "id": 101,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PERE LACHAISE",
@@ -1180,7 +1282,8 @@
             "2",
             "3"
         ],
-        "id": 102
+        "id": 102,
+        "displayed_at_minzoom": false
     },
     {
         "name": "NATIONALE",
@@ -1191,7 +1294,8 @@
         "line": [
             "6"
         ],
-        "id": 103
+        "id": 103,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PIGALLE",
@@ -1203,7 +1307,8 @@
             "2",
             "12"
         ],
-        "id": 104
+        "id": 104,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PLACE DES FETES",
@@ -1215,7 +1320,8 @@
             "7b",
             "11"
         ],
-        "id": 105
+        "id": 105,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MOUTON-DUVERNET",
@@ -1226,7 +1332,8 @@
         "line": [
             "4"
         ],
-        "id": 106
+        "id": 106,
+        "displayed_at_minzoom": false
     },
     {
         "name": "NOTRE-DAME-DES-CHAMPS",
@@ -1237,7 +1344,8 @@
         "line": [
             "12"
         ],
-        "id": 107
+        "id": 107,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ODEON",
@@ -1249,7 +1357,8 @@
             "4",
             "10"
         ],
-        "id": 108
+        "id": 108,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PONT-NEUF (LA MONNAIE)",
@@ -1260,7 +1369,8 @@
         "line": [
             "7"
         ],
-        "id": 109
+        "id": 109,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE D'AUTEUIL",
@@ -1271,7 +1381,8 @@
         "line": [
             "10"
         ],
-        "id": 110
+        "id": 110,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DE LA VILLETTE",
@@ -1282,7 +1393,8 @@
         "line": [
             "7"
         ],
-        "id": 111
+        "id": 111,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DE MONTREUIL",
@@ -1293,7 +1405,8 @@
         "line": [
             "9"
         ],
-        "id": 112
+        "id": 112,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-PHILIPPE-DU-ROULE",
@@ -1304,7 +1417,8 @@
         "line": [
             "9"
         ],
-        "id": 113
+        "id": 113,
+        "displayed_at_minzoom": false
     },
     {
         "name": "STALINGRAD",
@@ -1317,7 +1431,8 @@
             "5",
             "7"
         ],
-        "id": 114
+        "id": 114,
+        "displayed_at_minzoom": false
     },
     {
         "name": "TERNES",
@@ -1328,7 +1443,8 @@
         "line": [
             "2"
         ],
-        "id": 115
+        "id": 115,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE D'ITALIE",
@@ -1339,7 +1455,8 @@
         "line": [
             "7"
         ],
-        "id": 116
+        "id": 116,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE D'IVRY",
@@ -1350,7 +1467,8 @@
         "line": [
             "7"
         ],
-        "id": 117
+        "id": 117,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE D'ORLEANS",
@@ -1361,7 +1479,8 @@
         "line": [
             "4"
         ],
-        "id": 118
+        "id": 118,
+        "displayed_at_minzoom": false
     },
     {
         "name": "RASPAIL",
@@ -1373,7 +1492,8 @@
             "4",
             "6"
         ],
-        "id": 119
+        "id": 119,
+        "displayed_at_minzoom": false
     },
     {
         "name": "REAUMUR-SEBASTOPOL",
@@ -1385,7 +1505,8 @@
             "3",
             "4"
         ],
-        "id": 120
+        "id": 120,
+        "displayed_at_minzoom": false
     },
     {
         "name": "RIQUET",
@@ -1396,7 +1517,8 @@
         "line": [
             "7"
         ],
-        "id": 121
+        "id": 121,
+        "displayed_at_minzoom": false
     },
     {
         "name": "RUE DU BAC",
@@ -1407,7 +1529,8 @@
         "line": [
             "12"
         ],
-        "id": 122
+        "id": 122,
+        "displayed_at_minzoom": false
     },
     {
         "name": "GRANDS BOULEVARDS (RUE MONTMARTRE)",
@@ -1419,7 +1542,8 @@
             "8",
             "9"
         ],
-        "id": 123
+        "id": 123,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-DENIS-PORTE DE PARIS",
@@ -1430,7 +1554,8 @@
         "line": [
             "13"
         ],
-        "id": 124
+        "id": 124,
+        "displayed_at_minzoom": false
     },
     {
         "name": "VOLONTAIRES",
@@ -1441,7 +1566,8 @@
         "line": [
             "12"
         ],
-        "id": 125
+        "id": 125,
+        "displayed_at_minzoom": false
     },
     {
         "name": "TOLBIAC",
@@ -1452,7 +1578,8 @@
         "line": [
             "7"
         ],
-        "id": 126
+        "id": 126,
+        "displayed_at_minzoom": false
     },
     {
         "name": "VILLEJUIF-PAUL VAILLANT-COUTURIER",
@@ -1463,7 +1590,8 @@
         "line": [
             "7"
         ],
-        "id": 127
+        "id": 127,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DE LA CHAPELLE",
@@ -1474,7 +1602,8 @@
         "line": [
             "12"
         ],
-        "id": 128
+        "id": 128,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BONNE NOUVELLE",
@@ -1486,7 +1615,8 @@
             "8",
             "9"
         ],
-        "id": 129
+        "id": 129,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BOULOGNE-PONT DE SAINT CLOUD",
@@ -1497,7 +1627,8 @@
         "line": [
             "10"
         ],
-        "id": 130
+        "id": 130,
+        "displayed_at_minzoom": true
     },
     {
         "name": "BREGUET-SABIN",
@@ -1508,7 +1639,8 @@
         "line": [
             "5"
         ],
-        "id": 131
+        "id": 131,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BOBIGNY-PABLO PICASSO",
@@ -1519,7 +1651,8 @@
         "line": [
             "5"
         ],
-        "id": 132
+        "id": 132,
+        "displayed_at_minzoom": true
     },
     {
         "name": "BOBIGNY-PANTIN (RAYMOND QUENEAU)",
@@ -1530,7 +1663,8 @@
         "line": [
             "5"
         ],
-        "id": 133
+        "id": 133,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ALESIA",
@@ -1541,7 +1675,8 @@
         "line": [
             "4"
         ],
-        "id": 134
+        "id": 134,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ANVERS",
@@ -1552,7 +1687,8 @@
         "line": [
             "2"
         ],
-        "id": 135
+        "id": 135,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ARTS ET METIERS",
@@ -1564,7 +1700,8 @@
             "3",
             "11"
         ],
-        "id": 136
+        "id": 136,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BELLEVILLE",
@@ -1576,7 +1713,8 @@
             "2",
             "11"
         ],
-        "id": 137
+        "id": 137,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BERAULT",
@@ -1587,7 +1725,8 @@
         "line": [
             "1"
         ],
-        "id": 138
+        "id": 138,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CRETEIL-UNIVERSITE",
@@ -1598,7 +1737,8 @@
         "line": [
             "8"
         ],
-        "id": 139
+        "id": 139,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CRIMEE",
@@ -1609,7 +1749,8 @@
         "line": [
             "7"
         ],
-        "id": 140
+        "id": 140,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ECOLE MILITAIRE",
@@ -1620,7 +1761,8 @@
         "line": [
             "8"
         ],
-        "id": 141
+        "id": 141,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BUZENVAL",
@@ -1631,7 +1773,8 @@
         "line": [
             "9"
         ],
-        "id": 142
+        "id": 142,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CAMBRONNE",
@@ -1642,7 +1785,8 @@
         "line": [
             "6"
         ],
-        "id": 143
+        "id": 143,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CHARDON-LAGACHE",
@@ -1653,7 +1797,8 @@
         "line": [
             "10"
         ],
-        "id": 144
+        "id": 144,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CHARLES MICHELS",
@@ -1664,7 +1809,8 @@
         "line": [
             "10"
         ],
-        "id": 145
+        "id": 145,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CLUNY-LA-SORBONNE",
@@ -1675,7 +1821,8 @@
         "line": [
             "10"
         ],
-        "id": 146
+        "id": 146,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-LAZARE",
@@ -1689,7 +1836,8 @@
             "13",
             "14"
         ],
-        "id": 147
+        "id": 147,
+        "displayed_at_minzoom": false
     },
     {
         "name": "GEORGE V",
@@ -1700,7 +1848,8 @@
         "line": [
             "1"
         ],
-        "id": 148
+        "id": 148,
+        "displayed_at_minzoom": false
     },
     {
         "name": "HOCHE",
@@ -1711,7 +1860,8 @@
         "line": [
             "5"
         ],
-        "id": 149
+        "id": 149,
+        "displayed_at_minzoom": false
     },
     {
         "name": "EUROPE",
@@ -1722,7 +1872,8 @@
         "line": [
             "3"
         ],
-        "id": 150
+        "id": 150,
+        "displayed_at_minzoom": false
     },
     {
         "name": "FALGUIERE",
@@ -1733,7 +1884,8 @@
         "line": [
             "12"
         ],
-        "id": 151
+        "id": 151,
+        "displayed_at_minzoom": false
     },
     {
         "name": "JOURDAIN",
@@ -1744,7 +1896,8 @@
         "line": [
             "11"
         ],
-        "id": 152
+        "id": 152,
+        "displayed_at_minzoom": false
     },
     {
         "name": "JULES JOFFRIN",
@@ -1755,7 +1908,8 @@
         "line": [
             "12"
         ],
-        "id": 153
+        "id": 153,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MALAKOFF-PLATEAU DE VANVES",
@@ -1766,7 +1920,8 @@
         "line": [
             "13"
         ],
-        "id": 154
+        "id": 154,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MIROMESNIL",
@@ -1778,7 +1933,8 @@
             "9",
             "13"
         ],
-        "id": 155
+        "id": 155,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MONTGALLET",
@@ -1789,7 +1945,8 @@
         "line": [
             "8"
         ],
-        "id": 156
+        "id": 156,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LIEGE",
@@ -1800,7 +1957,8 @@
         "line": [
             "13"
         ],
-        "id": 157
+        "id": 157,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MABILLON",
@@ -1811,7 +1969,8 @@
         "line": [
             "10"
         ],
-        "id": 158
+        "id": 158,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PASTEUR",
@@ -1823,7 +1982,8 @@
             "6",
             "12"
         ],
-        "id": 159
+        "id": 159,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PLACE MONGE (JARDIN DES PLANTES)",
@@ -1834,7 +1994,8 @@
         "line": [
             "7"
         ],
-        "id": 160
+        "id": 160,
+        "displayed_at_minzoom": false
     },
     {
         "name": "OPERA",
@@ -1847,7 +2008,8 @@
             "7",
             "8"
         ],
-        "id": 161
+        "id": 161,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PLAISANCE",
@@ -1858,7 +2020,8 @@
         "line": [
             "13"
         ],
-        "id": 162
+        "id": 162,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DE BAGNOLET",
@@ -1869,7 +2032,8 @@
         "line": [
             "3"
         ],
-        "id": 163
+        "id": 163,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-PAUL (LE MARAIS)",
@@ -1880,7 +2044,8 @@
         "line": [
             "1"
         ],
-        "id": 164
+        "id": 164,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-PLACIDE",
@@ -1891,7 +2056,8 @@
         "line": [
             "4"
         ],
-        "id": 165
+        "id": 165,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SENTIER",
@@ -1902,7 +2068,8 @@
         "line": [
             "3"
         ],
-        "id": 166
+        "id": 166,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SEVRES-BABYLONE",
@@ -1914,7 +2081,8 @@
             "10",
             "12"
         ],
-        "id": 167
+        "id": 167,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SIMPLON",
@@ -1925,7 +2093,8 @@
         "line": [
             "4"
         ],
-        "id": 168
+        "id": 168,
+        "displayed_at_minzoom": false
     },
     {
         "name": "TEMPLE",
@@ -1936,7 +2105,8 @@
         "line": [
             "3"
         ],
-        "id": 169
+        "id": 169,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DE SAINT-CLOUD",
@@ -1947,7 +2117,8 @@
         "line": [
             "9"
         ],
-        "id": 170
+        "id": 170,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DE VERSAILLES",
@@ -1958,7 +2129,8 @@
         "line": [
             "12"
         ],
-        "id": 171
+        "id": 171,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DES LILAS",
@@ -1970,7 +2142,8 @@
             "3bis",
             "11"
         ],
-        "id": 172
+        "id": 172,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PYRAMIDES",
@@ -1982,7 +2155,8 @@
             "7",
             "14"
         ],
-        "id": 173
+        "id": 173,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PYRENEES",
@@ -1993,7 +2167,8 @@
         "line": [
             "11"
         ],
-        "id": 174
+        "id": 174,
+        "displayed_at_minzoom": false
     },
     {
         "name": "QUAI DE LA RAPEE",
@@ -2004,7 +2179,8 @@
         "line": [
             "5"
         ],
-        "id": 175
+        "id": 175,
+        "displayed_at_minzoom": false
     },
     {
         "name": "RICHELIEU-DROUOT",
@@ -2016,7 +2192,8 @@
             "8",
             "9"
         ],
-        "id": 176
+        "id": 176,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-AMBROISE",
@@ -2027,7 +2204,8 @@
         "line": [
             "9"
         ],
-        "id": 177
+        "id": 177,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-FRANCOIS-XAVIER",
@@ -2038,7 +2216,8 @@
         "line": [
             "13"
         ],
-        "id": 178
+        "id": 178,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-MAUR",
@@ -2049,7 +2228,8 @@
         "line": [
             "3"
         ],
-        "id": 179
+        "id": 179,
+        "displayed_at_minzoom": false
     },
     {
         "name": "VANEAU",
@@ -2060,7 +2240,8 @@
         "line": [
             "10"
         ],
-        "id": 180
+        "id": 180,
+        "displayed_at_minzoom": false
     },
     {
         "name": "OLYMPIADES",
@@ -2071,7 +2252,8 @@
         "line": [
             "14"
         ],
-        "id": 181
+        "id": 181,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LES COURTILLES-ASNIERES-GENNEVILLIERS",
@@ -2082,7 +2264,8 @@
         "line": [
             "13"
         ],
-        "id": 182
+        "id": 182,
+        "displayed_at_minzoom": true
     },
     {
         "name": "TROCADERO",
@@ -2094,7 +2277,8 @@
             "6",
             "9"
         ],
-        "id": 183
+        "id": 183,
+        "displayed_at_minzoom": false
     },
     {
         "name": "VICTOR HUGO",
@@ -2105,7 +2289,8 @@
         "line": [
             "2"
         ],
-        "id": 184
+        "id": 184,
+        "displayed_at_minzoom": false
     },
     {
         "name": "VILLEJUIF-LOUIS ARAGON",
@@ -2116,7 +2301,8 @@
         "line": [
             "7"
         ],
-        "id": 185
+        "id": 185,
+        "displayed_at_minzoom": true
     },
     {
         "name": "FRONT POPULAIRE",
@@ -2127,7 +2313,8 @@
         "line": [
             "12"
         ],
-        "id": 186
+        "id": 186,
+        "displayed_at_minzoom": true
     },
     {
         "name": "MAIRIE DE MONTROUGE",
@@ -2138,7 +2325,8 @@
         "line": [
             "4"
         ],
-        "id": 187
+        "id": 187,
+        "displayed_at_minzoom": true
     },
     {
         "name": "PORTE DE CLICHY",
@@ -2149,7 +2337,8 @@
         "line": [
             "13"
         ],
-        "id": 188
+        "id": 188,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DE CLIGNANCOURT",
@@ -2160,7 +2349,8 @@
         "line": [
             "4"
         ],
-        "id": 189
+        "id": 189,
+        "displayed_at_minzoom": true
     },
     {
         "name": "BOURSE",
@@ -2171,7 +2361,8 @@
         "line": [
             "3"
         ],
-        "id": 190
+        "id": 190,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BLANCHE",
@@ -2182,7 +2373,8 @@
         "line": [
             "2"
         ],
-        "id": 191
+        "id": 191,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ALMA-MARCEAU",
@@ -2193,7 +2385,8 @@
         "line": [
             "9"
         ],
-        "id": 192
+        "id": 192,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ARGENTINE",
@@ -2204,7 +2397,8 @@
         "line": [
             "1"
         ],
-        "id": 193
+        "id": 193,
+        "displayed_at_minzoom": false
     },
     {
         "name": "AUBERVILLIERS-PANTIN (QUATRE CHEMINS)",
@@ -2215,7 +2409,8 @@
         "line": [
             "7"
         ],
-        "id": 194
+        "id": 194,
+        "displayed_at_minzoom": false
     },
     {
         "name": "AVENUE EMILE ZOLA",
@@ -2226,7 +2421,8 @@
         "line": [
             "10"
         ],
-        "id": 195
+        "id": 195,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CORVISART",
@@ -2237,7 +2433,8 @@
         "line": [
             "6"
         ],
-        "id": 196
+        "id": 196,
+        "displayed_at_minzoom": false
     },
     {
         "name": "COURONNES",
@@ -2248,7 +2445,8 @@
         "line": [
             "2"
         ],
-        "id": 197
+        "id": 197,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ECOLE VETERINAIRE DE MAISONS-ALFORT",
@@ -2259,7 +2457,8 @@
         "line": [
             "8"
         ],
-        "id": 198
+        "id": 198,
+        "displayed_at_minzoom": false
     },
     {
         "name": "EDGAR QUINET",
@@ -2270,7 +2469,8 @@
         "line": [
             "6"
         ],
-        "id": 199
+        "id": 199,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CARDINAL-LEMOINE",
@@ -2281,7 +2481,8 @@
         "line": [
             "10"
         ],
-        "id": 200
+        "id": 200,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CHAMPS-ELYSEES-CLEMENCEAU",
@@ -2293,7 +2494,8 @@
             "1",
             "13"
         ],
-        "id": 201
+        "id": 201,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CHARENTON-ECOLES",
@@ -2304,7 +2506,8 @@
         "line": [
             "8"
         ],
-        "id": 202
+        "id": 202,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CHARONNE",
@@ -2315,7 +2518,8 @@
         "line": [
             "9"
         ],
-        "id": 203
+        "id": 203,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CHATEAU ROUGE",
@@ -2326,7 +2530,8 @@
         "line": [
             "4"
         ],
-        "id": 204
+        "id": 204,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CHAUSSEE D'ANTIN (LA FAYETTE)",
@@ -2338,7 +2543,8 @@
             "7",
             "9"
         ],
-        "id": 205
+        "id": 205,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CITE",
@@ -2349,7 +2555,8 @@
         "line": [
             "4"
         ],
-        "id": 206
+        "id": 206,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CONVENTION",
@@ -2360,7 +2567,8 @@
         "line": [
             "12"
         ],
-        "id": 207
+        "id": 207,
+        "displayed_at_minzoom": false
     },
     {
         "name": "EXELMANS",
@@ -2371,7 +2579,8 @@
         "line": [
             "9"
         ],
-        "id": 208
+        "id": 208,
+        "displayed_at_minzoom": false
     },
     {
         "name": "FILLES DU CALVAIRE",
@@ -2382,7 +2591,8 @@
         "line": [
             "8"
         ],
-        "id": 209
+        "id": 209,
+        "displayed_at_minzoom": false
     },
     {
         "name": "JACQUES BONSERGENT",
@@ -2393,7 +2603,8 @@
         "line": [
             "5"
         ],
-        "id": 210
+        "id": 210,
+        "displayed_at_minzoom": false
     },
     {
         "name": "JUSSIEU",
@@ -2405,7 +2616,8 @@
             "7",
             "10"
         ],
-        "id": 211
+        "id": 211,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LA CHAPELLE",
@@ -2416,7 +2628,8 @@
         "line": [
             "2"
         ],
-        "id": 212
+        "id": 212,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MARX DORMOY",
@@ -2427,7 +2640,8 @@
         "line": [
             "12"
         ],
-        "id": 213
+        "id": 213,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MAUBERT-MUTUALITE",
@@ -2438,7 +2652,8 @@
         "line": [
             "10"
         ],
-        "id": 214
+        "id": 214,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MENILMONTANT",
@@ -2449,7 +2664,8 @@
         "line": [
             "2"
         ],
-        "id": 215
+        "id": 215,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MICHEL-ANGE-AUTEUIL",
@@ -2461,7 +2677,8 @@
             "9",
             "10"
         ],
-        "id": 216
+        "id": 216,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LA FOURCHE",
@@ -2472,7 +2689,8 @@
         "line": [
             "13"
         ],
-        "id": 217
+        "id": 217,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LA MUETTE",
@@ -2483,7 +2701,8 @@
         "line": [
             "9"
         ],
-        "id": 218
+        "id": 218,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LAMARCK-CAULAINCOURT",
@@ -2494,7 +2713,8 @@
         "line": [
             "12"
         ],
-        "id": 219
+        "id": 219,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LAUMIERE",
@@ -2505,7 +2725,8 @@
         "line": [
             "5"
         ],
-        "id": 220
+        "id": 220,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LE KREMLIN-BICETRE",
@@ -2516,7 +2737,8 @@
         "line": [
             "7"
         ],
-        "id": 221
+        "id": 221,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LES SABLONS (JARDIN D'ACCLIMATATION)",
@@ -2527,7 +2749,8 @@
         "line": [
             "1"
         ],
-        "id": 222
+        "id": 222,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LOUISE MICHEL",
@@ -2538,7 +2761,8 @@
         "line": [
             "3"
         ],
-        "id": 223
+        "id": 223,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LOURMEL",
@@ -2549,7 +2773,8 @@
         "line": [
             "8"
         ],
-        "id": 224
+        "id": 224,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MAIRIE DE CLICHY",
@@ -2560,7 +2785,8 @@
         "line": [
             "13"
         ],
-        "id": 225
+        "id": 225,
+        "displayed_at_minzoom": false
     },
     {
         "name": "OURCQ",
@@ -2571,7 +2797,8 @@
         "line": [
             "5"
         ],
-        "id": 226
+        "id": 226,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PALAIS ROYAL-MUSEE DU LOUVRE",
@@ -2583,7 +2810,8 @@
             "1",
             "7"
         ],
-        "id": 227
+        "id": 227,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PASSY",
@@ -2594,7 +2822,8 @@
         "line": [
             "6"
         ],
-        "id": 228
+        "id": 228,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PELLEPORT",
@@ -2605,7 +2834,8 @@
         "line": [
             "3bis"
         ],
-        "id": 229
+        "id": 229,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PERNETY",
@@ -2616,7 +2846,8 @@
         "line": [
             "13"
         ],
-        "id": 230
+        "id": 230,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PHILIPPE AUGUSTE",
@@ -2627,7 +2858,8 @@
         "line": [
             "2"
         ],
-        "id": 231
+        "id": 231,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PICPUS",
@@ -2638,7 +2870,8 @@
         "line": [
             "6"
         ],
-        "id": 232
+        "id": 232,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PIERRE CURIE",
@@ -2649,7 +2882,8 @@
         "line": [
             "7"
         ],
-        "id": 233
+        "id": 233,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PONT DE NEUILLY (AVENUE DE MADRID)",
@@ -2660,7 +2894,8 @@
         "line": [
             "1"
         ],
-        "id": 234
+        "id": 234,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SOLFERINO",
@@ -2671,7 +2906,8 @@
         "line": [
             "12"
         ],
-        "id": 235
+        "id": 235,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DE SAINT-OUEN",
@@ -2682,7 +2918,8 @@
         "line": [
             "13"
         ],
-        "id": 236
+        "id": 236,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DE VANVES",
@@ -2693,7 +2930,8 @@
         "line": [
             "13"
         ],
-        "id": 237
+        "id": 237,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DE VINCENNES",
@@ -2704,7 +2942,8 @@
         "line": [
             "1"
         ],
-        "id": 238
+        "id": 238,
+        "displayed_at_minzoom": false
     },
     {
         "name": "QUATRE SEPTEMBRE",
@@ -2715,7 +2954,8 @@
         "line": [
             "3"
         ],
-        "id": 239
+        "id": 239,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ROME",
@@ -2726,7 +2966,8 @@
         "line": [
             "2"
         ],
-        "id": 240
+        "id": 240,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-MARCEL",
@@ -2737,7 +2978,8 @@
         "line": [
             "5"
         ],
-        "id": 241
+        "id": 241,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-MICHEL",
@@ -2748,7 +2990,8 @@
         "line": [
             "4"
         ],
-        "id": 242
+        "id": 242,
+        "displayed_at_minzoom": false
     },
     {
         "name": "VARENNE",
@@ -2759,7 +3002,8 @@
         "line": [
             "13"
         ],
-        "id": 243
+        "id": 243,
+        "displayed_at_minzoom": false
     },
     {
         "name": "VAVIN",
@@ -2770,7 +3014,8 @@
         "line": [
             "4"
         ],
-        "id": 244
+        "id": 244,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LES AGNETTES-ASNIERES-GENNEVILLIERS",
@@ -2781,7 +3026,8 @@
         "line": [
             "13"
         ],
-        "id": 245
+        "id": 245,
+        "displayed_at_minzoom": false
     },
     {
         "name": "TUILERIES",
@@ -2792,7 +3038,8 @@
         "line": [
             "1"
         ],
-        "id": 246
+        "id": 246,
+        "displayed_at_minzoom": false
     },
     {
         "name": "VILLIERS",
@@ -2804,7 +3051,8 @@
             "2",
             "3"
         ],
-        "id": 247
+        "id": 247,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ABBESSES",
@@ -2815,7 +3063,8 @@
         "line": [
             "12"
         ],
-        "id": 248
+        "id": 248,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BIR-HAKEIM (GRENELLE)",
@@ -2826,7 +3075,8 @@
         "line": [
             "6"
         ],
-        "id": 249
+        "id": 249,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BOISSIERE",
@@ -2837,7 +3087,8 @@
         "line": [
             "6"
         ],
-        "id": 250
+        "id": 250,
+        "displayed_at_minzoom": false
     },
     {
         "name": "BOLIVAR",
@@ -2848,7 +3099,8 @@
         "line": [
             "7b"
         ],
-        "id": 251
+        "id": 251,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ALEXANDRE DUMAS",
@@ -2859,7 +3111,8 @@
         "line": [
             "2"
         ],
-        "id": 252
+        "id": 252,
+        "displayed_at_minzoom": false
     },
     {
         "name": "COURCELLES",
@@ -2870,7 +3123,8 @@
         "line": [
             "2"
         ],
-        "id": 253
+        "id": 253,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CRETEIL-PREFECTURE (HOTEL DE VILLE)",
@@ -2881,7 +3135,8 @@
         "line": [
             "8"
         ],
-        "id": 254
+        "id": 254,
+        "displayed_at_minzoom": false
     },
     {
         "name": "DANUBE",
@@ -2892,7 +3147,8 @@
         "line": [
             "7b"
         ],
-        "id": 255
+        "id": 255,
+        "displayed_at_minzoom": false
     },
     {
         "name": "EGLISE DE PANTIN",
@@ -2903,7 +3159,8 @@
         "line": [
             "5"
         ],
-        "id": 256
+        "id": 256,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CADET",
@@ -2914,7 +3171,8 @@
         "line": [
             "7"
         ],
-        "id": 257
+        "id": 257,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CENSIER-DAUBENTON",
@@ -2925,7 +3183,8 @@
         "line": [
             "7"
         ],
-        "id": 258
+        "id": 258,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CHEMIN VERT",
@@ -2936,7 +3195,8 @@
         "line": [
             "8"
         ],
-        "id": 259
+        "id": 259,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CORENTIN CARIOU",
@@ -2947,7 +3207,8 @@
         "line": [
             "7"
         ],
-        "id": 260
+        "id": 260,
+        "displayed_at_minzoom": false
     },
     {
         "name": "GARIBALDI",
@@ -2958,7 +3219,8 @@
         "line": [
             "13"
         ],
-        "id": 261
+        "id": 261,
+        "displayed_at_minzoom": false
     },
     {
         "name": "GONCOURT (HOPITAL SAINT-LOUIS)",
@@ -2969,7 +3231,8 @@
         "line": [
             "11"
         ],
-        "id": 262
+        "id": 262,
+        "displayed_at_minzoom": false
     },
     {
         "name": "GALLIENI (PARC DE BAGNOLET)",
@@ -2980,7 +3243,8 @@
         "line": [
             "3"
         ],
-        "id": 263
+        "id": 263,
+        "displayed_at_minzoom": true
     },
     {
         "name": "GUY MOQUET",
@@ -2991,7 +3255,8 @@
         "line": [
             "13"
         ],
-        "id": 264
+        "id": 264,
+        "displayed_at_minzoom": false
     },
     {
         "name": "INVALIDES",
@@ -3003,7 +3268,8 @@
             "8",
             "13"
         ],
-        "id": 265
+        "id": 265,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MALAKOFF-RUE \u00c9TIENNE DOLET",
@@ -3014,7 +3280,8 @@
         "line": [
             "13"
         ],
-        "id": 266
+        "id": 266,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MARAICHERS",
@@ -3025,7 +3292,8 @@
         "line": [
             "9"
         ],
-        "id": 267
+        "id": 267,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MONCEAU",
@@ -3036,7 +3304,8 @@
         "line": [
             "2"
         ],
-        "id": 268
+        "id": 268,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LA TOUR MAUBOURG",
@@ -3047,7 +3316,8 @@
         "line": [
             "8"
         ],
-        "id": 269
+        "id": 269,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LE PELETIER",
@@ -3058,7 +3328,8 @@
         "line": [
             "7"
         ],
-        "id": 270
+        "id": 270,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LEDRU-ROLLIN",
@@ -3069,7 +3340,8 @@
         "line": [
             "8"
         ],
-        "id": 271
+        "id": 271,
+        "displayed_at_minzoom": false
     },
     {
         "name": "LOUVRE-RIVOLI",
@@ -3080,7 +3352,8 @@
         "line": [
             "1"
         ],
-        "id": 272
+        "id": 272,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MAIRIE DE SAINT-OUEN",
@@ -3091,7 +3364,8 @@
         "line": [
             "13"
         ],
-        "id": 273
+        "id": 273,
+        "displayed_at_minzoom": true
     },
     {
         "name": "MAIRIE DES LILAS",
@@ -3102,7 +3376,8 @@
         "line": [
             "11"
         ],
-        "id": 274
+        "id": 274,
+        "displayed_at_minzoom": true
     },
     {
         "name": "MAIRIE D'IVRY",
@@ -3113,7 +3388,8 @@
         "line": [
             "7"
         ],
-        "id": 275
+        "id": 275,
+        "displayed_at_minzoom": true
     },
     {
         "name": "MAISONS-ALFORT-LES JUILLIOTTES",
@@ -3124,7 +3400,8 @@
         "line": [
             "8"
         ],
-        "id": 276
+        "id": 276,
+        "displayed_at_minzoom": false
     },
     {
         "name": "MAISON BLANCHE",
@@ -3135,7 +3412,8 @@
         "line": [
             "7"
         ],
-        "id": 277
+        "id": 277,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PARMENTIER",
@@ -3146,7 +3424,8 @@
         "line": [
             "3"
         ],
-        "id": 278
+        "id": 278,
+        "displayed_at_minzoom": false
     },
     {
         "name": "NOTRE-DAME-DE-LORETTE",
@@ -3157,7 +3436,8 @@
         "line": [
             "12"
         ],
-        "id": 279
+        "id": 279,
+        "displayed_at_minzoom": false
     },
     {
         "name": "POISSONNIERE",
@@ -3168,7 +3448,8 @@
         "line": [
             "7"
         ],
-        "id": 280
+        "id": 280,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PONT-MARIE (CITE DES ARTS)",
@@ -3179,7 +3460,8 @@
         "line": [
             "7"
         ],
-        "id": 281
+        "id": 281,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DAUPHINE",
@@ -3190,7 +3472,8 @@
         "line": [
             "2"
         ],
-        "id": 282
+        "id": 282,
+        "displayed_at_minzoom": true
     },
     {
         "name": "PORTE DE CHAMPERRET",
@@ -3201,7 +3484,8 @@
         "line": [
             "3"
         ],
-        "id": 283
+        "id": 283,
+        "displayed_at_minzoom": false
     },
     {
         "name": "PORTE DE CHOISY",
@@ -3212,7 +3496,8 @@
         "line": [
             "7"
         ],
-        "id": 284
+        "id": 284,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-SULPICE",
@@ -3223,7 +3508,8 @@
         "line": [
             "4"
         ],
-        "id": 285
+        "id": 285,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SEGUR",
@@ -3234,7 +3520,8 @@
         "line": [
             "10"
         ],
-        "id": 286
+        "id": 286,
+        "displayed_at_minzoom": false
     },
     {
         "name": "QUAI DE LA GARE",
@@ -3245,7 +3532,8 @@
         "line": [
             "6"
         ],
-        "id": 287
+        "id": 287,
+        "displayed_at_minzoom": false
     },
     {
         "name": "RAMBUTEAU",
@@ -3256,7 +3544,8 @@
         "line": [
             "11"
         ],
-        "id": 288
+        "id": 288,
+        "displayed_at_minzoom": false
     },
     {
         "name": "RANELAGH",
@@ -3267,7 +3556,8 @@
         "line": [
             "9"
         ],
-        "id": 289
+        "id": 289,
+        "displayed_at_minzoom": false
     },
     {
         "name": "REUILLY-DIDEROT",
@@ -3279,7 +3569,8 @@
             "1",
             "8"
         ],
-        "id": 290
+        "id": 290,
+        "displayed_at_minzoom": false
     },
     {
         "name": "ROBESPIERRE",
@@ -3290,7 +3581,8 @@
         "line": [
             "9"
         ],
-        "id": 291
+        "id": 291,
+        "displayed_at_minzoom": false
     },
     {
         "name": "RUE DE LA POMPE (AVENUE GEORGES MANDEL)",
@@ -3301,7 +3593,8 @@
         "line": [
             "9"
         ],
-        "id": 292
+        "id": 292,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-AUGUSTIN",
@@ -3312,7 +3605,8 @@
         "line": [
             "9"
         ],
-        "id": 293
+        "id": 293,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-DENIS-UNIVERSITE",
@@ -3323,7 +3617,8 @@
         "line": [
             "13"
         ],
-        "id": 294
+        "id": 294,
+        "displayed_at_minzoom": true
     },
     {
         "name": "SAINT-GERMAIN-DES-PRES",
@@ -3334,7 +3629,8 @@
         "line": [
             "4"
         ],
-        "id": 295
+        "id": 295,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-JACQUES",
@@ -3345,7 +3641,8 @@
         "line": [
             "6"
         ],
-        "id": 296
+        "id": 296,
+        "displayed_at_minzoom": false
     },
     {
         "name": "SAINT-MANDE",
@@ -3356,7 +3653,8 @@
         "line": [
             "1"
         ],
-        "id": 297
+        "id": 297,
+        "displayed_at_minzoom": false
     },
     {
         "name": "VOLTAIRE (LEON BLUM)",
@@ -3367,7 +3665,8 @@
         "line": [
             "9"
         ],
-        "id": 298
+        "id": 298,
+        "displayed_at_minzoom": false
     },
     {
         "name": "WAGRAM",
@@ -3378,7 +3677,8 @@
         "line": [
             "3"
         ],
-        "id": 299
+        "id": 299,
+        "displayed_at_minzoom": false
     },
     {
         "name": "TRINITE-D'ESTIENNE D'ORVES",
@@ -3389,7 +3689,8 @@
         "line": [
             "12"
         ],
-        "id": 300
+        "id": 300,
+        "displayed_at_minzoom": false
     },
     {
         "name": "CRETEIL-POINTE DU LAC",
@@ -3400,6 +3701,7 @@
         "line": [
             "8"
         ],
-        "id": 301
+        "id": 301,
+        "displayed_at_minzoom": true
     }
 ]

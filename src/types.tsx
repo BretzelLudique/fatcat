@@ -25,7 +25,8 @@ export type Stop = {
     name: string,
     coordinate: LatLng,
     line: LinesArray,
-    id: number
+    id: number,
+    displayed_at_minzoom: Boolean
 }
 
 export type Poly = {
