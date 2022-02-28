@@ -5,7 +5,7 @@ import { Marker } from 'react-native-maps';
 
 interface StopMarkersProps {
     stops: Stop[];
-    MarkerRefs: React.MutableRefObject<Marker[]>;
+    markerRefs: React.MutableRefObject<Marker[]>;
     navigation: Navigation;
 }
 
@@ -15,12 +15,12 @@ interface StopMarkersProps {
  */
 const StopMarkers = ({
     stops,
-    MarkerRefs,
+    markerRefs,
     navigation,
 }: StopMarkersProps): JSX.Element => {
     const StopMarkersArray: JSX.Element[] = stops.map((stop, index) => (
         <Marker
-            ref={(marker: Marker) => (MarkerRefs.current[index] = marker)}
+            ref={(marker: Marker) => (markerRefs.current[index] = marker)}
             key={index}
             title={stop.name}
             description={'Découvrir son histoire'}
