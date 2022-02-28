@@ -2,7 +2,6 @@ import React from 'react';
 import {
     StyleSheet,
     View,
-    Image,
     ScrollView,
     Text,
     Alert,
@@ -14,13 +13,14 @@ import { Button, Modal, Portal, Searchbar, List } from 'react-native-paper';
 import MapView, { Marker, Region, MapStyleElement } from 'react-native-maps';
 import stops from '../../assets/map/marker_locs.json';
 import retroStyle from '../../assets/map/retroMapStyle.json';
+import StopMarkers from '../components/map/StopMarkers';
 
 export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
-    const MarkerRefsArray = React.useRef(new Array(stops.length));
-    const mapRef = React.useRef(null);
+    const markerRefs = React.useRef<Marker[]>(new Array(stops.length));
+    const mapRef = React.useRef<MapView>(null);
 
     const [searchQuery, setSearchQuery] = React.useState('');
-    const [filteredStops, setFilteredStops] = React.useState(stops);
+    const [filteredStops, setFilteredStops] = React.useState<Stop[]>(stops);
     const [showSearchModal, setShowSearchModal] = React.useState(false);
 
     // map personnalization
@@ -29,28 +29,6 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
         longitude: 2.342,
         latitudeDelta: 0.13,
         longitudeDelta: 0.13,
-    };
-
-    const createMarker = (stop: Stop, index: number): JSX.Element => {
-        return (
-            <Marker
-                ref={(marker: any) => (MarkerRefsArray.current[index] = marker)}
-                key={index}
-                title={stop.name}
-                description={'Découvrir son histoire'}
-                coordinate={stop.coordinate}
-                anchor={{ x: 0.5, y: 0.5 }}
-                calloutAnchor={{ x: 0.5, y: 0 }} //in same coord system as anchor
-                tracksViewChanges={false}
-                stopPropagation={true}
-                onCalloutPress={() => navigation.navigate('MetroStop', stop)}
-            >
-                <Image
-                    style={{ width: 20, height: 20 }}
-                    source={require('../../assets/img/onlyCircleMetroIcon.png')}
-                />
-            </Marker>
-        );
     };
 
     React.useEffect(() => {
@@ -66,12 +44,12 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
         }
     }, [searchQuery]);
 
-    const ItemView = ({ item }: any) => {
+    const ItemView = ({ item }: { item: Stop }): JSX.Element => {
         return (
             // Flat List Item
             <Text
                 //style={styles.itemStyle}
-                onPress={() => MarkerRefsArray.current[item.id].showCallout()}
+                onPress={() => markerRefs.current[item.id].showCallout()}
             >
                 {item.name.toUpperCase()}
                 {' | ligne(s) : '}
@@ -80,7 +58,7 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
         );
     };
 
-    const ItemSeparatorView = () => {
+    const ItemSeparatorView = (): JSX.Element => {
         return (
             <View
                 style={{
@@ -101,7 +79,11 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
                 loadingEnabled={true}
                 customMapStyle={retroStyle}
             >
-                {stops.map(createMarker)}
+                <StopMarkers
+                    stops={stops}
+                    MarkerRefs={markerRefs}
+                    navigation={navigation}
+                />
                 {LinePolylines()}
             </MapView>
             <Portal>
@@ -115,7 +97,7 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
                 >
                     <FlatList
                         data={filteredStops}
-                        keyExtractor={(item, index) => index.toString()}
+                        keyExtractor={(item, index) => index.toString()} // filteredStops is immutable (useState), so indexes are also immutable
                         ItemSeparatorComponent={ItemSeparatorView}
                         renderItem={ItemView}
                     />
