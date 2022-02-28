@@ -1,16 +1,16 @@
 import React from 'react';
-import {StyleSheet, Text, ScrollView, Image} from 'react-native';
-import {RouteNav} from '../types';
-import {useTheme} from 'react-native-paper';
-import {LinesIcons} from '../components/stopscreen/LinesIcons';
+import { StyleSheet, Text, ScrollView, Image } from 'react-native';
+import { RouteNav } from '../types';
+import { useTheme } from 'react-native-paper';
+import { LinesIcons } from '../components/stopscreen/LinesIcons';
 
-export const MetroStopScreen = ({route}: RouteNav): JSX.Element => {
-    const {name, line} = route.params;
+export const MetroStopScreen = ({ route }: RouteNav): JSX.Element => {
+    const { name, line } = route.params;
     const text: Record<
         string,
         string
     > = require('../../assets/txt/ligne1.json');
-    const {colors} = useTheme();
+    const { colors } = useTheme();
 
     return (
         <ScrollView style={styles.container}>

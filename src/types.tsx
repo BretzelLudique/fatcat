@@ -1,6 +1,6 @@
-import {RouteProp} from '@react-navigation/native';
-import {StackNavigationProp} from '@react-navigation/stack';
-import {LatLng} from 'react-native-maps';
+import { RouteProp } from '@react-navigation/native';
+import { StackNavigationProp } from '@react-navigation/stack';
+import { LatLng } from 'react-native-maps';
 
 export type RootStackParamList = {
     MapHomeScreen: undefined;
@@ -33,4 +33,4 @@ export type Poly = {
     color: string;
 };
 
-export type WithChildren<T = {}> = T & {children?: React.ReactNode};
+export type WithChildren<T = {}> = T & { children?: React.ReactNode };

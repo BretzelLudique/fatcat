@@ -1,4 +1,4 @@
-import React, {useRef, useState, useEffect} from 'react';
+import React, { useRef, useState, useEffect } from 'react';
 import {
     StyleSheet,
     View,
@@ -7,15 +7,15 @@ import {
     Alert,
     FlatList,
 } from 'react-native';
-import {RouteNav, Stop} from '../types';
-import {MetroLines} from '../components/map/MetroLines';
-import {Button, Modal, Portal, Searchbar, List} from 'react-native-paper';
-import MapView, {Marker, Region, MapStyleElement} from 'react-native-maps';
+import { RouteNav, Stop } from '../types';
+import { MetroLines } from '../components/map/MetroLines';
+import { Button, Modal, Portal, Searchbar, List } from 'react-native-paper';
+import MapView, { Marker, Region, MapStyleElement } from 'react-native-maps';
 import stops from '../../assets/map/marker_locs.json';
 import retroStyle from '../../assets/map/retroMapStyle.json';
 import StopMarkers from '../components/map/StopMarkers';
 
-export const MapHomeScreen = ({navigation}: RouteNav): JSX.Element => {
+export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
     const markerRefs = useRef<Marker[]>(new Array(stops.length));
     const mapRef = useRef<MapView>(null);
 
@@ -44,7 +44,7 @@ export const MapHomeScreen = ({navigation}: RouteNav): JSX.Element => {
         }
     }, [searchQuery]);
 
-    const ItemView = ({item}: {item: Stop}): JSX.Element => {
+    const ItemView = ({ item }: { item: Stop }): JSX.Element => {
         return (
             // Flat List Item
             <Text
@@ -90,7 +90,7 @@ export const MapHomeScreen = ({navigation}: RouteNav): JSX.Element => {
                     onDismiss={() => setShowSearchModal(false)}
                     contentContainerStyle={[
                         styles.searchContainer,
-                        {height: 210},
+                        { height: 210 },
                     ]}>
                     <FlatList
                         data={filteredStops}

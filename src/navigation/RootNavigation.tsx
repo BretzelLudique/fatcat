@@ -1,9 +1,9 @@
 import * as React from 'react';
-import {createStackNavigator} from '@react-navigation/stack';
-import {RootStackParamList} from '../types';
+import { createStackNavigator } from '@react-navigation/stack';
+import { RootStackParamList } from '../types';
 
-import {MapHomeScreen} from '../screens/MapHomeScreen';
-import {MetroStopScreen} from '../screens/MetroStopScreen';
+import { MapHomeScreen } from '../screens/MapHomeScreen';
+import { MetroStopScreen } from '../screens/MetroStopScreen';
 
 import {
     NavigationContainer,
@@ -35,14 +35,14 @@ const RootNavigation = (): JSX.Element => {
                     <RootStack.Screen
                         name="MapHomeScreen"
                         component={MapHomeScreen}
-                        options={{headerShown: false}}
+                        options={{ headerShown: false }}
 
                         //options={{ title: 'Welcome' }}
                     />
                     <RootStack.Screen
                         name="MetroStop"
                         component={MetroStopScreen}
-                        options={({route}) => ({title: route.params.name})}
+                        options={({ route }) => ({ title: route.params.name })}
                     />
                 </RootStack.Navigator>
             </NavigationContainer>
