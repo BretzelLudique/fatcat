@@ -5,7 +5,7 @@ lib.naive_wd()
 txt_dir = lib.txt_dir
 
 loc_filename = "assets/map/marker_locs.json"
-terminus_filename = "liste-terminus.json"
+terminus_filename = "assets/liste-terminus.json"
 
 dest_filename = "assets/new_marker_locs.json"
 
@@ -21,10 +21,10 @@ print(term)
 
 stopLen = len(data)
 for i in range(stopLen):
-    data[i]['displayed_at_minzoom'] = True if (data[i]['name'] in term) else False
+    data[i]['displayed_at_minzoom'] = True if (
+        data[i]['name'] in term) else False
 
 with open(dest_filename, 'w') as dest_file:
     json.dump(data, dest_file)
 
 print(dest_filename + " has been created")
-    

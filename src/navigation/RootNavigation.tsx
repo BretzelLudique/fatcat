@@ -1,9 +1,9 @@
 import * as React from 'react';
-import { createStackNavigator } from '@react-navigation/stack';
-import { RootStackParamList } from '../types';
+import {createStackNavigator} from '@react-navigation/stack';
+import {RootStackParamList} from '../types';
 
-import { MapHomeScreen } from '../screens/MapHomeScreen';
-import { MetroStop } from '../screens/MetroStopScreen';
+import {MapHomeScreen} from '../screens/MapHomeScreen';
+import {MetroStopScreen} from '../screens/MetroStopScreen';
 
 import {
     NavigationContainer,
@@ -24,35 +24,30 @@ const CombinedDarkTheme = merge(PaperDarkTheme, NavigationDarkTheme);
 
 const RootStack = createStackNavigator<RootStackParamList>();
 
-const RootNavigation = () => {
+const RootNavigation = (): JSX.Element => {
     return (
-        <PaperProvider
-            theme={CombinedDefaultTheme}>
-
-            <NavigationContainer
-                theme={CombinedDefaultTheme}>
-
+        <PaperProvider theme={CombinedDefaultTheme}>
+            <NavigationContainer theme={CombinedDefaultTheme}>
                 <RootStack.Navigator
                     screenOptions={{
-                        headerShown: false
+                        headerShown: false,
                     }}>
-
                     <RootStack.Screen
                         name="MapHomeScreen"
                         component={MapHomeScreen}
-                        options={{ headerShown: false }}
+                        options={{headerShown: false}}
 
-                    //options={{ title: 'Welcome' }}
+                        //options={{ title: 'Welcome' }}
                     />
                     <RootStack.Screen
-                        name='MetroStop'
-                        component={MetroStop}
-                        options={({route})=>({title:route.params.name})}
+                        name="MetroStop"
+                        component={MetroStopScreen}
+                        options={({route}) => ({title: route.params.name})}
                     />
                 </RootStack.Navigator>
             </NavigationContainer>
         </PaperProvider>
     );
-}
+};
 
 export default RootNavigation;

@@ -1,6 +1,6 @@
 import React from 'react';
-import { Poly } from '../../types';
-import { Polyline } from 'react-native-maps';
+import {Poly} from '../../types';
+import {Polyline} from 'react-native-maps';
 
 export const MetroLines = (): JSX.Element => {
     const polylineLocs: Array<Poly> = require('../../../assets/map/polyline_locs.json');
