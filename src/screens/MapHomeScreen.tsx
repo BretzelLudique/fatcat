@@ -8,7 +8,7 @@ import {
     FlatList,
 } from 'react-native';
 import { RouteNav, Stop } from '../types';
-import { LinePolylines } from '../components/map/LinePolylines';
+import { MetroLines } from '../components/map/MetroLines';
 import { Button, Modal, Portal, Searchbar, List } from 'react-native-paper';
 import MapView, { Marker, Region, MapStyleElement } from 'react-native-maps';
 import stops from '../../assets/map/marker_locs.json';
@@ -84,7 +84,7 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
                     MarkerRefs={markerRefs}
                     navigation={navigation}
                 />
-                {LinePolylines()}
+                <MetroLines />
             </MapView>
             <Portal>
                 <Modal

@@ -18,33 +18,27 @@ const StopMarkers = ({
     MarkerRefs,
     navigation,
 }: StopMarkersProps): JSX.Element => {
-    return (
-        <React.Fragment>
-            {stops.map((stop, index) => (
-                <Marker
-                    ref={(marker: Marker) =>
-                        (MarkerRefs.current[index] = marker)
-                    }
-                    key={index}
-                    title={stop.name}
-                    description={'Découvrir son histoire'}
-                    coordinate={stop.coordinate}
-                    anchor={{ x: 0.5, y: 0.5 }}
-                    calloutAnchor={{ x: 0.5, y: 0 }} //in same coord system as anchor
-                    tracksViewChanges={false}
-                    stopPropagation={true}
-                    onCalloutPress={() =>
-                        navigation.navigate('MetroStop', stop)
-                    }
-                >
-                    <Image
-                        style={{ width: 20, height: 20 }}
-                        source={require('../../../assets/img/onlyCircleMetroIcon.png')}
-                    />
-                </Marker>
-            ))}
-        </React.Fragment>
-    );
+    const StopMarkersArray: JSX.Element[] = stops.map((stop, index) => (
+        <Marker
+            ref={(marker: Marker) => (MarkerRefs.current[index] = marker)}
+            key={index}
+            title={stop.name}
+            description={'Découvrir son histoire'}
+            coordinate={stop.coordinate}
+            anchor={{ x: 0.5, y: 0.5 }}
+            calloutAnchor={{ x: 0.5, y: 0 }} //in same coord system as anchor
+            tracksViewChanges={false}
+            stopPropagation={true}
+            onCalloutPress={() => navigation.navigate('MetroStop', stop)}
+        >
+            <Image
+                style={{ width: 20, height: 20 }}
+                source={require('../../../assets/img/onlyCircleMetroIcon.png')}
+            />
+        </Marker>
+    ));
+
+    return <React.Fragment>{StopMarkersArray}</React.Fragment>;
 };
 
 export default StopMarkers;
