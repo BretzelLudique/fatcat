@@ -16,12 +16,12 @@ import stops from '../../assets/map/marker_locs.json';
 import retroStyle from '../../assets/map/retroMapStyle.json';
 
 export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
-    const MarkerRefsArray = React.useRef(new Array());
+    const MarkerRefsArray = React.useRef(new Array(stops.length));
     const mapRef = React.useRef(null);
 
     const [searchQuery, setSearchQuery] = React.useState('');
     const [filteredStops, setFilteredStops] = React.useState(stops);
-    const [showSearchList, setShowSearchList] = React.useState(false);
+    const [showSearchModal, setShowSearchModal] = React.useState(false);
 
     // map personnalization
     const ParisRegion: Region = {
@@ -53,19 +53,18 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
         );
     };
 
-    const onChangeSearchInput = (query: string) => {
-        if (query) {
-            const newData = stops.filter(function (stop: Stop) {
-                return stop.name.indexOf(query.toUpperCase()) > -1;
-            });
-            setFilteredStops(newData);
-            setSearchQuery(query);
+    React.useEffect(() => {
+        if (!!searchQuery) {
+            const filtered = stops.filter(
+                (stop: Stop) =>
+                    stop.name.indexOf(searchQuery.toUpperCase()) > -1
+            );
+            setFilteredStops(filtered);
         } else {
             // reset shown stops when !query
             setFilteredStops(stops);
-            setSearchQuery(query);
         }
-    };
+    }, [searchQuery]);
 
     const ItemView = ({ item }: any) => {
         return (
@@ -107,8 +106,8 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
             </MapView>
             <Portal>
                 <Modal
-                    visible={showSearchList}
-                    onDismiss={() => setShowSearchList(false)}
+                    visible={showSearchModal}
+                    onDismiss={() => setShowSearchModal(false)}
                     contentContainerStyle={[
                         styles.searchContainer,
                         { height: 210 },
@@ -123,14 +122,14 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
                     <Searchbar
                         style={styles.searchButton}
                         placeholder="Recherche par nom"
-                        onChangeText={(q: string) => onChangeSearchInput(q)}
+                        onChangeText={(query: string) => setSearchQuery(query)}
                         value={searchQuery}
                     />
                 </Modal>
             </Portal>
             <Button
                 style={styles.searchButton}
-                onPress={() => setShowSearchList(true)}
+                onPress={() => setShowSearchModal(true)}
             >
                 Recherche
             </Button>
@@ -160,9 +159,9 @@ const styles = StyleSheet.create({
     searchResultsContainer: {
         //backgroundColor: 'white',
     },
-    stopSearchResult: {
-        height: 40,
-    },
+    // stopSearchResult: {
+    //     height: 40,
+    // },
     searchButton: {
         //flex: 1,
         height: 40,
