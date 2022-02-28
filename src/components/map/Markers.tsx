@@ -12,16 +12,17 @@ import { RouteNav, Stop } from '../types';
 import { LinePolylines } from '../components/map/LinePolylines';
 import { Button, Modal, Portal, Searchbar, List } from 'react-native-paper';
 import MapView, { Marker, Region, MapStyleElement } from 'react-native-maps';
-import stops from '../../assets/map/marker_locs.json';
-import retroStyle from '../../assets/map/retroMapStyle.json';
 
 export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
+    const [searchQuery, setSearchQuery] = React.useState('');
+    const [filteredDataSource, setFilteredDataSource] = React.useState(
+        new Array()
+    );
+    const [showSearchList, setShowSearchList] = React.useState(false);
     const MarkerRefsArray = React.useRef(new Array());
     const mapRef = React.useRef(null);
 
-    const [searchQuery, setSearchQuery] = React.useState('');
-    const [filteredStops, setFilteredStops] = React.useState(stops);
-    const [showSearchList, setShowSearchList] = React.useState(false);
+    const stops: Array<Stop> = require('../../assets/map/marker_locs.json');
 
     // map personnalization
     const ParisRegion: Region = {
@@ -30,6 +31,7 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
         latitudeDelta: 0.13,
         longitudeDelta: 0.13,
     };
+    const RetroStyle: Array<MapStyleElement> = require('../../assets/map/retroMapStyle.json');
 
     const createMarker = (stop: Stop, index: number): JSX.Element => {
         return (
@@ -54,15 +56,20 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
     };
 
     const onChangeSearchInput = (query: string) => {
+        // Check if searched query is not blank
         if (query) {
+            // Inserted query is not blank
+            // Filter the masterDataSource
+            // Update FilteredDataSource
             const newData = stops.filter(function (stop: Stop) {
                 return stop.name.indexOf(query.toUpperCase()) > -1;
             });
-            setFilteredStops(newData);
+            setFilteredDataSource(newData);
             setSearchQuery(query);
         } else {
-            // reset shown stops when !query
-            setFilteredStops(stops);
+            // Inserted query is blank
+            // Update FilteredDataSource with masterDataSource
+            setFilteredDataSource(stops);
             setSearchQuery(query);
         }
     };
@@ -100,7 +107,7 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
                 style={styles.map}
                 initialRegion={ParisRegion}
                 loadingEnabled={true}
-                customMapStyle={retroStyle}
+                customMapStyle={RetroStyle}
             >
                 {stops.map(createMarker)}
                 {LinePolylines()}
@@ -115,7 +122,7 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
                     ]}
                 >
                     <FlatList
-                        data={filteredStops}
+                        data={filteredDataSource}
                         keyExtractor={(item, index) => index.toString()}
                         ItemSeparatorComponent={ItemSeparatorView}
                         renderItem={ItemView}
