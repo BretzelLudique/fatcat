@@ -3,6 +3,7 @@ import { StyleSheet, View, Text, FlatList } from 'react-native';
 import { Stop } from '../types';
 import { Button, Modal, Portal, Searchbar } from 'react-native-paper';
 import MapView, { Marker } from 'react-native-maps';
+import { LinesIcons } from '../components/stopscreen/LinesIcons';
 
 interface SearchModalProps {
     stops: Stop[];
@@ -48,8 +49,10 @@ export const SearchModal = ({
                     markerRefs.current[item.id].showCallout();
                 }}>
                 {item.name.toUpperCase()}
-                {' | ligne(s) : '}
-                {item.line}
+                {/* {' | ligne(s) : '}
+                {item.line} */}
+                {LinesIcons(item.line)}
+                
             </Text>
         );
     };

@@ -24,6 +24,8 @@ export type Stop = {
     line: LinesArray;
     id: number;
     displayed_at_minzoom: Boolean;
+    description:string;
+    path_img_principale:string;
 };
 
 export type Poly = {
