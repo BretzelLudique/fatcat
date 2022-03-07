@@ -23,7 +23,9 @@ export type Stop = {
     coordinate: LatLng;
     line: LinesArray;
     id: number;
-    displayed_at_minzoom: Boolean;
+    displayedAtMinzoom: Boolean;
+    description: string;
+    pathMainImage: string;
 };
 
 export type Poly = {

@@ -21,7 +21,7 @@ print(term)
 
 stopLen = len(data)
 for i in range(stopLen):
-    data[i]['displayed_at_minzoom'] = True if (
+    data[i]['displayedAtMinzoom'] = True if (
         data[i]['name'] in term) else False
 
 with open(dest_filename, 'w') as dest_file:

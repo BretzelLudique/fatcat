@@ -3,7 +3,7 @@ import { StyleSheet, View } from 'react-native';
 import { RouteNav } from '../types';
 import { MetroLines } from '../components/map/MetroLines';
 import MapView, { Marker, Region } from 'react-native-maps';
-import stops from '../../assets/map/marker_locs.json';
+import stops from '../../assets/map/marker_locs_v2.json';
 import retroStyle from '../../assets/map/retroMapStyle.json';
 import StopMarkers from '../components/map/StopMarkers';
 import { SearchModal } from '../components/SearchModal';
@@ -14,6 +14,7 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
 
     // not elegant, need changes
     const latlngDelta = { latitudeDelta: 0.13, longitudeDelta: 0.13 };
+    const latlngDeltaZoomed = { latitudeDelta: 0.015, longitudeDelta: 0.015 };
 
     // map personnalization
     const ParisRegion: Region = {
@@ -41,7 +42,7 @@ export const MapHomeScreen = ({ navigation }: RouteNav): JSX.Element => {
                 stops={stops}
                 mapRef={mapRef}
                 markerRefs={markerRefs}
-                latlngDelta={latlngDelta}
+                latlngDelta={latlngDeltaZoomed}
             />
         </View>
     );
