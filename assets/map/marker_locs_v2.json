@@ -9,9 +9,9 @@
             "7b"
         ],
         "id": 0,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Marcos Botzaris (1788-1823) est l'un des principaux acteurs des débuts de la guerre d'indépendance grecque de 1821 en Grèce continentale.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ASSEMBLEE NATIONALE",
@@ -23,9 +23,9 @@
             "12"
         ],
         "id": 1,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BALARD",
@@ -37,9 +37,9 @@
             "8"
         ],
         "id": 2,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "La station, ouverte en 1937, rend hommage à Antoine Jérôme Balard (1802-1876), pharmacien et chimiste français qui découvrit le brome en 1826. Il est membre de l’Académie des sciences depuis 1844 et commandeur de la Légion d’honneur. On lui doit notamment la découverte du brome, corps simple métalloïde qu'on n'était pas encore parvenu à isoler, et dont il trouva de nombreuses applications à la science et à l'industrie.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BASTILLE",
@@ -53,9 +53,9 @@
             "8"
         ],
         "id": 3,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Cette forteresse élevée de 1369 à 1382 sous Charles V pour la défense de Paris a été transformée en prison par Richelieu et devint le symbole du pouvoir absolu. La prise de la bastille le 14 juillet 1789 est le symbole de la revanche sur l'arbitraire royal et la fête nationale française.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BEL-AIR",
@@ -67,9 +67,9 @@
             "6"
         ],
         "id": 4,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Du nom de la résidence de Jacques Petitmaire, petit fils du directeur de l'ancienne ménagerie Royale qui se situait à cet endroit avant d'être transférée à Versailles en 1706. ",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BERCY",
@@ -82,9 +82,9 @@
             "14"
         ],
         "id": 5,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "C’est dans une charte de 1134 de Louis VI le Gros que l’on trouve trace du lieu-dit sous la mention : \"Insula de Bercilliis\". Au fil des siècles se développa la seigneurie de Bercy avec un château magnifique et un vaste domaine couvrant un tiers de la commune de Bercy. Cette dernière fut en grande partie annexée à Paris en 1860. Les héritiers du domaine, les Nicolai, l’aliénèrent et le château fut démoli.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CRETEIL-L'ECHAT (HOPITAL MONDOR)",
@@ -96,9 +96,9 @@
             "8"
         ],
         "id": 6,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Créteil est une ville de la banlieue sud-est de Paris, préfecture du département du Val-de-Marne. Sa dénomination provient du nom \" cristoïlum \" signifiant la clairière sur la crête.\n\nL'Echat, nom de l'un des quartiers de la ville dérivé de l'appellation d'un ancien chemin ou lieu-dit qui fut pendant un siècle, le domaine des maraîchers exilés des faubourgs parisiens.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "AUSTERLITZ",
@@ -111,9 +111,9 @@
             "10"
         ],
         "id": 7,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "La bataille d’Austerlitz, surnommée la \"bataille des Trois Empereurs\", se déroula le 2 décembre 1805 au sud de la Moravie (République Tchèque, et plus précisément entre Brünn et Austerlitz). Après neuf heures de combats, la Grande Armée de Napoléon Ier bat les forces autrichiennes de l’empereur François Ier et celle du tsar Alexandre. L'Angleterre, bien qu'invaincue, reste seule, ce qui met fin à la troisième coalition.\nCette bataille est considérée comme le chef d'œuvre tactique de Napoléon, et, encore aujourd'hui, enseignée dans de nombreuses écoles militaires.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "DAUMESNIL",
@@ -126,9 +126,9 @@
             "8"
         ],
         "id": 8,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station rend hommage au général Pierre Daumesnil (1776-1832) qui perdit une jambe à Wagram. En 1814, il refusa de livrer aux Russes le château de Vincennes dont il était le gouverneur en disant : \" Je rendrai Vincennes quand on me rendra ma jambe. \" En 1830, une nouvelle fois, il refusa de livrer, cette fois à la foule, les ministres de Charles X détenus à Vincennes.\n \nCette station fait également référence à Félix Eboué (1884-1944), gouverneur de la Guadeloupe en 1936, puis du Tchad en 1938. Il se rallia aux Forces françaises libres (FFL) dès 1940, devenant ainsi gouverneur général de l’Afrique équatoriale française (AEF).",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "DUROC",
@@ -141,9 +141,9 @@
             "13"
         ],
         "id": 9,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CAMPO-FORMIO",
@@ -155,9 +155,9 @@
             "5"
         ],
         "id": 10,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La ville italienne de Campoformido (qui à l'époque s'appelait Campo-formio) en Vénétie vit, en 1797, la signature d’un traité entre l’Autriche et Bonaparte. La France obtenait la Belgique, une partie de la rive gauche du Rhin, les îles Ioniennes et la reconnaissance de la République cisalpine.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CARREFOUR PLEYEL",
@@ -169,9 +169,9 @@
             "13"
         ],
         "id": 11,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHARLES DE GAULLE ETOILE",
@@ -185,9 +185,9 @@
             "6"
         ],
         "id": 12,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "Charles de Gaulle de son vrai nom Charles André Joseph Marie (1890-1970) était un général et un homme d'État français, qui fut, depuis son exil à Londres, le chef de la Résistance à l'occupation allemande de la France pendant la Seconde Guerre mondiale. Il devint président de la République de 1958 à 1969. \n \nLa place de l'Etoile fût construite en creusant sur 5 mètres dans la colline du Roule à la fin du XVIIIème siècle. L'Arc de Triomphe situé au centre a été érigé par Napoléon pour rendre hommage à ses douze armées victorieuses.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHATELET",
@@ -203,9 +203,9 @@
             "14"
         ],
         "id": 13,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Construit en 1130 par Louis VI le Gros ce petit fort permettait la défense du pont qui traversait la Seine à cet endroit. \n La gare de Châtelet - Les Halles est une gare ferroviaire française située dans le 1er arrondissement de Paris (France). Intégralement souterraine et située en plein cœur de la capitale, la gare voit converger trois lignes du RER et offre une correspondance avec cinq lignes de métro. Avec plus de 1 500 trains par jour, elle constitue le plus important pôle de transports de la région, avec 520 000 voyageurs quotidiens dans la seule gare du RER et750 000 voyageurs dans l'ensemble du pôle ferroviaire. La gare est desservie par les trains des lignes A, B et D du RER. Elle est ainsi directement accessible depuis de nombreuses gares d’Île-de-France. Le marché public créé en 1135 par Louis VI le Gros est étendu en 1183 par Philippe Auguste. Ce marché fut déplacé à RUNGIS, dans les années 1970.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "COLONEL FABIEN",
@@ -217,9 +217,9 @@
             "2"
         ],
         "id": 14,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Pierre Georges dit Colonel Fabien dit Frédo, était un militant communiste et résistant français (1919-1944).",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "COMMERCE",
@@ -231,9 +231,9 @@
             "8"
         ],
         "id": 15,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à son implantation sous la rue du Commerce, à proximité de la place éponyme ; cette rue constituait la principale artère commerçante du village de Grenelle. Située dans le 15ème arrondissement de Paris, cette rue garde encore aujourd'hui son caractère très vivant.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "FORT D'AUBERVILLIERS",
@@ -245,9 +245,9 @@
             "7"
         ],
         "id": 16,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le fort d’Aubervilliers, construit en 1843, est une ancienne fortification de Paris. Il a fait office de prison pour les émeutiers en 1848 avant d’être reconvertit en caserne en 1856. Il survécut à son occupation par les Prussiens puis fut désaffecté en 1960.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "FRANKLIN-D.ROOSEVELT",
@@ -260,9 +260,9 @@
             "9"
         ],
         "id": 17,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station est rebaptisée Franklin D. Roosevelt le 30 octobre 1946 à la suite du changement de nom de l’avenue Victor-Emmanuel III au profit d'avenue Franklin-D.-Roosevelt. \n Franklin Delano Roosevelt (1882-1945) trente-deuxième président des États-Unis, est élu pour quatre mandats commençant en 1933, 1937, 1941 et 1945. Il décède avant la fin de ce dernier mandat. \n Seul président à avoir été élu quatre fois (le nombre de mandats est maintenant limité à deux) Roosevelt a conduit la lutte contre la Grande Dépression, en mettant en oeuvre le New Deal qui refonde pour une quarantaine d'année le pacte social américain, puis la politique des États-Unis pendant la Seconde Guerre mondiale. Critiqué et admiré, il laisse une très forte empreinte dans l'histoire du pays et du monde.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GABRIEL PERI-ASNIERES-GENNEVILLIERS",
@@ -274,9 +274,9 @@
             "13"
         ],
         "id": 18,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GAITE",
@@ -288,9 +288,9 @@
             "13"
         ],
         "id": 19,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "HOTEL DE VILLE",
@@ -303,9 +303,9 @@
             "11"
         ],
         "id": 20,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Étienne Marcel (1315-1358) fut prévôt des marchands de Paris sous le règne de Philippe VI de Valois puis sous celui de son fils Jean II le Bon. Il fait l'acquisition de la \" maison des piliers \" au nom de la municipalité en juillet 1357. C'est là que, depuis lors, se dresse le centre des institutions municipales de Paris. Avant cette date, la municipalité parisienne était installée au XIIIe siècle au \" Parloir aux Bourgeois \" situé près du Châtelet avant d'être transférée, au début du XIVe siècle, sur la montagne Sainte-Geneviève. \n La \" maison des piliers \" est remplacée au XVIe siècle par un véritable palais dessiné par l'architecte italien Boccador. Sa construction débute en 1533 et s'achève en 1628. Un incendie réduit le palais en cendres en 1871. Les archives de la ville sont perdues. Le bâtiment est reconstruit entre 1874 et 1882. La façade renaissance est reconstruite à l'identique. La place de Grève, est rebaptisée place de l'Hôtel-de-Ville le 19 mars 1803, elle est réservée aux piétons depuis 1982. Paris ayant connu diverses insurrections, l'hôtel de ville fut souvent le point de ralliement d'émeutiers, insurgés et révolutionnaires. Lieu où siège le conseil de Paris et où sont reçus les invités du maire, l'hôtel de ville possède également aujourd'hui un espace dédié aux expositions.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ESPLANADE DE LA DEFENSE",
@@ -317,9 +317,9 @@
             "1"
         ],
         "id": 21,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Située à l'extrémité est du quartier d'affaires de La Défense, la station est à la rencontre des communes de Courbevoie et de Puteaux. Aménagé dans les années 50 ce quartier d'affaire est le plus moderne de Paris. Une statue en bronze édifiée en 1883 sur le rond-point de Courbevoie, la Défense de Paris de Louis Ernest Barrias est à l'origine de son nom. ",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ETIENNE-MARCEL",
@@ -331,9 +331,9 @@
             "4"
         ],
         "id": 22,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Étienne Marcel, (1315-1358), fut prévôt des marchands de Paris sous le règne de Philippe VI de Valois puis sous celui de son fils Jean II le Bon. Fils du drapier Simon Marcel et d'Isabelle Barbou, il est issu de la riche bourgeoisie parisienne. Il fut marié avec Jeanne de Dammartin, fille d'un échevin parisien, puis avec Marguerite des Essarts, fille d'un banquier dont les relations lui permirent d'entrer en politique.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GARE DE L'EST",
@@ -347,9 +347,9 @@
             "7"
         ],
         "id": 23,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "C'est l'une des six grandes gares de Paris. Elle se trouve dans le Xème arrondissement, proche de la gare du Nord. Sa façade ferme la perspective de l'axe nord-sud percé par le baron Haussmann et constitué principalement par le boulevard de Strasbourg.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GARE DE LYON",
@@ -362,9 +362,9 @@
             "14"
         ],
         "id": 24,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La Gare de Lyon est l'une des six gares de Paris. Elle est située dans le 12ème arrondissement. C'est à la fois une gare de grandes lignes assurant la desserte d'un grand quart Sud Est de la France, en particulier des villes de Dijon, Lyon, Grenoble, Saint-Étienne, Marseille, Nice et Montpellier, une gare internationale (Suisse et Italie), et une gare de lignes de banlieue réalisant la desserte du Sud Est de l'agglomération parisienne.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MONTPARNASSE",
@@ -379,9 +379,9 @@
             "13"
         ],
         "id": 25,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "-\tEn référence au Mont Parnasse, une montagne du centre de la Grèce qui, selon la mythologie grecque, abritait les muses. Les étudiants du quartier latin de Paris auraient nommé avec humour \"Mont Parnasse\" un amas de gravats qui formait, avant 1725, une colline artificielle sur l'actuel carrefour entre le boulevard du Montparnasse et le boulevard Raspail.\n \n -\tFulgence Bienvenüe, né le 27 janvier 1852 à Uzel (Bretagne) et mort le 3 août 1936 à Paris, est un ingénieur français. Il fut ingénieur en chef des Ponts et Chaussées et père du métro de Paris. Il passa son bac à 15 ans et, trois ans plus tard, en 1870, il est reçu à l'École polytechnique, où il manque d'être fusillé avec d'autres polytechniciens pendant la Commune. Il entre deux ans plus tard à l'École nationale des ponts et chaussées. À sa sortie, il est nommé chef d'arrondissement en Normandie. Il est chargé de diriger la construction de deux lignes de chemin de fer : les lignes Fougères-Vire et Domfront-Alençon. Il perd d'ailleurs son bras gauche lors d'une \"visite d'expropriation\" assez mouvementée en 1881. De 1891 à 1893, il est ingénieur en chef pour la construction de l'aqueduc de l'Avre.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "JASMIN",
@@ -393,9 +393,9 @@
             "9"
         ],
         "id": 26,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "JAVEL",
@@ -407,9 +407,9 @@
             "10"
         ],
         "id": 27,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "KLEBER",
@@ -421,9 +421,9 @@
             "6"
         ],
         "id": 28,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Jean-Baptiste Kléber, (1753-1800), est un général français qui s'est illustré lors des guerres de la Révolution, notamment en Vendée à Fleurus et en Égypte. Officier de l'armée Autrichienne puis architecte il devint général en 1793. Il suivit Napoléon en Egypte et prit le commandement de l'armée après son départ. Vainqueur des Turcs à Héliopolis il fut assassiné au Caire.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LA COURNEUVE 8 MAI 1945",
@@ -435,9 +435,9 @@
             "7"
         ],
         "id": 29,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "La Courneuve est une commune française située dans le département de la Seine-Saint-Denis. Elle tire son nom du latin \"Curia nova\" ou \"curtis nova\", soit la \"cour neuve\", institué par l’abbé Suger au XIIe siècle. Ancienne cité agricole jusque dans les années 1850, on y cultive surtout des légumes qui sont vendus aux halles de Paris. La Courneuve est ensuite devenue une ville d'industries mécaniques et électriques, notamment au cours de la Première Guerre Mondiale avec le développement de la métallurgie.\n\nLa Station porte comme sous-titre \" 8 Mai 1945 \", date à laquelle les armées allemandes capitulèrent au cours de la Seconde Guerre Mondiale.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MARCADET-POISSONNIERS",
@@ -450,9 +450,9 @@
             "12"
         ],
         "id": 30,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination initiale de Marcadet à sa proximité avec la rue Marcadet, laquelle tient son nom d’un lieu-dit, la Mercade, situé à la Chapelle Saint-Denis.\nLa composante Poissonniers vient son implantation au croisement avec la rue des Poissonniers, laquelle formait une partie de l’ancien chemin des Poissonniers (également desservi par la station Poissonnière sur la ligne 7), emprunté dès 1307 par les marchands de poissons pêchés dans la mer du Nord et acheminés jusqu'aux halles de Paris.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MICHEL-ANGE-MOLITOR",
@@ -465,9 +465,9 @@
             "10"
         ],
         "id": 31,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MIRABEAU",
@@ -479,9 +479,9 @@
             "10"
         ],
         "id": 32,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LOUIS BLANC",
@@ -494,9 +494,9 @@
             "7b"
         ],
         "id": 33,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Louis Blanc, (1811-1882) est un homme politique et historien français. Il doit sa notoriété d’historien notamment grâce à la publication, en 1841, d’une Histoire de la France de 1830 à 1840 d'inspiration républicaine. En tant que journaliste, il fonda en 1839 la Revue du Progrès et publia ensuite L'Organisation du travail, ouvrage dans lequel il s'attaquait à la concurrence et préconisait un système d'associations contrôlées par l'État. En 1848, il devint membre du gouvernement provisoire de la IIe République. Il est contraint de s'exiler à Londres après avoir été tenu pour responsable de l'émeute des journées de Juin (1848). Rentré en France en 1870, après la chute du Second Empire, il fut élu député à l'Assemblée nationale, siégea à l'extrême-gauche, mais ne joua aucun rôle. Il condamna la Commune de Paris en 1871.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MAIRIE DE MONTREUIL",
@@ -508,9 +508,9 @@
             "9"
         ],
         "id": 34,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PEREIRE-LEVALLOIS",
@@ -522,9 +522,9 @@
             "3"
         ],
         "id": 35,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Les frères Emile (1800-1875) et Isaac (1806-1880) petits-fils de Francisco Rodrigues Pereira (1715-1780), juif portugais installé en France en 1741 et devenu l'interprète de Louis XV ont construit le chemin de fer de Bordeaux à Bayonne, la ligne de l'ouest de Paris (terminus St-Germain). En 1837, financé un réseau des routes agricoles voulu par la loi de 1857 imposant le boisement systématique de la forêt landaise, ils ont ensemencé plus de 10 000 ha de forêts en Pays de Buch et dans la Grande Lande et sont à l'origine de la création de la Ville d'Hiver d'Arcachon dans les années 1850, localité nouvelle que Napoléon III visita à deux reprises.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "NATION",
@@ -539,9 +539,9 @@
             "9"
         ],
         "id": 36,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "Sur cette place avait été installé un trône lors de l'entrée solennelle dans Paris de Louis XIV et de Marie-Thérèse d'Espagne, revenant de Reims après leur sacre. D'où son premier nom de place du Trône. Elle fut rebaptisée place du Trône-Renversé après le 10 août 1792. Le nom actuel de la place date de 1880 et fait référence à la fête nationale.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE MAILLOT",
@@ -553,9 +553,9 @@
             "1"
         ],
         "id": 37,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Nom tiré de Mahiaulx ou Mahiau dérivé en Mahiot, dû à la présence probable d'un jeu de maillet ou de croquet à cet endroit. Cette porte permet l'accès au bois de Boulogne.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PLACE DE CLICHY",
@@ -568,9 +568,9 @@
             "13"
         ],
         "id": 38,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit son nom à son implantation sous la place de Clichy, dont la dénomination rappelle que son emplacement correspond à l'ancienne barrière de Clichy, aux portes du Paris d'alors délimité par le mur des Fermiers généraux. Clichy est le chef-lieu du canton des-Hauts de-Seine au nord-ouest de Paris et possède de nombreuses industries.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PLACE D'ITALIE",
@@ -584,9 +584,9 @@
             "7"
         ],
         "id": 39,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "La place d’Italie est située à la bifurcation entre l'ancienne voie romaine reliant Lutèce à Lugdunum (Lyon) dont le tracé est celui de l'actuelle avenue de Choisy et la route de Fontainebleau (avenue d'Italie) aménagée sous François Ier. Napoléon entra dans Paris par cette place à son retour de l'île d'Elbe en 1815.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "OBERKAMPF",
@@ -599,9 +599,9 @@
             "9"
         ],
         "id": 40,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station doit son nom à Christophe-Philippe Oberkampf (1738-1815), né en Allemagne d'une famille de teinturiers. Il fut connu en fondant en 1759 la première manufacture de toiles imprimées avec des planches de cuivre gravées. Cette manufacture fut créée à Jouy-en-Josas près de Versailles, et a donné son nom à la toile de Jouy.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PONT DE LEVALLOIS-BECON",
@@ -613,9 +613,9 @@
             "3"
         ],
         "id": 41,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "La commune de Levallois-Perret doit son nom à deux propriétaires des terrains. Bécon fait référence à la commune de Bécon-les-Bruyères, hameau rattaché à Courbevoie.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PONT DE SEVRES",
@@ -627,9 +627,9 @@
             "9"
         ],
         "id": 42,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE CHARENTON",
@@ -641,9 +641,9 @@
             "8"
         ],
         "id": 43,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Charenton-le-Pont est une commune française située dans le département du Val-de-Marne. Son nom pourrait provenir du radical pré-indo-européen Kal ou Kar signifiant pierre. Ce terme serait donc lié à l'activité d’extraction de la pierre de liais au bourg des Carrières. Depuis la conquête romaine, on mentionne le pont ou se sont déroulés maints faits d'armes glorieux.\nLa station est située à l'emplacement de la porte des fortifications qui contrôlait la route impériale numéro 5, laquelle menait à Genève.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-SEBASTIEN FROISSART",
@@ -655,9 +655,9 @@
             "8"
         ],
         "id": 44,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Sébastien est un saint martyr romain ayant vécu, selon la croyance chrétienne, au IIIe siècle. Il serait originaire de Narbonne, où une église qui lui est dédiée a été construite sur le lieu présumé de sa maison natale. Durant la persécution de Dioclétien, il est exécuté sur ordre des souverains pour avoir accompli plusieurs miracles. Selon les textes et l'iconographie du Moyen Âge, le saint aurait d’abord été attaché à un poteau et transpercé de flèches, il est finalement tué à coups de verges après avoir miraculeusement guéri la première fois.\n\nJean Froissart (1337-1410) est l'un des plus importants chroniqueurs de la France médiévale. Une chronique médiévale est un ouvrage, parfois écrit collectivement, relatant une série de faits chronologiquement.  Elles constituent une source essentielle pour la connaissance du XIVe siècle et de la culture chevaleresque de l'époque en Angleterre et en France. Il est également l’auteur de Meliador, roman mettant en scène les exploits des héros arthuriens.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SEVRES-LECOURBE",
@@ -669,9 +669,9 @@
             "6"
         ],
         "id": 45,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le village de Sèvres était connu pour sa manufacture de porcelaine. Cette dernière fut transférée de Vincennes où elle était située depuis 1739 à Sèvres en 1756 à la demande de la Pompadour, maîtresse de Louis XV. Elle devint manufacture royale en 1759 puis manufacture nationale. Le traité entre les alliés et la Turquie qui dissout l'Empire ottoman fut signé à Sèvres en 1920.\n \nLe général Claude Joseph Lecourbe (1758-1815) combattit sous la Révolution à Fleurus (1794) et à Zurich (1799). Destitué en 1801, il devînt comte chez les Bourbons (1814), mais se rallia à Napoléon de retour de l’île d’Elbe. La rue Lecourbe suit le tracé d’une voie romaine qui reliait Lutèce à Savara (Sèvres).",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "STRASBOURG-SAINT-DENIS",
@@ -685,9 +685,9 @@
             "9"
         ],
         "id": 46,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station porte ce nom d'après Strasbourg, la métropole alsacienne, ville symbole des douloureuses rivalités du passé qui donna son nom au récent boulevard de Strasbourg.\nLe terme \" Saint-Denis \" fait référence à saint Denis, apôtre des Gaules et premier évêque de Paris, qui donna son nom à la ville de Saint-Denis et à son abbaye.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SULLY-MORLAND",
@@ -699,9 +699,9 @@
             "7"
         ],
         "id": 47,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Maximilien de Béthune (1559-1641), baron de Rosny, duc de Sully, était un militaire protestant et un compagnon d'armes du roi Henri IV dont il devint l'un des principaux conseillers. Il devint ministre puis surintendant des finances. Par ce biais, il contribua au développement économique du pays, en particulier de l'agriculture.\n\nLe colonel François-Louis Morland des Chasseurs de la Garde (1771-1805) fut tué à Austerlitz. Son corps a été rapatrié dans un tonneau de rhum avant d'être conservé momifié à l'Ecole de médecine de Paris.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "TELEGRAPHE",
@@ -713,9 +713,9 @@
             "11"
         ],
         "id": 48,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE PANTIN",
@@ -727,9 +727,9 @@
             "5"
         ],
         "id": 49,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit son nom à une ancienne porte des fortifications, au débouché de la route d’Allemagne (l’actuelle avenue Jean-Jaurès), qui prit le nom de la commune qui la regarde. Elle porte comme sous-titre Parc de la Villette, nom du parc situé au nord de la station.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DOREE",
@@ -741,9 +741,9 @@
             "8"
         ],
         "id": 50,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à son implantation à la porte Dorée, dont l’étymologie du nom proviendrait de la contraction de \" porte de l’orée du bois \", du fait de sa localisation en lisière du bois de Vincennes. Une statue représentant une femme et créée par Rudier orne de nos jours la place et justifie le patronyme par sa couleur dorée.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "RICHARD LENOIR",
@@ -755,9 +755,9 @@
             "5"
         ],
         "id": 51,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "François Richard, (1765-1839) est un industriel manufacturier d'étoffe français qui devint l'un des principaux négociants en coton au début du XIXe siècle. Avec son associé Jean Daniel Lenoir-Dufresne (1768-1806), ils dirigèrent la première manufacture parisienne de coton, rue de Charonne. Ils introduisirent la mule-jenny, métier-à-filer d'invention anglaise. Rapidement, leur entreprise devint une des plus importantes pour le commerce du coton en France. \nFrançois Richard, qui était d'origine modeste, passa pour l'homme le plus riche du XIXe siècle. En 1810, il fut nommé membre du conseil des manufactures et chevalier de la Légion d’honneur. À la mort de son associé, il adopta partiellement son nom en souvenir de la firme qu'ils avaient menée en commun et s'appela désormais, François Richard-Lenoir, il est plus connu sous le nom de \"Richard-Lenoir\".",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PRE SAINT-GERVAIS",
@@ -769,9 +769,9 @@
             "7b"
         ],
         "id": 52,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à son implantation au débouché de la rue du Pré-Saint-Gervais à proximité de la porte du Pré-Saint-Gervais. Le Pré-Saint-Gervais est une commune de la Seine-Saint-Denis. Ancien hameau dans lequel eurent lieu de nombreuses manifestations ouvrières. Son nom est dérivé de celui de la chapelle dédiée à Saint Gervais. Le nom provient du latin pratum, prairie, et de Gervasius, martyr et saint milanais dont une relique fut offerte à l'église du lieu par l'abbaye de Saint-Denis.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "RENNES",
@@ -783,9 +783,9 @@
             "12"
         ],
         "id": 53,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "REPUBLIQUE",
@@ -801,9 +801,9 @@
             "11"
         ],
         "id": 54,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station doit sa dénomination à son implantation sous la place de la République, ainsi baptisée dans le cadre du projet d'érection de l'actuelle statue de la République en son centre, en délibération depuis 1878 au conseil municipal de Paris et en l'honneur du républicanisme, idéologie politique et conception de la liberté.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BASILIQUE DE SAINT-DENIS",
@@ -815,9 +815,9 @@
             "13"
         ],
         "id": 55,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-FARGEAU",
@@ -829,9 +829,9 @@
             "3bis"
         ],
         "id": 56,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station rend hommage à l'homme politique Louis-Michel Lepeletier de Saint-Fargeau (1760-1793) qui, de député de la noblesse, devint révolutionnaire. Fidèle à la Convention, il vota l’exécution de Louis XVI ; il fut assassiné par le royaliste Pâris. \nCette station est la seule du réseau à porter le nom d'un saint qui n'en soit pas un à proprement parler.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-GEORGES",
@@ -843,9 +843,9 @@
             "12"
         ],
         "id": 57,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "VAUGIRARD (ADOLPHE CHERIOU)",
@@ -857,9 +857,9 @@
             "12"
         ],
         "id": 58,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "VILLEJUIF-LEO LAGRANGE",
@@ -871,9 +871,9 @@
             "7"
         ],
         "id": 59,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "L’origine du nom de Villejuif est, à ce jour encore, assujettie à plusieurs hypothèses. La plus vraisemblable serait que Juif soit la déformation du nom initial d’un propriétaire, Juvius, ou Juveus.\n\nLéo Lagrange (1900-1940) était un socialiste français, sous-secrétaire d'État aux sports et à l'organisation des loisirs sous le Front populaire. Membre des Éclaireurs de France dans sa jeunesse, il a rejoint la SFIO (Section française de l'Internationale ouvrière) après la scission de Tours en 1920 et devient rédacteur au Populaire. Lors du second Cartel des gauches, il est élu député en 1932 puis nommé sous-secrétaire d'État sous le gouvernement Blum. ",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BOUCICAUT",
@@ -885,9 +885,9 @@
             "8"
         ],
         "id": 60,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station rend hommage à Aristide Boucicaut (1810-1877), entrepreneur et homme d'affaires français. Pionner du commerce moderne, il est le fondateur en 1852 à Paris du premier grand magasin, Au Bon Marché. Son épouse Marguerite Guérin le seconda activement, assista Pasteur et fonda l'hôpital Boucicaut.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "RUE DES BOULETS",
@@ -899,9 +899,9 @@
             "9"
         ],
         "id": 61,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BOULOGNE-JEAN JAURES",
@@ -913,9 +913,9 @@
             "10"
         ],
         "id": 62,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BIBLIOTHEQUE FRANCOIS MITTERRAND",
@@ -927,9 +927,9 @@
             "14"
         ],
         "id": 63,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BILLANCOURT",
@@ -941,9 +941,9 @@
             "9"
         ],
         "id": 64,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ANATOLE FRANCE",
@@ -955,9 +955,9 @@
             "3"
         ],
         "id": 65,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "De son vrai nom Jacques Anatole François Thibault (1844-1924), cet écrivain, prix Nobel de la Littérature en 1920 est l'auteur de La rôtisserie de la reine Pédauque, Les opinions de Jérôme Coignard, l'île des Pingouins ou encore les Dieux ont soif.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "AVRON",
@@ -969,9 +969,9 @@
             "2"
         ],
         "id": 66,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Station qui doit son nom la rue d’Avron, qui s'étend du boulevard Charonne à la porte de Montreuil. Cette rue porte elle-même le nom d’un petit plateau de l’Est parisien, qui appartenait à l’ancienne commune de Rosny. Ce plateau eut une importance stratégique en 1871 lors de l'encerclement de Paris par les armées prussiennes.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BARBES-ROCHECHOUART",
@@ -984,9 +984,9 @@
             "4"
         ],
         "id": 67,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Armand Barbès, Sigismond Auguste (Pointe-à-Pitre, 18 septembre 1809 - La Haye, 26 juin 1870). Républicain farouche, éternel opposant à la Monarchie de Juillet s'opposa au régime de Louis Philippe.\n \n L'abbesse Marguerite de Rochechouart de Montpipeau, soeur de Mme de Montespan favorite de Louis XIV dirigea l'abbaye de Montmartre de 1717 à 1727.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "COUR SAINT-EMILION",
@@ -998,9 +998,9 @@
             "14"
         ],
         "id": 68,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CROIX DE CHAVAUX (JACQUES DUCLOS)",
@@ -1012,9 +1012,9 @@
             "9"
         ],
         "id": 69,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "DENFERT-ROCHEREAU",
@@ -1027,9 +1027,9 @@
             "6"
         ],
         "id": 70,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Pierre Marie Philippe Aristide Denfert-Rochereau (1823 –1878) est un militaire français. Il est resté célèbre pour avoir dirigé la résistance de la place forte de Belfort durant la guerre franco-allemande de 1870.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "DUGOMMIER",
@@ -1041,9 +1041,9 @@
             "6"
         ],
         "id": 71,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Jacques François Coquille dit Dugommier (1738 -1794), est un général français. Il combat dès 1759, en participant à la défense de la Guadeloupe contre les Britanniques, puis en 1762 à la Martinique, au cours de la guerre de Sept Ans. Il prend le nom de Dugommier en 1785. Après 25 ans de service aux colonies, il se retira pour s'occuper de l'exploitation de ses terres en Guadeloupe. Dès le début de la Révolution française, il se distingue comme un patriote et est élu membre de l'Assemblée coloniale et commandant de la garde nationale de la Martinique; il prit une part très active aux troubles qui agitèrent l'île.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "DUPLEIX",
@@ -1055,9 +1055,9 @@
             "6"
         ],
         "id": 72,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Joseph François Dupleix (1697 -1763) fut gouverneur général des Établissements français de l'Inde et grand rival de Robert Clive. Il lutta avec succès contre les Anglais et étendit l'influence française sur une grande partie du Deccan.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "EGLISE D'AUTEUIL",
@@ -1069,9 +1069,9 @@
             "10"
         ],
         "id": 73,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BROCHANT",
@@ -1083,9 +1083,9 @@
             "13"
         ],
         "id": 74,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BUTTES-CHAUMONT",
@@ -1097,9 +1097,9 @@
             "7b"
         ],
         "id": 75,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le parc des Buttes-Chaumont est un jardin public situé au nord-est de Paris, dans le XIXe arrondissement. Avec près de 25 hectares, le parc est l'un des plus grands espaces verts de Paris. Napoléon III le fit réaliser par Haussmann ; il s'agit d'une réalisation de l'ingénieur Jean-Charles Alphand qui a aménagé aussi entre autres le bois de Boulogne. Ce jardin à l'anglaise imite un paysage de montagne : rochers, falaises, torrents, cascades, grotte, alpages et belvédères.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHATEAU DE VINCENNES",
@@ -1111,9 +1111,9 @@
             "1"
         ],
         "id": 76,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "Le château de Vincennes est une forteresse située à Vincennes, à l’est de Paris, érigé du XIVe siècle au XVIIe siècle. Il est le plus vaste château fort royal français subsistant et, par la hauteur de son donjon, 52 mètres, il est une des plus hautes forteresses de plaine d’Europe. \n Le château de Vincennes est le siège du service historique de la Défense.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHATEAU D'EAU",
@@ -1125,9 +1125,9 @@
             "4"
         ],
         "id": 77,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Du nom de la fontaine entre la rue et le boulevard du Temple, composée de trois bassins dans lesquels huit lions couchés crachaient de l'eau provenant du bassin de la Villette. Elle fût remplacée en 1874 par une fontaine de Davioud, plus grande, composée de lions en position assise.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHATEAU-LANDON",
@@ -1139,9 +1139,9 @@
             "7"
         ],
         "id": 78,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La rue du Château-Landon qui se trouve au-dessus de la station tient son nom de la présence jadis d’une propriété appartenant à la famille de Château-Landon sur la commune de Seine et Marne sous Louis XIV. Elle devenu par la suite propriété de la congrégation voisine de Saint-Lazare.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHATILLON-MONTROUGE",
@@ -1153,9 +1153,9 @@
             "13"
         ],
         "id": 79,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHEVALERET",
@@ -1167,9 +1167,9 @@
             "6"
         ],
         "id": 80,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La rue du Chevaleret existait déjà en 1670 sous la forme d'un chemin vicinal. Son étymologie reste obscure ; selon l'explication la plus communément admise pour l'origine du nom, il s'agirait du patronyme du propriétaire des terres.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CONCORDE",
@@ -1183,9 +1183,9 @@
             "12"
         ],
         "id": 81,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La place de la Concorde est située au pied de l'avenue des Champs-Élysées dans le 8ème arrondissement à Paris. C'est la deuxième plus vaste place de France (après la place des Quinconces à Bordeaux). Elle fût aménagée par l'architecte Jacques-Ange Gabriel et s'appela place Louis XV jusqu'en 1792. L'Obélisque de Louxor, le plus vieux monument de Paris (XIIIème avant JC), offerte au roi en 1831 par le sultan Mohamet Ali y fut érigé en 1836.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CORENTIN-CELTON",
@@ -1197,9 +1197,9 @@
             "12"
         ],
         "id": 82,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GLACIERE",
@@ -1211,9 +1211,9 @@
             "6"
         ],
         "id": 83,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Dans ce quartier, la Bièvre (affluent de la Seine) formait de nombreuses mares et étangs où les troupeaux s’abreuvaient. Ces cuvettes fournissaient de grandes quantités de glace que l’on conservait l’été, dans des puits maçonnés. Le nom de Glacière est resté. Victor Hugo y situe un épisode des Misérables, rue du Champ de l'Alouette où se trouvaient paraît-il des tanneries.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GAMBETTA",
@@ -1226,9 +1226,9 @@
             "3bis"
         ],
         "id": 84,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Léon Gambetta (1838-1882) est un homme politique français. Fils d'un immigré italien, Léon Gambetta opta pour la nationalité française en 1859 à l'âge de 21 ans. Avocat, il se fit connaître comme opposant républicain au régime impérial en défendant Charles Delescluze en 1868. Il est candidat aux élections de 1869. Le Programme de Belleville désigne le discours retentissant prononcé par Léon Gambetta dans le quartier de Belleville, alors qu'il était candidat aux élections législatives en 1869.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "HAVRE-CAUMARTIN",
@@ -1241,9 +1241,9 @@
             "9"
         ],
         "id": 85,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le Havre est une ville du nord-ouest de la France située sur la rive droite de l'estuaire de la Seine. Administrativement, c'est une commune située dans le département de la Seine-Maritime et la région Haute-Normandie. La rue du havre a été nommée ainsi en 1845 car elle permettait l'accès à l'embarcadère de l'Ouest (la gare St Lazare) qui desservait entre autres le Havre. \n \nElle doit son autre dénomination de Caumartin à son implantation au croisement de la rue de Caumartin, laquelle rend hommage au marquis de Saint-Ange, Antoine-Louis Lefebvre de Caumartin, qui était prévôt des marchands de Paris au XVIIIe siècle. Il est par ailleurs à l'origine d'une partie du tracé de cette rue, dont il autorisa le percement le 3 juillet 1779.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "FAIDHERBE-CHALIGNY",
@@ -1255,9 +1255,9 @@
             "8"
         ],
         "id": 86,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le général Louis Léon César Faidherbe (1818-1889) fut gouverneur du Sénégal de 1854 à 1861 et de 1863 à 1865. Il commanda l'armée du Nord pendant la guerre franco-prussienne de 1870-1871 et fut élu député puis sénateur du Nord à partir de 1871.\n\nAntoine Chaligny (1580-1651) est un fondeur lorrain. Il est l’auteur de la statue équestre de bronze qui devait porter la statue du grand-duc Charles III.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "FELIX FAURE",
@@ -1269,9 +1269,9 @@
             "8"
         ],
         "id": 87,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Félix Faure (1841-1899) est un homme politique français, président de la République française de 1895 jusqu’à sa mort sous la Troisième République. Durant son mandat eurent lieu l'annexion de Madagascar (1895) et l'alliance franco-russe à Cronstadt (1897).",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GARE DU NORD",
@@ -1284,9 +1284,9 @@
             "5"
         ],
         "id": 88,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La gare du Nord est l'une des six grandes gares de Paris. Avec 180 millions de voyageurs par an, c'est la première gare d'Europe et probablement la troisième gare du monde pour le trafic voyageur.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "IENA",
@@ -1298,9 +1298,9 @@
             "9"
         ],
         "id": 89,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "JAURES",
@@ -1314,9 +1314,9 @@
             "7b"
         ],
         "id": 90,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Jean Jaurès, de son nom d'état civil Auguste Marie Joseph Jean Léon Jaurès, était un homme politique français, (1859-1914). Professeur de philosophie puis député avant d'être le chef du parti socialiste dont il assura l'unité, il fonda le journal l'humanité et joua un grand rôle dans la vie politique française lors de l'affaire Dreyfus ou des grèves de Cramaux.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MALESHERBES",
@@ -1328,9 +1328,9 @@
             "3"
         ],
         "id": 91,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Chrétien-Guillaume de Lamoignon de Malesherbes (1721-1794) est un juriste et homme d'État français. Magistrat, en charge de la librairie du Roi et défenseur des philosophes et encyclopédistes, il devint ministre de Louis XVI en 1770. Entré à l'académie française il devint l'avocat de Louis XVI devant la Convention et fut guillotiné pour ce fait en 1794.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MARCEL SEMBAT",
@@ -1342,9 +1342,9 @@
             "9"
         ],
         "id": 92,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MICHEL BIZOT",
@@ -1356,9 +1356,9 @@
             "8"
         ],
         "id": 93,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Michel Bizot (1795-1855) est un général français et directeur de l'école polytechnique. Il dirigea les travaux du siège de la ville de Sébastopol pendant la guerre de Crimée et mourut pendant sa mission.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LA DEFENSE-GRANDE ARCHE",
@@ -1370,9 +1370,9 @@
             "1"
         ],
         "id": 94,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "Située à l'extrémité est du quartier d'affaires de La Défense, la station est à la rencontre des communes de Courbevoie et de Puteaux. Aménagé dans les années 50 ce quartier d'affaire est le plus moderne de Paris. Une statue en bronze édifiée en 1883 sur le rond-point de Courbevoie, la Défense de Paris de Louis Ernest Barrias est à l'origine de son nom. \n La Grande Arche de la Fraternité, cube en acier et verre évidé de 100m de hauteur, inauguré en juillet 1989 à l'occasion du bicentenaire de la Révolution française a été réalisée par l'architecte danois Johann Otto Von Spreckelsen. Elle finalise l’\" Axe des trois Arches \" qui relie l’Arc de Triomphe et l’Arc du Carrousel. ",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LA MOTTE-PICQUET-GRENELLE",
@@ -1386,9 +1386,9 @@
             "10"
         ],
         "id": 95,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Toussaint-Guillaume Picquet, comte de la Motte, dit La Motte Picquet, (1720-1791) était un marin français et se distingua pendant la Guerre d'indépendance des États-Unis. Né dans une famille de petite noblesse, il entra aux gardes-marines de Brest à 15 ans et servit au Maroc, en Baltique et aux Antilles. En 1775 il fut appelé par le secrétaire d'État à la Marine, Sartine pour aider à réorganiser la marine française. Lors de la guerre d'indépendance américaine, il servit sous les ordres du vice-amiral d'Estaing. Chef d'escadre en 1778, il participa à la bataille d'Ouessant et mena une croisière dans les eaux anglaises, capturant treize navires ennemis. Le 18 décembre 1779, il attaqua avec seulement trois vaisseaux une escadre britannique. En 1781 La Motte Picquet capture vingt-six navires anglais. Il devint lieutenant général des armées navales en janvier 1782.\n \nGrenelle est une ancienne commune française du département de la Seine, créée en 1830, qui était aussi communément appelée Beau-Grenelle. Elle est l'une des quatre communes entièrement annexées en 1860 par Paris.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LES GOBELINS",
@@ -1400,9 +1400,9 @@
             "7"
         ],
         "id": 96,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La manufacture des gobelins fondées en Avril 1601 sous l’impulsion d’Henri IV tire son nom d’une famille de teinturiers. Ces derniers, vraisemblablement originaire de Reims, étaient venus s'établir au milieu du XVe siècle dans le faubourg Saint-Marcel à Paris, afin d'exploiter son procédé exclusif sur les bords de la Bièvre.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LES HALLES",
@@ -1414,9 +1414,9 @@
             "4"
         ],
         "id": 97,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La gare de Châtelet - Les Halles est une gare ferroviaire française située dans le 1er arrondissement de Paris (France). Intégralement souterraine et située en plein coeur de la capitale, la gare voit converger trois lignes du RER et offre une correspondance avec cinq lignes de métro. Avec plus de 1 500 trains par jour, elle constitue le plus important pôle de transports de la région, avec 520 000 voyageurs quotidiens dans la seule gare du RER et750 000 voyageurs dans l'ensemble du pôle ferroviaire. La gare est desservie par les trains des lignes A, B et D du RER. Elle est ainsi directement accessible depuis de nombreuses gares d’Île-de-France. Marché public créé en 1135 par Louis VI le Gros et étendu en 1183 par Philippe Auguste. Ce marché fut déplacé à Rungis, dans les années 1970.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LIBERTE",
@@ -1428,9 +1428,9 @@
             "8"
         ],
         "id": 98,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station doit sa dénomination à sa proximité avec l'avenue de la Liberté, comme beaucoup de rues de France qui utilisent l'une des trois valeurs fondamentales de la devise républicaine française issue de la révolution \"Liberté, Egalité, Fraternité\".",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MADELEINE",
@@ -1444,9 +1444,9 @@
             "14"
         ],
         "id": 99,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "L'église de la Madeleine se situe sur la place de la Madeleine dans le VIIIe arrondissement de Paris.\nElle constitue une parfaite illustration du style architectural néoclassique. Son aspect, atypique pour un édifice religieux, a la forme d’un temple grec sans croix ni clocher. Le souhait de Napoléon était d’en faire un panthéon à la gloire de ses armées. Le bâtiment a failli être transformé en 1837 en gare ferroviaire, la première de Paris, avant de devenir une église en 1845.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MAIRIE D'ISSY",
@@ -1458,9 +1458,9 @@
             "12"
         ],
         "id": 100,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MAISONS-ALFORT-STADE",
@@ -1472,9 +1472,9 @@
             "8"
         ],
         "id": 101,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le nom de Maisons-Alfort proviendrait du seigneur d’Herefort ou Harrefort (au 12e siècle). Le temps passant, le nom se transforma petit à petit pour devenir Hallefort (mentionné en 1612), puis Halefort, et enfin Alfort.\n\nLa station est située à proximité du stade municipal Auguste Delaune.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PERE LACHAISE",
@@ -1487,9 +1487,9 @@
             "3"
         ],
         "id": 102,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "François d'Aix, seigneur de La Chaise, (1624-1709), plus connu sous le nom de Père Lachaise, ce jésuite fut le confesseur du roi Louis XIV pendant 34 ans.\nA cet endroit se trouvait au XVIIème siècle Montlouis, une maison de repos des jésuites. Sur cet emplacement fut ensuite construit le cimetière où sont enterrés un grand nombre de personnages célèbres tels que Musset, Raspail, Chopin, Molière ou La Fontaine.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "NATIONALE",
@@ -1501,9 +1501,9 @@
             "6"
         ],
         "id": 103,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Nom donné en commémoration de la Garde nationale, milice civique bourgeoise créée le 13 juillet 1789 en vue du maintien de l’ordre dans Paris. Le 14, elle prit part à la prise de la Bastille; le 15, La Fayette en fut nommé commandant en chef ; en décembre, dans tous les départements, les milices se généralisèrent et formèrent une fédération. Elle joua un rôle important pendant la Révolution jusqu’à son écrasement, en 1795, par Bonaparte. Cette institution, restaurée par Napoléon (1805), demeura vivace, et la Restauration ne put la faire disparaître. Elle participa à la révolution de juillet 1830, puis soutint Louis-Philippe. Lors de la révolution de 1848, qui voulut lui faire perdre son caractère bourgeois, elle fut animée par des tendances contradictoires. Le Second Empire réussit par la suite à la contrôler, mais elle rejoignit la Commune en 1871 et fut dissoute le 30 août.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PIGALLE",
@@ -1516,9 +1516,9 @@
             "12"
         ],
         "id": 104,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Jean-Baptiste Pigalle, (1714-1785) est un sculpteur français. Issu d'une famille d'ébénistes, il apprend la sculpture auprès de Robert Le Lorrain et de Jean-Baptiste Lemoyne. Il subit surtout l'influence de Bouchardon. Il échoue au prix de Rome mais se rend cependant en Italie de 1734 jusqu'en 1739. Considéré comme un maître par ses contemporains, son œuvre est à la charnière des courants baroque et néo-classique. En 1803, son nom est donné à une rue de Paris où il avait son atelier, et de là au quartier Pigalle, mondialement connu.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PLACE DES FETES",
@@ -1531,9 +1531,9 @@
             "11"
         ],
         "id": 105,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "C'est ici qu'avaient lieu les fêtes de la commune de Belleville avant qu'elle ne soit rattachée à Paris en 1836. Vers les années 1830, on pouvait y apercevoir des mondains déguisés en Pierrots, des femmes du monde en Colombines, qui dansaient avec la population de la place des Fêtes.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MOUTON-DUVERNET",
@@ -1545,9 +1545,9 @@
             "4"
         ],
         "id": 106,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Engagé en 1785, il sert aux colonies. Il s'engagea à 19 ans dans le régiment de la Guadeloupe et était capitaine adjudant-major au siège de Toulon. Il participe ensuite à toutes les guerres de la Révolution et de l'Empire. Envoyé comme colonel en Espagne, en 1806, il en revint général de division et fit les campagnes de 1813 et de 1814. Il est fait prisonnier lors de la capitulation de Dresde, en 1813. Gouverneur militaire de Valence sous la première Restauration, il se rallie à Napoléon lors des Cent-Jours. Nommé membre de la Chambre des représentants comme député de la Haute-Loire, il y appuya toutes les mesures qui devaient sauver l'indépendance nationale. Il s'y oppose au retour des Bourbons, même après Waterloo.\nL'ordonnance du 24 juillet 1815 en fait un traître au roi, passible du conseil de guerre. Il se cache alors pendant près d'un an puis réapparait et se constitue prisonnier. Le conseil de guerre le condamne à mort en 1816.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "NOTRE-DAME-DES-CHAMPS",
@@ -1559,9 +1559,9 @@
             "12"
         ],
         "id": 107,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ODEON",
@@ -1574,9 +1574,9 @@
             "10"
         ],
         "id": 108,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Du grec \"salle où l'on chante\". Louis XVI fit construire cet édifice transformé plus tard en théâtre, et de nombreux concours de musique et de chant eurent lieu entre 1773 et 1782.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PONT-NEUF (LA MONNAIE)",
@@ -1588,9 +1588,9 @@
             "7"
         ],
         "id": 109,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Avec sa première pierre posée le 31 mai 1518 par Henri III et achevé au début du XVIIème sous Henri IV, le Pont Neuf est, malgré son nom, le plus ancien pont de Paris qui traverse la Seine et qui soit toujours intact. Il doit son nom à la nouveauté que constituait à l'époque un pont dénué d'habitations et est aujourd’hui classé monument historique.\n\nLa station porte comme sous-titre \" La Monnaie \" en référence à sa proximité avec la monnaie de Paris qui se trouvait à cet endroit avant sa reconstruction en 1776 sur la rive gauche de la Seine.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE D'AUTEUIL",
@@ -1602,9 +1602,9 @@
             "10"
         ],
         "id": 110,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE LA VILLETTE",
@@ -1616,9 +1616,9 @@
             "7"
         ],
         "id": 111,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La Villette, nom dérivé de \" petite ville \", était un village médiéval qui fut annexé par Paris en 1860. Connu pour ses marchés aux bestiaux et ses abattoirs, il subsiste aujourd’hui de nombreux restaurants de viande dans le quartier. La porte de la Villette est l'une des dix-sept portes percées dans l'enceinte de Thiers au milieu du XIXe siècle pour protéger Paris.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE MONTREUIL",
@@ -1630,9 +1630,9 @@
             "9"
         ],
         "id": 112,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-PHILIPPE-DU-ROULE",
@@ -1644,9 +1644,9 @@
             "9"
         ],
         "id": 113,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "STALINGRAD",
@@ -1660,9 +1660,9 @@
             "7"
         ],
         "id": 114,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Ville de Russie sur les bords de la Volga qui s'appela successivement Tsaritzym puis Volgograd. Les troupes allemandes de Von Paulus prirent une partie de cette ville en septembre 1942 avant d'être encerclés et vaincus par l'armée rouge. Originellement connue sous le nom de \" Aubervilliers - Boulevard de la Villette \", la station change de nom en 1946 pour devenir Stalingrad.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "TERNES",
@@ -1674,9 +1674,9 @@
             "2"
         ],
         "id": 115,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à son implantation sous la place des Ternes, à l'est du quartier éponyme. Selon l'explication la plus communément admise pour l'origine de ce nom, celui-ci fait référence à une ferme du Moyen Âge anciennement baptisée \" Villa externa \", domaine rural de l'évêché de Paris par opposition à \"villa episcopa\", siège de l'évêché.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE D'ITALIE",
@@ -1688,9 +1688,9 @@
             "7"
         ],
         "id": 116,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à son implantation à la porte d'Italie, laquelle était l'une des portes fortifiées de l'enceinte de Thiers, ouvrant sur la route vers l'Italie. C'est par ici que la voie venant de Rome arrivait à Lutèce. Napoléon entra dans Paris par cet endroit à son retour de l'île d'Elbe en 1815.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE D'IVRY",
@@ -1702,9 +1702,9 @@
             "7"
         ],
         "id": 117,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La porte d’Ivry était l'une des 17 portes percées dans l'enceinte de Thiers au milieu du XIXe siècle pour protéger la capitale. Elle sépare Paris d’Ivry-sur-Seine, dans le Val-de-Marne. \" Ivry \" provient du gaulois \" Eburiacum \", signifiant \" lieu des ifs \". \" Sur-Seine \" notifie le fait que la Seine borde le flanc est de la ville.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE D'ORLEANS",
@@ -1716,9 +1716,9 @@
             "4"
         ],
         "id": 118,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La porte d'Orléans est le point de départ de la route nationale 20 qui relie Paris à Orléans, d'où son nom. \nSur les quais, le nom de la station est sous-titré  \" Général Leclerc \", du nom de l'avenue sous laquelle elle se trouve. Général Leclerc, Philippe François Marie, comte de Hautecloque, également connu sous son nom de résistant Jacques-Philippe Leclerc (1902-1947) fut un maréchal de France. Prisonnier de la Seconde Guerre Mondiale il s'évade et rejoint De Gaulle à Londres, il se distingua ensuite en Lybie, au Tchad et en Tunisie avant de débarquer en Normandie en 1945.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "RASPAIL",
@@ -1731,9 +1731,9 @@
             "6"
         ],
         "id": 119,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Personnage marquant du XIXe siècle, François-Vincent Raspail est un chimiste, médecin et homme politique (1794-1878). Professeur aux collèges Stanislas et Sainte-Barbe, il fut chassé de l'enseignement en raison de ses opinions politiques. Ses recherches embrassant plusieurs disciplines le conduisirent à la découverte des microbes (qui ne fut reconnue que quarante ans plus tard) et l'exposèrent aux persécutions de la science officielle.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "REAUMUR-SEBASTOPOL",
@@ -1746,9 +1746,9 @@
             "4"
         ],
         "id": 120,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "-\tRené-Antoine Ferchault de Réaumur, (1683-1757) est un scientifique français qui s'intéressa à des sujets très variés tels que la métallurgie, la température, la porcelaine et particulièrement l'entomologie. \n \n -\tSébastopol est une ville d'Ukraine, située dans le sud-est de la péninsule de Crimée. Elle fut fondée par Catherine II, sur un site particulièrement favorable à l'implantation d'un port, puisque formé de huit baies en eau profonde, dont celle de Balaklava.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "RIQUET",
@@ -1760,9 +1760,9 @@
             "7"
         ],
         "id": 121,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Pierre-Paul Riquet, baron de Bonrepos (1604-1680), est l'ingénieur qui a permis la réalisation du Canal du Midi qui relie la Garonne à la Méditerranée. Fermier général et entrepreneur français, il mena une carrière prospère dans l'administration des gabelles.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "RUE DU BAC",
@@ -1774,9 +1774,9 @@
             "12"
         ],
         "id": 122,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GRANDS BOULEVARDS (RUE MONTMARTRE)",
@@ -1789,9 +1789,9 @@
             "9"
         ],
         "id": 123,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Initialement dénommée Montmartre puis Rue Montmartre en raison de sa proximité avec ladite rue, elle est rebaptisée Grands Boulevards en 1998 pour mettre fin aux nombreuses confusions de touristes pensant à tort que la station assurait la desserte de la butte Montmartre, qui se situe en réalité à plusieurs kilomètres plus au nord.\nElle tire ce nouveau nom de son implantation sous l'un des Grands Boulevards, terme désignant une série de large artères aménagées sur la rive droite. Ils correspondent au \" Nouveau Cours \" construit de 1668 à 1705 sur l'emplacement de l'enceinte de Louis XIII. ",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-DENIS-PORTE DE PARIS",
@@ -1803,9 +1803,9 @@
             "13"
         ],
         "id": 124,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "VOLONTAIRES",
@@ -1817,9 +1817,9 @@
             "12"
         ],
         "id": 125,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "TOLBIAC",
@@ -1831,9 +1831,9 @@
             "7"
         ],
         "id": 126,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Tolbiac est l'ancien nom d'une cité de la région de Cologne (Köln en allemand, actuelle Zülpich), qui donna son nom à une bataille remportée par Clovis Ier sur les Alamans en 496. Suite à cette bataille, Clovis fit le vœu de se convertir au catholicisme poussé par sa femme et l'évêque de Reims.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "VILLEJUIF-PAUL VAILLANT-COUTURIER",
@@ -1845,9 +1845,9 @@
             "7"
         ],
         "id": 127,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "L’origine du nom de Villejuif est, à ce jour encore, assujettie à plusieurs hypothèses. La plus vraisemblable serait que Juif soit la déformation du nom initial d’un propriétaire, Juvius, ou Juveus.\n\nPaul Vaillant-Couturier (1892-1937) est un écrivain, journaliste et homme politique français. Après avoir milité pendant plusieurs années, il fut admis au Comité Central du Parti Communiste. Elu député à Paris (1919-1928) il devint Conseiller général et maire de Villejuif en 1929 et prit la tête de la rédaction de l'Humanité.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE LA CHAPELLE",
@@ -1859,9 +1859,9 @@
             "12"
         ],
         "id": 128,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BONNE NOUVELLE",
@@ -1874,9 +1874,9 @@
             "9"
         ],
         "id": 129,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "L’église Notre-Dame-de-Bonne-Nouvelle, construite entre 1823 et 1830, fait l’objet d’un classement au titre des monuments historiques depuis le 21 mars 1983. Suite aux outrages subis lors de la Révolution, elle menace de tomber en ruine et la décision de la reconstruire est prise. Il semble établi que l'église soit la seule (avec Notre-Dame-de-Paris) à être fondée sur pilotis.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BOULOGNE-PONT DE SAINT CLOUD",
@@ -1888,9 +1888,9 @@
             "10"
         ],
         "id": 130,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BREGUET-SABIN",
@@ -1902,9 +1902,9 @@
             "5"
         ],
         "id": 131,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station rend hommage à la famille Bréguet, dont l’horloger d’origine suisse Abraham Louis Breguet (1747-1823), qui fut l’inventeur de montres à remontoir automatique pour l’astronomie. Son petit-fils Louis (1804 -1883) inventa des appareils électriques et radiotélégraphiques et collabora avec Chappe. Plus tard, son arrière-petit-fils Antoine (1851-1882) mit au point un anémomètre électrique. Le fils de ce dernier fut le célèbre pionnier de l’aviation Louis Charles Breguet (1880-1955) dont l’avion piloté par Costes et Bellonte traversa l’Atlantique d’est en ouest en 1930.\n \nLe nom de la station est aussi un hommage à Angelesme de Saint-Sabin qui fut échevin de Paris en 1777.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BOBIGNY-PABLO PICASSO",
@@ -1916,9 +1916,9 @@
             "5"
         ],
         "id": 132,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "Bobigny est la préfecture du département de la Seine Saint-Denis. Bobigny tire son nom de Balbinius, nom d'un ancien général romain qui créa une villa dans l'ancienne forêt de Bondy. Le nom a évolué en Balbiniacum puis en Baubigny puis Bobigny.\nPablo Picasso, de son vrai nom Ruiz Blasco Pablo y Picasso, est né à Málaga (Espagne) le 25 octobre 1881 et mort le 8 avril 1973 à Mougins (France). Cet artiste espagnol est principalement connu pour ses peintures, mais fut aussi sculpteur, et est l'un des artistes majeurs du XXe siècle. Il est, avec Georges Braque, le fondateur du mouvement cubiste.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BOBIGNY-PANTIN (RAYMOND QUENEAU)",
@@ -1930,9 +1930,9 @@
             "5"
         ],
         "id": 133,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Bobigny est une commune française située dans le département de la Seine-Saint-Denis, dont elle est la préfecture, en région Île-de-France. Pantin est une commune française située dans la banlieue nord-est de Paris dont elle est limitrophe. C'est dans l'ancienne usine d'allumettes de la ville de Pantin que fut découverte la pâte inoffensive au sesquisulfure de phosphore qui remplaça le dangereux phosphore blanc.\n \n Raymond Queneau, (Le Havre, 21 février 1903 - 25 octobre 1976) est un romancier, poète, dramaturge et mathématicien français. Il est surtout connu comme l'auteur de Zazie dans le métro et comme le co-fondateur de l'Oulipo. ",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ALESIA",
@@ -1944,9 +1944,9 @@
             "4"
         ],
         "id": 134,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le nom de la station vient de la rue d'Alésia, qui passe par la place précitée. Le nom de cette rue a pour origine l'oppidum gaulois qui fut le théâtre de la bataille décisive de la guerre des Gaules qui opposa Jules César à la coalition gauloise menée par l'Arverne Vercingétorix en 52 av. J.-C.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ANVERS",
@@ -1958,9 +1958,9 @@
             "2"
         ],
         "id": 135,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à sa proximité avec la place d'Anvers d'une part et le square d'Anvers d'autre part, lesquels portent le nom de la ville belge d’Anvers où des troupes françaises remportèrent une victoire sur les Néerlandais lors du siège de la citadelle d'Anvers en 1832.\nLa station porte comme sous-titre Sacré-Cœur, afin de rappeler sa relative proximité avec la basilique du Sacré-Cœur de Montmartre, édifice religieux parisien majeur.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ARTS ET METIERS",
@@ -1973,9 +1973,9 @@
             "11"
         ],
         "id": 136,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Célèbre établissement d'enseignement supérieur technique mais aussi musée et conservatoire, l'École Nationale Supérieure d'Arts et Métiers (ENSAM) est une école publique française de formation d'ingénieurs généralistes (diplôme de niveau BAC+5) sous tutelle du Ministère de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BELLEVILLE",
@@ -1988,9 +1988,9 @@
             "11"
         ],
         "id": 137,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Ancienne commune de l'arrondissement de Saint-Denis annexée à Paris en 1860. Les Quartiers de Belleville sont situés dans le XIXe arrondissement (quartier Bas-Belleville) et dans le XXe arrondissement (quartier Belleville) de Paris.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BERAULT",
@@ -2002,9 +2002,9 @@
             "1"
         ],
         "id": 138,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Michel Bérault (1796-1871), issu d'une famille de vignerons était conseiller municipal puis maire de Vincennes entre 1830 et 1870, à ce titre il participa à la commune.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CRETEIL-UNIVERSITE",
@@ -2016,9 +2016,9 @@
             "8"
         ],
         "id": 139,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Créteil est une ville de la banlieue sud-est de Paris, préfecture du département du Val-de-Marne. Sa dénomination provient du nom \" cristoïlum \" signifiant la clairière sur la crête.\n\nLa station dessert l’Université de Créteil, aussi appelée Université Paris XII, créée en 1970 pour faire face au nombre croissant d'étudiants que les facultés parisiennes n'avaient plus la capacité d'accueillir.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CRIMEE",
@@ -2030,9 +2030,9 @@
             "7"
         ],
         "id": 140,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Cette station porte le nom de la guerre de Crimée (1855-1856), presqu’île d’Ukraine sur la mer Noire, qui vit la coalition comprenant la Turquie, le Royaume-Uni, la France et le Piémont affronter la Russie. Cette dernière fut vaincue, notamment avec la prise de Sébastopol. Le traité de Paris en 1856 mis fin à ce conflit.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ECOLE MILITAIRE",
@@ -2044,9 +2044,9 @@
             "8"
         ],
         "id": 141,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à son implantation au nord de l'École militaire, laquelle ferme la perspective sud-est du Champ-de-Mars. Fondée en 1750 par le financier Joseph Pâris Duverney, avec le soutien de Madame de Pompadour et de Louis XV, son but était de créer un collège académique pour des élèves officiers d’origine modeste. Elle compte parmi ses élèves le jeune Bonaparte en 1784. L'École militaire regroupe aujourd'hui l'ensemble des organismes de l'enseignement militaire supérieur et abrite également plusieurs services de l'administration centrale du Ministère de la Défense.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BUZENVAL",
@@ -2058,9 +2058,9 @@
             "9"
         ],
         "id": 142,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CAMBRONNE",
@@ -2072,9 +2072,9 @@
             "6"
         ],
         "id": 143,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Pierre Jacques Étienne Cambronne (1770-1842), devenu Pierre, vicomte Cambronne, est un général d’Empire, il accompagna Napoléon dans son exil à l'île d'Elbe. Il est connu pour son héroïsme lors de la bataille de Waterloo. Selon une légende très populaire, commandant le dernier carré de la Vieille Garde à Waterloo, sommé de se rendre par le général britannique Colville, Cambronne aurait répondu : \" La garde meurt mais ne se rend pas ! \"",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHARDON-LAGACHE",
@@ -2086,9 +2086,9 @@
             "10"
         ],
         "id": 144,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHARLES MICHELS",
@@ -2100,9 +2100,9 @@
             "10"
         ],
         "id": 145,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CLUNY-LA-SORBONNE",
@@ -2114,9 +2114,9 @@
             "10"
         ],
         "id": 146,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-LAZARE",
@@ -2131,9 +2131,9 @@
             "14"
         ],
         "id": 147,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La gare Saint-Lazare, ancienne tête de ligne du réseau \" Ouest-État \", est l'une des six grandes gares terminus du réseau de la SNCF à Paris. Elle doit son nom à Lazare qui, selon l'évangile de Saint jean, était un ami de Jésus, frère de Marthe et de Marie de Béthanie. C'est lui que le Christ aurait ressuscité, le faisant sortir de son tombeau.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GEORGE V",
@@ -2145,9 +2145,9 @@
             "1"
         ],
         "id": 148,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Initialement dénommée Alma du fait de sa proximité avec l'avenue de l'Alma (laquelle faisait référence à la bataille de l'Alma), elle est rebaptisée George V le 27 mai 1920, à la suite du changement de nom le 14 juillet 1918 de ladite avenue en hommage au roi d'Angleterre George V (1865-1936). \n George V (Georges Fréderic Ernest Albert), (1865-1936), fut le dernier monarque britannique de la Maison de Saxe-Cobourg et Gotha, branche de la Maison de Wettin, dont il changea le nom en Maison de Windsor en 1917. En plus d'être le roi du Royaume-Uni de Grande-Bretagne et d'Irlande (depuis 1927, le roi du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord) et des Royaumes du Commonwealth, George était aussi empereur des Indes. George régna du 6 mai 1910 jusqu'à sa mort. Son règne fut marqué par l'intervention de l'Angleterre dans première guerre mondiale, par la réforme du parlement anglais en 1911 et en 1922 par l'accès de l'Irlande au statut d'Etat libre.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "HOCHE",
@@ -2159,9 +2159,9 @@
             "5"
         ],
         "id": 149,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Louis Lazare Hoche, né le 24 juin 1768 à Montreuil près de Versailles et mort le 19 septembre 1797 à Wetzlar (Hesse), est un général français de la Révolution. Il battit les Autrichiens près de Woerth et libéra Landau. Il fit de la prison sous la Terreur. Il pacifia ensuite la Vendée et anéantit les émigrés débarqués à Quiberon en 1795. Après avoir pris le commandement de l'armée de Sambre et Meuse et être nommé ministre de la guerre en 1797 il mourut de la tuberculose.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "EUROPE",
@@ -2173,9 +2173,9 @@
             "3"
         ],
         "id": 150,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle tire son nom de la place de l'Europe à proximité de laquelle elle est établie, au cœur du quartier éponyme. Ce dernier doit sa dénomination à la présence de nombreuses rues portant des noms de villes européennes (Rome, Milan, Naples, Saint-Petersbourg, Londres, etc.). Europe est, avec Rome sur la ligne 2, et Liège sur la ligne 13, une des trois stations dont le patronyme témoigne de la desserte de ce quartier.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "FALGUIERE",
@@ -2187,9 +2187,9 @@
             "12"
         ],
         "id": 151,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "JOURDAIN",
@@ -2201,9 +2201,9 @@
             "11"
         ],
         "id": 152,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "JULES JOFFRIN",
@@ -2215,9 +2215,9 @@
             "12"
         ],
         "id": 153,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MALAKOFF-PLATEAU DE VANVES",
@@ -2229,9 +2229,9 @@
             "13"
         ],
         "id": 154,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MIROMESNIL",
@@ -2244,9 +2244,9 @@
             "13"
         ],
         "id": 155,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MONTGALLET",
@@ -2258,9 +2258,9 @@
             "8"
         ],
         "id": 156,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à sa proximité avec la rue Montgallet, dont le nom résulte vraisemblablement de la déformation progressive de celui d'un propriétaire foncier local. \" Mangallée \", est alors devenu successivement \" Maugallée \" puis \" Mont Gallet \" en 1760 avant de prendre sa forme actuelle \" Montgallet \" en 1775",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LIEGE",
@@ -2272,9 +2272,9 @@
             "13"
         ],
         "id": 157,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MABILLON",
@@ -2286,9 +2286,9 @@
             "10"
         ],
         "id": 158,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PASTEUR",
@@ -2301,9 +2301,9 @@
             "12"
         ],
         "id": 159,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Louis Pasteur (1822-1895) scientifique français, est un pionnier de la microbiologie. Il permit de grandes avancées en médecine notamment sur les maladies infectieuses et l'épilepsie. Il élabora la théorie de la génération spontanée à la suite de Pouchet et découvrit le vaccin contre la rage. Il est à l'origine de la pasteurisation ou méthode de conservation des liquides. Il fut nommé membre de l'Académie française en 1881.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PLACE MONGE (JARDIN DES PLANTES)",
@@ -2315,9 +2315,9 @@
             "7"
         ],
         "id": 160,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station place Monge doit son nom à la place Monge nommée d'après Gaspard Monge (1746-1818), mathématicien français reconnu pour ses travaux portant sur la géométrie descriptive, l’analyse infinitésimale et la géométrie analytique. Il est à l’origine de la construction de l'École normale supérieure et l’un des fondateurs de l'École polytechnique.\n\nElle porte comme sous-titre Jardin des Plantes – Arènes de Lutèce, du fait de sa proximité avec le Jardin des plantes d'une part, siège et principal site du Muséum national d'histoire naturelle, et les arènes de Lutèce d'autre part, ancien amphithéâtre gallo-romain. ",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "OPERA",
@@ -2331,9 +2331,9 @@
             "8"
         ],
         "id": 161,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à l'opéra Garnier, construit par l'architecte Charles Garnier, dont elle assure la desserte. L’opéra Garnier abrite aujourd’hui l'Académie nationale de Musique et de Danse.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PLAISANCE",
@@ -2345,9 +2345,9 @@
             "13"
         ],
         "id": 162,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE BAGNOLET",
@@ -2359,9 +2359,9 @@
             "3"
         ],
         "id": 163,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à sa proximité avec la porte de Bagnolet. La place de la Porte-de-Bagnolet fait partie de l'ancien quartier Saint-Fargeau. Elle est bordée au nord-ouest par un quartier de villas entourées de jardins, appelé \" la Campagne à Paris \", au nord-est par le square Séverine, dont la construction a été promue et soutenue au conseil municipal par Albert Besson et à l'ouest, par des immeubles construits au début du XXe siècle par plusieurs architectes dont Arsène Lejeune.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-PAUL (LE MARAIS)",
@@ -2373,9 +2373,9 @@
             "1"
         ],
         "id": 164,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Paul de Tarse (à l'origine Saul) ou saint Paul (v10-v65), est considéré comme l'une des figures centrales du christianisme primitif, par le rôle qu'il a joué dans son développement, et par son interprétation de l'enseignement de Jésus. \n Selon le Nouveau Testament (livre des Actes des Apôtres et les lettres de Paul), Paul se revendique comme l'un des principaux disciples (comme un apôtre) de Jésus-Christ qui, quelques années après sa mort et sa résurrection, lui serait apparu et l'aurait converti. Il eut un rôle de première importance dans le développement et la diffusion du christianisme primitif, au point que certains théologiens, estimant que Paul donne un enseignement différent de celui de Jésus de Nazareth, le considèrent comme le véritable fondateur du christianisme. L'église Saint-Paul-Saint-Louis, précédemment appelée église Saint-Louis-des-Jésuites située dans le quartier du Marais à Paris (4e arrondissement), est une église dévouée au culte catholique construite au XVIIe siècle par les architectes jésuites Étienne Martellange et François Derand, sur ordre de Louis XIII.\nLa station porte comme sous-titre Le Marais en raison de son implantation au centre sud du quartier du Marais, une ancienne zone marécageuse.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-PLACIDE",
@@ -2387,9 +2387,9 @@
             "4"
         ],
         "id": 165,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle tire sa dénomination de sa proximité avec la rue Saint-Placide, laquelle rend hommage à saint Placide, disciple de saint Benoît et qui, d'après la coutume, aurait été sauvé de la noyade par saint Maur. Né à Rome au au VIème siècle, il mourut vers 543.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SENTIER",
@@ -2401,9 +2401,9 @@
             "3"
         ],
         "id": 166,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Cet ancien chemin menait vers les fortifications de Paris à l'époque cerné de remparts. Le nom proviendrait peut-être aussi d'un dérivé de \"chantier\". Le quartier du Sentier était réputé jusqu'à récemment pour les activités dans les métiers du textile qui s'y sont développées à compter des années 1950.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SEVRES-BABYLONE",
@@ -2416,9 +2416,9 @@
             "12"
         ],
         "id": 167,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SIMPLON",
@@ -2430,9 +2430,9 @@
             "4"
         ],
         "id": 168,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Nom d'un col du massif des Alpes, d'une route militaire de 70km créée en 1807 par Napoléon entre Brigue et Dommossola et d'un tunnel creusé entre 1898 et 1905 par la Suisse, l'Italie et l'Allemagne, qui permettait le passage des trains Paris-Milan et de l'Orient-Express.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "TEMPLE",
@@ -2444,9 +2444,9 @@
             "3"
         ],
         "id": 169,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Située à l'angle de la rue du Temple et de la rue de Turbigo, la station fait référence à un ancien bâtiment des Templiers, détruit en 1811, situé sur l'emplacement de l'actuelle mairie du IIIème arrondissement.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE SAINT-CLOUD",
@@ -2458,9 +2458,9 @@
             "9"
         ],
         "id": 170,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE VERSAILLES",
@@ -2472,9 +2472,9 @@
             "12"
         ],
         "id": 171,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DES LILAS",
@@ -2487,9 +2487,9 @@
             "11"
         ],
         "id": 172,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Cette ancienne porte de Paris permettait l'accès à la commune des Lilas, créée en 1867 par démembrement de la commune de Romainville. Les Lilas doivent leur nom aux jardins fleuris qui couvraient la colline sous le Second Empire, mais surtout aux lilas des guinguettes, cabarets et gargotes où le romancier Paul de Kock trouvait son inspiration.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PYRAMIDES",
@@ -2502,9 +2502,9 @@
             "14"
         ],
         "id": 173,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Cette station fait référence à la bataille des Pyramides qui vit la victoire de l’armée d’Orient commandée par le général Bonaparte sur les mamelouks de Mourad Bey, pendant la campagne d'Égypte en 1798. Après la bataille, Napoléon prononça: \"Du haut de ces pyramides, quarante siècles vous contemplent.\" signifiant que ces monuments abritaient les tombeaux des pharaons égyptiens momifiés.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PYRENEES",
@@ -2516,9 +2516,9 @@
             "11"
         ],
         "id": 174,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "QUAI DE LA RAPEE",
@@ -2530,9 +2530,9 @@
             "5"
         ],
         "id": 175,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Cette station s’appelait à l'origine Place Mazas, ancienne prison parisienne portant le nom de Jacques François Marc Mazas (1765-1805) qui fut colonel et périt à la bataille d'Austerlitz.\nElle prit ensuite le nom de Pont d'Austerlitz le 15 octobre 1907, et enfin son nom actuel le 1er juin 1916, en mémoire du commissaire des Guerres du roi Louis XV, monsieur de la Rapée, qui possédait à cet endroit une propriété et qui donna son nom au quartier.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "RICHELIEU-DROUOT",
@@ -2545,9 +2545,9 @@
             "9"
         ],
         "id": 176,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Armand Jean du Plessis de Richelieu (1585-1642), cardinal, duc et pair de France, fut également ministre de Louis XIII. Il entre en politique et devint secrétaire d’État en 1616 puis cardinal en 1622, fonction qu’il exercera jusqu'à sa mort, en 1642; le cardinal Jules Mazarin lui succéda. Il est considéré comme un fondateur essentiel de l'État moderne en France. \n\nDrouot (1774-1847), général d'artillerie du Premier Empire et pair de France, il suivit Napoléon durant son exil à l'île d'Elbe. Ce dernier aurait déclaré : \" Il n'existait pas deux officiers dans le monde pareils à Murat pour la cavalerie et à Drouot pour l'artillerie. \"",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-AMBROISE",
@@ -2559,9 +2559,9 @@
             "9"
         ],
         "id": 177,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-FRANCOIS-XAVIER",
@@ -2573,9 +2573,9 @@
             "13"
         ],
         "id": 178,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-MAUR",
@@ -2587,9 +2587,9 @@
             "3"
         ],
         "id": 179,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination initiale de \" Saint-Maur \" à sa proximité avec la rue Saint-Maur, laquelle correspond à un ancien chemin qui conduisait de l'abbaye de Saint-Maur à l'abbaye de Saint-Denis, et reprend le nom de la première qui recueillit les reliques de saint Maur en 868.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "VANEAU",
@@ -2601,9 +2601,9 @@
             "10"
         ],
         "id": 180,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "OLYMPIADES",
@@ -2615,9 +2615,9 @@
             "14"
         ],
         "id": 181,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LES COURTILLES-ASNIERES-GENNEVILLIERS",
@@ -2629,9 +2629,9 @@
             "13"
         ],
         "id": 182,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "TROCADERO",
@@ -2644,9 +2644,9 @@
             "9"
         ],
         "id": 183,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La place du Trocadéro doit son nom au site fortifié de la baie de Cadix qui fut enlevé par les troupes françaises commandées par le duc d’Angoulême, en 1823. Il fut donné également ce nom au palais oriental construit pour l’exposition universelle de 1878. Celui-ci fut démoli en 1937 et remplacé par l’actuel palais de Chaillot qui abrite les musées de l’Homme, de la Marine, des Monuments français et du Cinéma.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "VICTOR HUGO",
@@ -2658,9 +2658,9 @@
             "2"
         ],
         "id": 184,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Victor-Marie Hugo (1802-1885), est un écrivain, homme politique et intellectuel engagé français du XIXe siècle. Il est considéré comme le plus important des écrivains romantiques de langue française.\nSa vie fut entièrement consacrée à l'écriture: poésies, drames (Ruis Blas, Hernani), romans (Notre Dame de Paris), il réalisa par ailleurs de nombreux dessin. Député en 1848 il s'exila en 1851 à Guernesey d'où il fit paraître Les châtiments et Les Misérables.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "VILLEJUIF-LOUIS ARAGON",
@@ -2672,9 +2672,9 @@
             "7"
         ],
         "id": 185,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "L’origine du nom de Villejuif est, à ce jour encore, assujettie à plusieurs hypothèses. La plus vraisemblable serait que Juif soit la déformation du nom initial d’un propriétaire, Juvius, ou Juveus.\n\nLouis Aragon (1897-1982) est un poète et un romancier français. Militant communiste il est à l'origine du mouvement surréaliste avec André Breton. Il fut journaliste à l'humanité puis directeur des lettres françaises. À partir de la fin des années 1950, nombre de ses poèmes sont mis en musique et chantés par Léo Ferré ou Jean Ferrat, contribuant à porter son œuvre poétique à la connaissance d'un large public.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "FRONT POPULAIRE",
@@ -2686,9 +2686,9 @@
             "12"
         ],
         "id": 186,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MAIRIE DE MONTROUGE",
@@ -2700,9 +2700,9 @@
             "4"
         ],
         "id": 187,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "Montrouge est une commune française située dans le département des Hauts-de-Seine en région Île-de-France, dans l'arrondissement d'Antony, au sud de Paris, et fait partie de la Métropole du Grand Paris créée en 2016. Le nom de Montrouge apparaît pour la première fois en 1194 sous la forme latine de \"Rubeo Monte\". \nL’origine du nom fait controverse auprès des historiens : certains évoquent le surnom d’un seigneur de Montrouge du XIe siècle Guy dit le Rouge à cause de sa chevelure, d’autres le fait que Montrouge se trouve situé sur un plateau (qui sépare la vallée de la Seine de celle de la Bièvre) et que la terre de son sol est par endroit argileuse et de couleur rougeâtre. Cette deuxième théorie semble plus vraisemblable dans la mesure où la dénomination d’un ancien lieu-dit des Fosses rouge l’atteste.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE CLICHY",
@@ -2714,9 +2714,9 @@
             "13"
         ],
         "id": 188,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE CLIGNANCOURT",
@@ -2728,9 +2728,9 @@
             "4"
         ],
         "id": 189,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "L’ancien hameau de Clignancourt appartenait à l’abbaye de Saint-Denis. Le hameau fut annexé à Paris en 1860, on donna son nom, dérivé d'un domaine gallo-romain Clinuricurtis, à la porte des fortifications qui le protégeait.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BOURSE",
@@ -2742,9 +2742,9 @@
             "3"
         ],
         "id": 190,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La Bourse de Paris, rebaptisée Euronext Paris depuis 2000, est le marché officiel des actions en France. Le lieu historique qu'elle a longtemps occupé à Paris est le Palais Brongniart, où la négociation se réalisait traditionnellement à la criée. Le nom \"Bourse\" viendrait d'un commerçant de Bruges du XVème siècle: Van der Burse.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BLANCHE",
@@ -2756,9 +2756,9 @@
             "2"
         ],
         "id": 191,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à sa proximité avec la place Blanche d'une part et la rue Blanche d'autre part, cette dernière descendant vers le sud en direction de la place d'Estienne-d'Orves. Cette rue était autrefois traversée par des voitures, chargées de plâtre en provenance de la plâtrière de Montmartre, qui laissaient derrière elles des traînées de poudre blanchissant le quartier.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ALMA-MARCEAU",
@@ -2770,9 +2770,9 @@
             "9"
         ],
         "id": 192,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ARGENTINE",
@@ -2784,9 +2784,9 @@
             "1"
         ],
         "id": 193,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "A l'origine, son nom était Obligado, allusion à une bataille gagnée par la France et l'Angleterre contre l'Argentine en 1845. Mais en 1947, après la visite d'Eva Peron, femme du président argentin de l'époque, et en remerciement pour l'aide alimentaire apportée par ce pays, il est décidé de rebaptiser la station. Elle fait aujourd'hui l'objet d'un partenariat avec l'Argentine, qui a financé une partie du projet.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "AUBERVILLIERS-PANTIN (QUATRE CHEMINS)",
@@ -2798,9 +2798,9 @@
             "7"
         ],
         "id": 194,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Aubervilliers est une commune française située dans le département de la Seine-Saint-Denis. Cette ville a longtemps été un domaine rural, connu autrefois sous le nom de Notre-Dame-des-Vertus. En 1060, Henri Ier en fait donation au prieuré Saint-Martin-des-Champs et en 1111, les serfs d’Aubervilliers sont affranchis.\n\nPantin est une commune française située dans la banlieue nord-est de Paris dont elle est limitrophe. C'est dans l'ancienne usine d'allumettes de la ville de Pantin que fut découverte la pâte inoffensive au sesquisulfure de phosphore qui remplaça le dangereux phosphore blanc.\n\nLe nom de Quatre Chemins est celui d'un lieu-dit porté par un carrefour sur l’ancienne route des Flandres (route nationale 2) à la limite des deux communes citées dans le nom de la station.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "AVENUE EMILE ZOLA",
@@ -2812,9 +2812,9 @@
             "10"
         ],
         "id": 195,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CORVISART",
@@ -2826,9 +2826,9 @@
             "6"
         ],
         "id": 196,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le baron Jean-Nicolas Corvisart de Marets (1755-1821) est un illustre médecin français et, entre autres, médecin personnel de Napoléon.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "COURONNES",
@@ -2840,9 +2840,9 @@
             "2"
         ],
         "id": 197,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Ce nom a deux origines possibles. Il s'agissait soit d'un lieu-dit Les Couronnes-sous-Savies, Savies étant l'ancien nom de la commune de Belleville. Soit il existait à cet endroit une taverne à l'enseigne des Trois Couronnes.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ECOLE VETERINAIRE DE MAISONS-ALFORT",
@@ -2854,9 +2854,9 @@
             "8"
         ],
         "id": 198,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le nom de Maisons-Alfort proviendrait du seigneur d’Herefort ou Harrefort (au 12e siècle). Le temps passant, le nom se transforma petit à petit pour devenir Hallefort (mentionné en 1612), puis Halefort, et enfin Alfort.\n\nL'École nationale vétérinaire d'Alfort (EnvA) est un établissement public d'enseignement supérieur et de recherche, placé sous la tutelle du ministère chargé de l'agriculture. Installée sur le site d'Alfort depuis 1766, elle est la plus ancienne école vétérinaire au monde encore sur son site d'origine.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "EDGAR QUINET",
@@ -2868,9 +2868,9 @@
             "6"
         ],
         "id": 199,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Edgar Quinet (1803 -1875), écrivain, historien et homme politique français. Titulaire d'une chaire au collège de France, il en fut privé par Guizot en 1846. Elu député en 1848, Napoléon l'envoya en exil après le coup d'Etat du 2 décembre 1851. Il redevint député en 1871 après son retour.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CARDINAL-LEMOINE",
@@ -2882,9 +2882,9 @@
             "10"
         ],
         "id": 200,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHAMPS-ELYSEES-CLEMENCEAU",
@@ -2897,9 +2897,9 @@
             "13"
         ],
         "id": 201,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Initialement dénommée Champs-Élysées du fait de son implantation à proximité de la célèbre avenue, elle est rebaptisée Champs-Élysées - Clemenceau le 20 mai 1931 à la suite de la création en 1930 de la place Clemenceau en surface, laquelle rend hommage à Georges Clemenceau (1841-1929), homme politique français et président du Conseil.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHARENTON-ECOLES",
@@ -2911,9 +2911,9 @@
             "8"
         ],
         "id": 202,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Charenton-le-Pont est une commune française située dans le département du Val-de-Marne. Son nom pourrait provenir du radical pré-indo-européen Kal ou Kar signifiant pierre. Ce terme serait donc lié à l'activité d’extraction de la pierre de liais au bourg des Carrières. Depuis la conquête romaine, on mentionne le pont ou se sont déroulés maints faits d'armes glorieux.\n\nAristide Briand (1862-1932) est un avocat, homme politique et diplomate français. Onze fois président du Conseil (l'équivalent du Premier ministre sous la troisième République) et vingt-six fois ministre sous la Troisième République, il joua un rôle essentiel dans les relations internationales après la Première Guerre mondiale. Il reçut le prix Nobel de la Paix (conjointement avec Gustav Stresemann) en 1926 pour son action en faveur de la réconciliation entre la France et l'Allemagne (accords de Locarno, 1925).",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHARONNE",
@@ -2925,9 +2925,9 @@
             "9"
         ],
         "id": 203,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHATEAU ROUGE",
@@ -2939,9 +2939,9 @@
             "4"
         ],
         "id": 204,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La place du Château-Rouge tient son nom du petit château, dit Château Rouge, construit pour Gabrielle d'Estrées, maîtresse et favorite d’Henri IV en 1591, devenu bal public et démoli en 1875.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHAUSSEE D'ANTIN (LA FAYETTE)",
@@ -2954,9 +2954,9 @@
             "9"
         ],
         "id": 205,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Chaussée d’Antin fait référence à un hôtel particulier ayant appartenu au duc d'Antin (Louis Antoine de Pardaillan de Gondrin, 1665-1736), fils de Madame de Montespan et surintendant des Bâtiments du Roi. Le terme de \"chaussée\" provient du fait que la rue dut être surélevée lors de sa construction en raison de la nature marécageuse du terrain.\n\nGilbert du Motier, marquis de la Fayette (aussi connu sous le nom de Marquis de La Fayette) (1757- 1834), fut l'un des héros de la guerre d'indépendance des États-Unis. Il prit part à la Révolution française et fut l'un des instigateurs de la Déclaration des droits de l'homme et du citoyen.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CITE",
@@ -2968,9 +2968,9 @@
             "4"
         ],
         "id": 206,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Son nom est dû à son emplacement, sur l'île de la Cité. C'est d'ailleurs la seule station de métro desservant une île. Cette station est située à une profondeur de 20 m pour que le tunnel puisse passer sous la Seine.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CONVENTION",
@@ -2982,9 +2982,9 @@
             "12"
         ],
         "id": 207,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "EXELMANS",
@@ -2996,9 +2996,9 @@
             "9"
         ],
         "id": 208,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "FILLES DU CALVAIRE",
@@ -3010,9 +3010,9 @@
             "8"
         ],
         "id": 209,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station se situe à proximité de la présence ancienne du couvent de Notre-Dame du Calvaire, créé en 1633 par le père Joseph (conseiller de Louis XIII) pour les bénédictines de Notre-Dame du Calvaire ou filles du Calvaire, ordre monastique féminin fondé en 1617 à Poitiers par Antoinette d’Orléans. Leur nom vient du Calvaire, lieu où Jésus a été crucifié. Ce couvent fut fermé à la Révolution avant d'être vendu.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "JACQUES BONSERGENT",
@@ -3024,9 +3024,9 @@
             "5"
         ],
         "id": 210,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station doit son nom à Jacques Bonsergent, ingénieur Arts et Métiers, qui fut le premier civil fusillé de Paris lors de la Seconde Guerre mondiale le 23 décembre 1940, il avait 28 ans.\nLe 10 novembre 1940, près de son domicile, il est mêlé à une bousculade au cours de laquelle son compagnon frappe en sergent allemand. Lui seul est pourtant arrêté puis condamné à mort. C'est afin de frapper l'opinion publique française qu'il avait été décidé qu'un tribunal militaire allemand condamne à la peine capitale Jacques Bonsergent pour faire un exemple.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "JUSSIEU",
@@ -3039,9 +3039,9 @@
             "10"
         ],
         "id": 211,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Jussieu est le nom d'une famille française qui a donné du XVIIe au XIXe siècle plusieurs botanistes. Bernard de Jussieu (1699-1777) et Antoine-Laurent de Jussieu (1748-1836), naturalistes et botanistes auteurs d'un Traité élémentaire de botanique en 1840 firent une classification naturelle des plantes qui supplanta celle faite par Linné.\n\nCette station s'appelait autrefois Jussieu - Halle-aux-vins, mais la petite Halle aux vins, créée par Napoléon Ier, a disparu et à son emplacement se trouve à présent le campus Pierre-et-Marie-Curie (faculté de sciences) depuis 1957.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LA CHAPELLE",
@@ -3053,9 +3053,9 @@
             "2"
         ],
         "id": 212,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Village du nord de Paris rattaché à l'abbaye de Saint-Denis, il dépend de Paris depuis 1860. Un oratoire y avait été construit en mémoire de Sainte Geneviève au VIème siècle. La commune s'appelait La Chapelle-Sainte-Geneviève jusqu'à 1829 où elle fut rebaptisée La Chapelle-Saint-Denis.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MARX DORMOY",
@@ -3067,9 +3067,9 @@
             "12"
         ],
         "id": 213,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MAUBERT-MUTUALITE",
@@ -3081,9 +3081,9 @@
             "10"
         ],
         "id": 214,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MENILMONTANT",
@@ -3095,9 +3095,9 @@
             "2"
         ],
         "id": 215,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "A l’origine c’était un village de la commune de Belleville, où se trouvaient aussi des carrières de gypse, fermées en 1779 après un terrible accident ainsi que des vignobles. Du fait de sa position dominante sur Paris, et hors les murs des Fermiers Généraux, avant l’intégration de Belleville dans le nouveau Paris en 1860 et ses 20 arrondissements. A l’origine ce lieu s’appelait le \"Mesnil Mau Temps\" qui s’est vite transformé en Mesnil Montant du fait de la déclivité de la rue.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MICHEL-ANGE-AUTEUIL",
@@ -3110,9 +3110,9 @@
             "10"
         ],
         "id": 216,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LA FOURCHE",
@@ -3124,9 +3124,9 @@
             "13"
         ],
         "id": 217,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LA MUETTE",
@@ -3138,9 +3138,9 @@
             "9"
         ],
         "id": 218,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LAMARCK-CAULAINCOURT",
@@ -3152,9 +3152,9 @@
             "12"
         ],
         "id": 219,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LAUMIERE",
@@ -3166,9 +3166,9 @@
             "5"
         ],
         "id": 220,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Xavier, Jean-Marie, Clément Vernhet de Laumière est né en 1812, général d'artillerie au second empire, il participa à la campagne du Mexique destinée à mettre un empereur au pouvoir. Il fut vainqueur de la citadelle de Puebla et mourut de blessures en 1863.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LE KREMLIN-BICETRE",
@@ -3180,9 +3180,9 @@
             "7"
         ],
         "id": 221,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le nom \" Kremlin \" vient d'une enseigne d'une auberge, Le Nouveau Kremlin, qui accueillait de nombreux vétérans de retour de Russie après la retraite de l’armée napoléonienne en 1812.\n\nBicêtre provient de l’évêque de Winchester (Jean de Pontoise) qui fit construire un château sur les ruines de la Grange-aux-Queulx. La bâtisse féodale pris le nom de son seigneur : le château de Winchester. Un vocable qui sera à l'origne, par évolution phonétique et naturelle, d'une partie du nom de la commune : Winchester devenant Vincestre, puis Bichestre, Bicestre, enfin Bicêtre.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LES SABLONS (JARDIN D'ACCLIMATATION)",
@@ -3194,9 +3194,9 @@
             "1"
         ],
         "id": 222,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Sablons, nom d'une plaine en bord de Seine où l'on extrayait le sable pour des travaux de construction dans Paris. Parmentier acclimata au XVIIIème siècle la pomme de terre pour qu'elle remplace le pain en cas de famine. Malgré les réticences des paysans, Louis XVI fit garder ces plantations, qui commencèrent ensuite à être dérobées, par les paysans devenus intéressés.\n La station porte comme sous-titre \"Jardin d'Acclimatation\", du nom du parc de loisir et d'agrément dont elle assure la desserte, à la lisière nord du bois de Boulogne, rattaché à la ville de Paris depuis 1929.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LOUISE MICHEL",
@@ -3208,9 +3208,9 @@
             "3"
         ],
         "id": 223,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Louise Michel (1830- 1905), appelée Enjolras ou la Vierge rouge, est une institutrice militante anarchiste et l'une des figures majeures de la Commune de Paris. Première à arborer le drapeau noir, elle popularise celui-ci au sein du mouvement anarchiste. Elle fut déportée à Nouméa avant d'être graciée en 1880.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LOURMEL",
@@ -3222,9 +3222,9 @@
             "8"
         ],
         "id": 224,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Frédéric Henri Le Normand de Lourmel (1811-1854) est un général de brigade français, tué à la bataille d'Inkerman, en Crimée. Entré en 1828 à Saint-Cyr, il sert en Afrique à partir de 1841 et devient colonel en 1849. Il s'illustre notamment à la bataille de Zaatcha (Algérie) et lors de la campagne de Kabylie, en 1850. En 1852, sur proposition du ministre de la guerre, il est nommé aide de camp du prince président Napoléon III et reçoit le grade de général de brigade.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MAIRIE DE CLICHY",
@@ -3236,9 +3236,9 @@
             "13"
         ],
         "id": 225,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "OURCQ",
@@ -3250,9 +3250,9 @@
             "5"
         ],
         "id": 226,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "L'Ourcq dérivé d'Urc (855) est une rivière française affluente de la Marne en rive droite. Elle prend sa source au-dessus de Fère-en-Tardenois dans le département de l'Aisne. Cette petite rivière suit une large vallée et rejoint la Marne, au-dessous de Lizy-sur-Ourcq, après un cours d'environ 87 km. Une partie de son cours est détourné et canalisé au XIXème siècle pour devenir une voie fluviale importante approvisionnant Paris: le canal de l'Ourcq qui devient le canal Saint-Martin en entrant dans Paris.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PALAIS ROYAL-MUSEE DU LOUVRE",
@@ -3265,9 +3265,9 @@
             "7"
         ],
         "id": 227,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le Palais-Royal est un palais construit par Lemercier pour Richelieu en 1633 et un haut lieu historique situé dans le premier arrondissement de Paris, au nord du palais du Louvre. Il s'appelait à l'origine palais Cardinal et fut rebaptisé lorsqu'il fut légué en 1643 à la famille royale. Sa cour d'honneur accueille les colonnes de Daniel Buren et une sculpture de sphères de Pol Bury. Il intègre la Comédie-Française. \n Le musée du Louvre est l’ancienne résidence des rois de France, située rive droite de la Seine. C'est le plus grand musée parisien par sa surface (160 106 m² dont 58 470 consacrés aux expositions) et le plus long bâtiment d'Europe. La statue équestre de Louis XIV constitue le point de départ de l'axe historique, mais le palais n'est pas aligné sur cet axe. C'est l'un des plus anciens musées et le troisième plus grand au monde en termes de superficie. Le Louvre possède une longue histoire de conservation artistique et historique de la France, depuis les rois capétiens jusqu'à nos jours.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PASSY",
@@ -3279,9 +3279,9 @@
             "6"
         ],
         "id": 228,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station tire son nom de l'ancien village de Passy, et de la rue de Passy proche de la station. Les villages de Passy, Chaillot et Auteuil, annexés à Paris sous Napoléon III en 1860 forment, avec le bois de Boulogne, l'actuel XVIe arrondissement de Paris. A l'origine, le hameau apparut en 1250 sous le nom de Paciacum. Jeanne de Paillard fut le premier seigneur de Passy en 1416.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PELLEPORT",
@@ -3293,9 +3293,9 @@
             "3bis"
         ],
         "id": 229,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Pierre de Pelleport (1773-1855), général français dont on dit qu'il fut blessé après trente coups de sabre et cinq coups de baïonnettes lors de la bataille d'Eylau en 1807. Il s'engagea sous le Consulat et servit les armées de la restauration. Il fit partie de la chambre des Pairs à partir de 1841.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PERNETY",
@@ -3307,9 +3307,9 @@
             "13"
         ],
         "id": 230,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PHILIPPE AUGUSTE",
@@ -3321,9 +3321,9 @@
             "2"
         ],
         "id": 231,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Philippe II dit Philippe Auguste, (1165-1223), est le septième roi de la dynastie dite des Capétiens directs. Il est le fils héritier de Louis VII dit le Jeune et d'Adèle de Champagne. Philippe Auguste reste l'un des monarques les plus admirés et étudiés de la France médiévale, en raison non seulement de la longueur de son règne, mais aussi de ses importantes victoires militaires et des progrès essentiels accomplis pour affermir le pouvoir royal et mettre fin à l'époque féodale.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PICPUS",
@@ -3335,9 +3335,9 @@
             "6"
         ],
         "id": 232,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La dénomination de la station renvoie à l'ancien hameau de Picque-Puce (actuel quartier de Picpus). Si son étymologie demeure incertaine, les frères Lazare pensaient qu'elle provenait d’une épidémie ressemblant à des piqûres d’insectes. Elle aurait été soignée miraculeusement par un religieux qui s’installa dans le village. Ce dernier prit alors le nom de Picque-Puce. Il s'étendait de la porte actuelle de Picpus vers le nord à Charonne.\n \nEn sous-titre, la station porte également le nom de Courteline. Georges Courteline, de son vrai nom Georges Victor Marcel Moinaux (1858-1929), était un romancier et dramaturge français. Ses récits les plus connus sont Les gaîtés de l'escadron, Le train de 8h47, Boubouroche et La Paix chez soi.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PIERRE CURIE",
@@ -3349,9 +3349,9 @@
             "7"
         ],
         "id": 233,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Pierre Curie (1859- 1906) est un physicien autodidacte français. Il est principalement connu pour ses travaux en radioactivité et en piézoélectricité. Marie Curie (1867-1934) est une physicienne et chimiste polonaise, naturalisée française. Ensemble, ils reçurent le prix Nobel de physique en 1903, avec Henri Becquerel pour leurs travaux sur l’étude des radiations.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PONT DE NEUILLY (AVENUE DE MADRID)",
@@ -3363,9 +3363,9 @@
             "1"
         ],
         "id": 234,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Pont construit au-dessus de la Seine entre 1766 et 1772 par Perronet en remplacement d'un pont de bois du XVIIème et d'un bac originaire du XIIème siècle.\n La station est baptisée \"Pont de Neuilly - Avenue de Madrid\" de 1940 à 1950 afin de souligner son implantation au croisement de l'avenue de Madrid, laquelle tire son nom de la capitale de l'Espagne.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SOLFERINO",
@@ -3377,9 +3377,9 @@
             "12"
         ],
         "id": 235,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE SAINT-OUEN",
@@ -3391,9 +3391,9 @@
             "13"
         ],
         "id": 236,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE VANVES",
@@ -3405,9 +3405,9 @@
             "13"
         ],
         "id": 237,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE VINCENNES",
@@ -3419,9 +3419,9 @@
             "1"
         ],
         "id": 238,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Ancienne porte de l'enceint de Thiers qui permettait l'accès à la commune de Vincennes, connue pour son château et son donjon datant du XIIème siècle mais aussi son célèbre zoo et son bois.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "QUATRE SEPTEMBRE",
@@ -3433,9 +3433,9 @@
             "3"
         ],
         "id": 239,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "A cette date en 1870 la IIIème république fut proclamée par le gouvernement de Défense nationale auquel participait Gambetta. Ce fut la fin du second empire.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ROME",
@@ -3447,9 +3447,9 @@
             "2"
         ],
         "id": 240,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La rue de Rome qui fait partie du quartier de l'Europe, rappelle la capitale de l'Italie et le chef-lieu de la région du Latium et de la province de Rome. Cette ville fut dans l'Antiquité la capitale de l'Empire romain. Elle est située dans le centre du pays, sur le Tibre, à 22 km de la mer Tyrrhénienne. Elle est parfois appelée la ville aux sept collines (Aventin, Cælius, Capitole, Esquilin, Palatin, Quirinal et Viminal), la Ville éternelle ou \"l'Urbe\" (la Ville par excellence). Rome est le siège de Pierre, la capitale de la chrétienté.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-MARCEL",
@@ -3461,9 +3461,9 @@
             "5"
         ],
         "id": 241,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à sa proximité avec l'amorce du boulevard Saint-Marcel, lequel rend hommage au neuvième évêque de Paris, mort en 436 et célèbre pour ses miracles. D'après la légende la plus célèbre, il délivra Paris d’un dragon monstrueux, changea l’eau de la Seine en vin et convertit en masse les païens.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-MICHEL",
@@ -3475,9 +3475,9 @@
             "4"
         ],
         "id": 242,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Chef de la milice céleste des anges du Bien, il est principalement représenté au moment de la fin des temps (Apocalypse / fondation du Royaume de Dieu) en chevalier ailé sauroctone, qui terrasse le Diable durant la guerre des anges. On le reconnaît également avec la balance de la Pesée des âmes du Jour du jugement, juge et guide du salut des âmes pour l'Enfer ou le Paradis (allégorie symbolique de la victoire finale du Bien sur le mal).",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "VARENNE",
@@ -3489,9 +3489,9 @@
             "13"
         ],
         "id": 243,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "VAVIN",
@@ -3503,9 +3503,9 @@
             "4"
         ],
         "id": 244,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "En hommage à Alexis Vavin né le 12 septembre 1792 à Paris et mort le 2 décembre 1863 à Paris. Homme politique français du XIXe siècle, élu député de Paris en 1839, il est inhumé au cimetière du Père-Lachaise (39e division).",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LES AGNETTES-ASNIERES-GENNEVILLIERS",
@@ -3517,9 +3517,9 @@
             "13"
         ],
         "id": 245,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "TUILERIES",
@@ -3531,9 +3531,9 @@
             "1"
         ],
         "id": 246,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Ancienne résidence des rois de France, construite en 1564 pour Catherine de Médicis par Philibert Delorme et Jean Bullant sur l'emplacement d'anciennes fabriques de tuiles qui lui donnèrent son nom.  \n Seuls les nobles avaient le droit de pénétrer dans le palais avant la révolution, sauf le dimanche ou les portes étaient ouvertes au peuple. Sous la commune le palais fut incendié, il fut démoli en 1882.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "VILLIERS",
@@ -3546,9 +3546,9 @@
             "3"
         ],
         "id": 247,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à sa proximité avec l'avenue de Villiers, dont le nom fait référence à l'ancien village de Villiers-la-Garenne. Le nom de cet ancien hameau est une déformation de \" Villare \", signifiant \"domaine rural\", ce village fut annexé à Paris en 1860.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ABBESSES",
@@ -3560,9 +3560,9 @@
             "12"
         ],
         "id": 248,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "test 2",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BIR-HAKEIM (GRENELLE)",
@@ -3574,9 +3574,9 @@
             "6"
         ],
         "id": 249,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Bir Hakeim place forte en Libye, fût le lieu de la bataille de Bir Hakeim en mai et juin 1942 au cours de laquelle la brigade française libre du général Koenig freina l'avancée du maréchal Rommel, permettant aux troupes britanniques de se replier et de vaincre quelques semaines plus tard à El Alamein.\nLa station a pour sous-titre \" Grenelle \",  à cause de son implantation sur le boulevard de Grenelle dont le nom renvoie à l’ancienne commune éponyme.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BOISSIERE",
@@ -3588,9 +3588,9 @@
             "6"
         ],
         "id": 250,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à sa proximité avec la rue Boissière, laquelle tire son nom de son voisinage avec l'ancienne Croix Boissière, une croix ornée de buis les jours de fête, comme le dimanche des Rameaux.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "BOLIVAR",
@@ -3602,9 +3602,9 @@
             "7b"
         ],
         "id": 251,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Simón Bolívar, surnommé El Libertador, est né le 24 juillet 1783 au Venezuela et mort le 17 décembre 1830 en Colombie. Il fut un général et homme politique sud-américain, patriote, chef des guerres d'indépendance des colonies espagnoles d'Amérique du Sud dès 1813.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ALEXANDRE DUMAS",
@@ -3616,9 +3616,9 @@
             "2"
         ],
         "id": 252,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "De son vrai nom Alexandre Davy de La Pailleterie (1802-1870), cet écrivain français est connu pour ses romans à trame historique tels que Le comte de Monte-Cristo, Les trois Mousquetaires et Vingt ans après.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "COURCELLES",
@@ -3630,9 +3630,9 @@
             "2"
         ],
         "id": 253,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à son implantation au croisement du boulevard de Courcelles d'une part et de la rue de Courcelles d'autre part, cette dernière tenant elle-même ce nom d'un hameau auquel elle conduisait directement via la barrière de Courcelles, une porte du mur des Fermiers généraux localisée à l'emplacement actuel de la station.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CRETEIL-PREFECTURE (HOTEL DE VILLE)",
@@ -3644,9 +3644,9 @@
             "8"
         ],
         "id": 254,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Créteil est une ville de la banlieue sud-est de Paris, préfecture du département du Val-de-Marne. Sa dénomination provient du nom \" cristoïlum \" signifiant la clairière sur la crête.\n\nLa station dessert la préfecture du département du Val-de-Marne, située à environ 750 mètres.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "DANUBE",
@@ -3658,9 +3658,9 @@
             "7b"
         ],
         "id": 255,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à son implantation sous la place du Danube, rebaptisée place Rhin-et-Danube en 1951 en souvenir de la première armée française qui s'illustra, entre 1943 et 1945, à la campagne d'Italie, au débarquement de Provence, puis combattit sur le Rhin et le Danube lors de la Seconde Guerre mondiale.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "EGLISE DE PANTIN",
@@ -3672,9 +3672,9 @@
             "5"
         ],
         "id": 256,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Classée Monument Historique en 1978, l’église Saint Germain est le plus vieux bâtiment de Pantin. Construite en 1664, elle fait l’objet de travaux de consolidation et de reconstruction incessants. ",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CADET",
@@ -3686,9 +3686,9 @@
             "7"
         ],
         "id": 257,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La rue Cadet s’appelait au XVIIe siècle rue de la Voirie, à cause d’un dépôt d’immondices favorables aux cultures maraîchères qui y poussaient. Elle traversait un ancien clos appartenant à M. Cadet de Chambine, qui fut maire de Montmorency sous la Seconde Restauration et propriétaire des terrains où se situe l’actuelle rue.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CENSIER-DAUBENTON",
@@ -3700,9 +3700,9 @@
             "7"
         ],
         "id": 258,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "L’appellation Censier est dérivée du nom originel de la rue \" rue Sans Chef \", signifiant cul-de-sac. Cette voie se terminait initialement en impasse depuis la rue Mouffetard.\n\nLouis Jean-Marie d’Aubenton (1716-1800), dit Daubenton, est un naturaliste français. Il collabora avec Buffon sur son Histoire naturelle, il introduisit la race de mouton Mérinos en France et fut le premier directeur du Muséum national d'histoire naturelle face auquel débouche la rue.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CHEMIN VERT",
@@ -3714,9 +3714,9 @@
             "8"
         ],
         "id": 259,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à sa proximité avec la rue du Chemin-Vert, laquelle fut construite sur l’emplacement d’un sentier existant depuis 1650 qui cheminait au milieu des cultures maraîchères.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CORENTIN CARIOU",
@@ -3728,9 +3728,9 @@
             "7"
         ],
         "id": 260,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Corentin Cariou, né le 14 Décembre 1898 à Loctudy (Finistère) et mort le 7 mars 1942 dans la forêt d'Ourscamp-Carlepont, est un homme politique français, conseiller municipal communiste du 19e arrondissement de Paris. Il est fusillé comme otage par les Allemands sous l'Occupation.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GARIBALDI",
@@ -3742,9 +3742,9 @@
             "13"
         ],
         "id": 261,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GONCOURT (HOPITAL SAINT-LOUIS)",
@@ -3756,9 +3756,9 @@
             "11"
         ],
         "id": 262,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GALLIENI (PARC DE BAGNOLET)",
@@ -3770,9 +3770,9 @@
             "3"
         ],
         "id": 263,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "Joseph Simon Gallieni (1849-1916) fut un militaire français de la fin du XIXe siècle, qui exerça une grande partie de son activité dans les opérations de colonisation menées par la France, comme administrateur colonial, laissant une empreinte profonde sur l'histoire de la colonisation française, et termina sa carrière pendant la Première Guerre mondiale. Il fut fait maréchal à titre posthume en 1921.\nLa station porte comme sous-titre Parc de Bagnolet en raison de sa proximité avec l'extrémité nord-ouest du parc départemental Jean-Moulin - Les Guilands, partagé entre les communes de Bagnolet d'une part et Montreuil d'autre part.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "GUY MOQUET",
@@ -3784,9 +3784,9 @@
             "13"
         ],
         "id": 264,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "INVALIDES",
@@ -3799,9 +3799,9 @@
             "13"
         ],
         "id": 265,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "L'hôtel national des Invalides est un monument parisien dont la construction fut ordonnée par Louis XIV par l'ordonnance du 24 février 1670, pour abriter les invalides de ses armées. Conçu par Libéral Bruand et Jules Hardouin-Mansart, il est l’un des chefs-d’œuvre les plus importants de l'architecture classique française.\nAujourd'hui, il accueille toujours des invalides, mais également plusieurs musées et une nécropole militaire avec notamment le tombeau de Napoléon Ier.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MALAKOFF-RUE ÉTIENNE DOLET",
@@ -3813,9 +3813,9 @@
             "13"
         ],
         "id": 266,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MARAICHERS",
@@ -3827,9 +3827,9 @@
             "9"
         ],
         "id": 267,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MONCEAU",
@@ -3841,9 +3841,9 @@
             "2"
         ],
         "id": 268,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La station doit son nom au village de Monceaux anciennement Montchauf qui était une bourgade au XVème siècle. Le parc Monceau de même nom est une acquisition de Philippe d'Orléans en 1778 et Lavoisier en fit aussi son lieu de villégiature.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LA TOUR MAUBOURG",
@@ -3855,9 +3855,9 @@
             "8"
         ],
         "id": 269,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le marquis Victor de Faÿ de Latour-Maubourg (1768-1850), émigré lors de la Révolution, fut général de division sous le Premier Empire (1807) et ministre de la Guerre de 1819 à 1821. De 1821 à 1830, il exerça en tant que gouverneur de l’hôtel des Invalides, à l'ouest duquel se trouve la station.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LE PELETIER",
@@ -3869,9 +3869,9 @@
             "7"
         ],
         "id": 270,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Louis Le Peletier de Mortefontaine (1730-1789), est l’avant-dernier prévôt des marchands de Paris, de 1784 à 1789.  Au Moyen Âge et sous l'Ancien Régime, le prévôt était un agent du seigneur ou du Roi chargé de rendre la justice et d'administrer le domaine qui lui était confié. Près de la localisation actuelle de la station, la salle Le Peletier fut la salle de l’Opéra de Paris durant un demi-siècle, de son inauguration en 1821 à sa destruction à la suite d'un incendie, en 1873.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LEDRU-ROLLIN",
@@ -3883,9 +3883,9 @@
             "8"
         ],
         "id": 271,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Alexandre Ledru-Rollin (1807-1874) est un avocat et homme politique français. Républicain progressiste, il est l'un des chefs de file de la campagne des Banquets qui aboutit à la révolution de 1848 et à la Deuxième République. Il devient ministre de l’intérieur du gouvernement provisoire et fait adopter par décret le suffrage universel masculin. Lors de l’élection présidentielle de 1848, il n’obtient que 5% des suffrages. Député à l'Assemblée législative, il s'opposa violemment à la politique de Louis-Napoléon Bonaparte. Il tenta d’organiser un soulèvement en juin 1849 mais fut déchu de son mandat de représentant de la nation. Il parvint à s’enfuir en Angleterre afin d’échapper aux déportations d'opposants.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "LOUVRE-RIVOLI",
@@ -3897,9 +3897,9 @@
             "1"
         ],
         "id": 272,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "-\tLe musée du Louvre est l’ancienne résidence des rois de France, située rive droite de la Seine. C'est le plus grand musée parisien par sa surface (160 106 m² dont 58 470 consacrés aux expositions) et le plus long bâtiment d'Europe. La statue équestre de Louis XIV constitue le point de départ de l'axe historique, mais le palais n'est pas aligné sur cet axe. C'est l'un des plus anciens musées et le troisième plus grand au monde en termes de superficie. Le Louvre possède une longue histoire de conservation artistique et historique de la France, depuis les rois capétiens jusqu'à nos jours. \n -\tLa rue de Rivoli rappelle la bataille gagnée par Napoléon contre les Autrichiens pendant la campagne d'Italie. Rivoli est une ville italienne de la province de Turin dans le Piémont au débouché du val de Suse.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MAIRIE DE SAINT-OUEN",
@@ -3911,9 +3911,9 @@
             "13"
         ],
         "id": 273,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MAIRIE DES LILAS",
@@ -3925,9 +3925,9 @@
             "11"
         ],
         "id": 274,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MAIRIE D'IVRY",
@@ -3939,9 +3939,9 @@
             "7"
         ],
         "id": 275,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "Ivry-sur-Seine est une commune du sud de Paris, située dans le Val-de-Marne. \" Ivry \" provient du gaulois \" Eburiacum \", signifiant \" lieu des ifs \". \" Sur-Seine \" notifie le fait que la Seine borde le flanc est de la ville.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MAISONS-ALFORT-LES JUILLIOTTES",
@@ -3953,9 +3953,9 @@
             "8"
         ],
         "id": 276,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le nom de Maisons-Alfort proviendrait du seigneur d’Herefort ou Harrefort (au 12e siècle). Le temps passant, le nom se transforma petit à petit pour devenir Hallefort (mentionné en 1612), puis Halefort, et enfin Alfort.\n\nLes Juilliottes est un quartier de la ville proche de la station.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "MAISON BLANCHE",
@@ -3967,9 +3967,9 @@
             "7"
         ],
         "id": 277,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le hameau de la Maison-Blanche, autrefois situé à hauteur de la station, tient son nom d'une auberge ainsi nommée, que l'on dit avoir appartenu au père de l'historien Victor Duruy.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PARMENTIER",
@@ -3981,9 +3981,9 @@
             "3"
         ],
         "id": 278,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Antoine Augustin Parmentier (1737-1813) est un agronome, nutritionniste et hygiéniste français Il fait son apprentissage de la pharmacie chez un apothicaire de sa ville natale, puis à Paris. À 20 ans, il est pharmacien aux armées pendant la guerre de Sept Ans, contre la Grande-Bretagne et la Prusse. Au cours de son incarcération en Allemagne, il découvre la qualité nutritive d’une plante de la famille des solanacées: la pomme de terre.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "NOTRE-DAME-DE-LORETTE",
@@ -3995,9 +3995,9 @@
             "12"
         ],
         "id": 279,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "POISSONNIERE",
@@ -4009,9 +4009,9 @@
             "7"
         ],
         "id": 280,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le nom de la station vient de son implantation à proximité du faubourg Poissonnière et de la rue Poissonnière, laquelle formait une partie de l’ancien chemin des poissonniers (également desservi par la station Marcadet-Poissonniers sur la ligne 4), emprunté dès 1307 par les marchands de poissons pêchés dans la mer du Nord et acheminés jusqu'aux halles de Paris.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PONT-MARIE (CITE DES ARTS)",
@@ -4023,9 +4023,9 @@
             "7"
         ],
         "id": 281,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Le Pont Marie franchit la Seine et relie l'île Saint-Louis au quai de l'Hôtel de Ville. Sa construction s'étala sur 20 ans, entre 1614 et 1635. Le pont Marie doit son nom à l'ingénieur-entrepreneur Christophe Marie. Il est l’un des plus ancien de Paris et est classé au titre des monuments historiques depuis le 10 février 1887.\n\nLa station a pour sous-titre \"Cité internationale des arts\", ouverte en 1965 par Félix Bruneau, elle accueille en résidence des artistes du monde entier.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DAUPHINE",
@@ -4037,9 +4037,9 @@
             "2"
         ],
         "id": 282,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "Elle doit sa dénomination à son implantation sous la porte Dauphine, laquelle se situait à l'extrémité de la Belle Faisanderie de Marie-Antoinette, alors épouse du dauphin, et qui a donné son nom au quartier éponyme. \nLa station porte comme sous-titre Maréchal de Lattre de Tassigny du fait de sa situation sous la place de même nom, laquelle rend hommage à Jean de Lattre de Tassigny (1889-1952). Né d'une vieille famille aristocratique des Flandres françaises, il commanda la 1ère Armée française et devint ensuite haut-commissaire et commandant en chef durant la guerre d'Indochine. Il fut fait maréchal à titre posthume en 1952. ",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE CHAMPERRET",
@@ -4051,9 +4051,9 @@
             "3"
         ],
         "id": 283,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Dérivé de \"champ de Perret\", du nom du premier propriétaire des terrains de ce lieu, ce hameau fut rattaché à Levallois et intégra la commune de Levallois-Perret en 1867.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "PORTE DE CHOISY",
@@ -4065,9 +4065,9 @@
             "7"
         ],
         "id": 284,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La rue de Choisy conduisait au XVIIème à Choisy-le-Roi, au sud de Paris. L’origine du nom Choisy vient du latin \" sociusacum \" : le domaine de Socius, propriétaire des lieux à l’époque gallo-romaine. Par évolution de la langue, Socius devint Choisi puis Choisy.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-SULPICE",
@@ -4079,9 +4079,9 @@
             "4"
         ],
         "id": 285,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SEGUR",
@@ -4093,9 +4093,9 @@
             "10"
         ],
         "id": 286,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "QUAI DE LA GARE",
@@ -4107,9 +4107,9 @@
             "6"
         ],
         "id": 287,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle doit sa dénomination à sa proximité avec le quai de la Gare sur la rive gauche de la Seine, ainsi baptisé en mémoire de la gare fluviale d'Ivry élevée près de l'hôpital de la Salpêtrière à partir de la fin du règne de Louis XV, et qui a donné son nom à l'actuel quartier de la Gare au nord-est duquel se trouve la station.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "RAMBUTEAU",
@@ -4121,9 +4121,9 @@
             "11"
         ],
         "id": 288,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "RANELAGH",
@@ -4135,9 +4135,9 @@
             "9"
         ],
         "id": 289,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "REUILLY-DIDEROT",
@@ -4150,9 +4150,9 @@
             "8"
         ],
         "id": 290,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "La rue de Reuilly doit son nom à l’ancien hameau de Reuilly, disparu avec l'extension du faubourg Saint-Antoine. Denis Diderot (1713-1784) est un écrivain et un philosophe du siècle des Lumières ; il dirige, avec Jean d’Alembert, la réalisation de l’Encyclopédie. Il fut un des grands animateurs intellectuels du XVIIIème siècle.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "ROBESPIERRE",
@@ -4164,9 +4164,9 @@
             "9"
         ],
         "id": 291,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "RUE DE LA POMPE (AVENUE GEORGES MANDEL)",
@@ -4178,9 +4178,9 @@
             "9"
         ],
         "id": 292,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-AUGUSTIN",
@@ -4192,9 +4192,9 @@
             "9"
         ],
         "id": 293,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-DENIS-UNIVERSITE",
@@ -4206,9 +4206,9 @@
             "13"
         ],
         "id": 294,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-GERMAIN-DES-PRES",
@@ -4220,9 +4220,9 @@
             "4"
         ],
         "id": 295,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "L'actuelle abbaye de Saint-Germain-des-Prés a été fondée à l'emplacement de l'église que fit construire le roi mérovingien Childebert Ier pour glorifier la relique de Saint Vincent. Les historiens considèrent généralement que cette église est la plus ancienne de Paris. Sa construction, tour et nef, remonte à l'époque romane (XIème - XIIème siècles).\nElle tient son nom de Saint Germain (496-576) évêque de Paris en 555 qui fonda et administra l'abbaye de Saint-Germain-des-Prés avec Childebert Ier.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-JACQUES",
@@ -4234,9 +4234,9 @@
             "6"
         ],
         "id": 296,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Elle tient son nom de sa situation au sein de l'ancien faubourg Saint-Jacques, au croisement du boulevard Saint-Jacques et des rues du Faubourg-Saint-Jacques et de la Tombe-Issoire. Son nom est dû à une ancienne chapelle Saint-Jacques, donnée au XIIIe siècle aux Dominicains, surnommés depuis Jacobins.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "SAINT-MANDE",
@@ -4248,9 +4248,9 @@
             "1"
         ],
         "id": 297,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Ermite breton du VIIème siècle dont les reliques furent portées en région parisienne. Un prieuré, construit à l'endroit de sa sépulture donne son nom à cette commune résidentielle du sud-ouest de Paris",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "VOLTAIRE (LEON BLUM)",
@@ -4262,9 +4262,9 @@
             "9"
         ],
         "id": 298,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "WAGRAM",
@@ -4276,9 +4276,9 @@
             "3"
         ],
         "id": 299,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "Wagram est un plateau situé au nord-est de Vienne. La bataille de Wagram, se déroula autour de l’île de Lobau sur le Danube en 1809 et eut pour résultat la victoire de la Grande Armée française, sous le commandement de Napoléon Ier, sur l’armée autrichienne dirigée par l’Archiduc Charles. Napoléon a fait préparer son attaque, notamment les ponts et les positions d’artillerie, car il voulait cette bataille avant l’arrivée des troupes de l’archiduc Jean forcées de venir à pied depuis l’Italie.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "TRINITE-D'ESTIENNE D'ORVES",
@@ -4290,9 +4290,9 @@
             "12"
         ],
         "id": 300,
-        "displayed_at_minzoom": false,
+        "displayedAtMinzoom": false,
         "description": "",
-        "path_img_principale": ""
+        "pathMainImage": ""
     },
     {
         "name": "CRETEIL-POINTE DU LAC",
@@ -4304,8 +4304,8 @@
             "8"
         ],
         "id": 301,
-        "displayed_at_minzoom": true,
+        "displayedAtMinzoom": true,
         "description": "Créteil est une ville de la banlieue sud-est de Paris, préfecture du département du Val-de-Marne. Sa dénomination provient du nom \" cristoïlum \" signifiant la clairière sur la crête.\n\nLe quartier de la Pointe du Lac est un quartier très récent de Créteil, sa mise en chantier datant seulement de 2006. La station permet de relier le quartier de la pointe du Lac, le parc des sports (dont le stade de football de l'US Créteil) et le quartier d'affaires d'Europarc au réseau du métro de Paris.",
-        "path_img_principale": ""
+        "pathMainImage": ""
     }
 ]
